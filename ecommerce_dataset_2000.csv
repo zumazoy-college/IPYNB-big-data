@@ -1,0 +1,2001 @@
+order_id,user_id,product,category,price,quantity,order_date,country,payment_method,rating
+O11860,U581,Router,Networking,101.63,4,2023-12-08,Italy,Card,3.0
+O10353,U228,Camera,Electronics,1104.69,2,2023-12-07,France,Apple Pay,4.0
+O11333,U410,Smartphone,Electronics,1037.9,4,2023-06-15,USA,,1.0
+O10905,U372,Mouse,Accessories,1131.14,3,2023-12-17,Poland,Apple Pay,2.0
+O11289,U545,Speaker,Electronics,1328.83,2,2023-02-18,UK,Bank Transfer,4.0
+O11273,U734,Keyboard,Accessories,675.39,5,2023-05-31,Germany,Bank Transfer,2.0
+O10938,U860,Speaker,Electronics,355.25,1,2023-11-17,Italy,Bank Transfer,3.0
+O11731,U463,Camera,Electronics,403.91,1,2023-12-31,Poland,PayPal,5.0
+O10065,U203,Smartphone,Electronics,396.16,2,2023-09-30,USA,Google Pay,4.0
+O11323,U370,Smartwatch,Electronics,533.5,4,2023-09-22,France,Apple Pay,1.0
+O10056,U382,Router,Networking,,3,2023-09-21,Canada,Card,3.0
+O11292,U796,Keyboard,Accessories,710.98,2,2023-03-21,Poland,Google Pay,4.0
+O11118,U869,Headphones,Electronics,855.59,2,2023-04-21,USA,Apple Pay,5.0
+O10584,U255,Smartphone,Electronics,1201.6,3,2023-07-14,France,Google Pay,3.0
+O10374,U593,Printer,Office,170.1,5,2023-02-21,France,PayPal,2.0
+O10275,U562,Headphones,Electronics,1281.25,2,2023-01-09,Poland,Card,4.0
+O10746,U921,Router,Networking,1105.56,3,2023-05-08,Poland,Card,4.0
+O10128,U204,Smartphone,Electronics,1266.34,5,2023-04-08,USA,Bank Transfer,3.0
+O11646,U961,Smartwatch,Electronics,1189.39,4,2023-02-11,USA,Bank Transfer,2.0
+O11852,U266,Keyboard,Accessories,196.52,3,2023-03-26,Poland,Bank Transfer,2.0
+O10674,U555,Laptop,Electronics,875.88,3,2023-06-30,France,Apple Pay,4.0
+O11664,U946,Router,Networking,848.5,4,2023-09-02,UK,Apple Pay,2.0
+O10161,U376,Smartwatch,Electronics,1401.86,5,2023-05-30,Spain,Apple Pay,2.0
+O11083,U543,Printer,Office,841.0,2,2023-11-11,Germany,Bank Transfer,2.0
+O11922,U982,Monitor,Electronics,1269.72,2,2023-08-19,Spain,Apple Pay,1.0
+O10099,U605,Headphones,Electronics,1436.07,4,2023-12-05,Italy,Google Pay,4.0
+O11179,U581,Smartphone,Electronics,,3,2023-02-26,Poland,Bank Transfer,5.0
+O10964,U614,Smartphone,Electronics,1179.28,3,2023-09-08,UK,Apple Pay,
+O10792,U338,Camera,Electronics,633.48,1,2023-10-12,Italy,Google Pay,4.0
+O10029,U895,Smartphone,Electronics,1216.02,1,2023-05-14,Italy,Bank Transfer,5.0
+O10628,U549,Camera,Electronics,378.5,4,2023-11-18,USA,Bank Transfer,4.0
+O10944,U125,Laptop,Electronics,1401.95,1,2023-08-05,Canada,Card,5.0
+O10572,U772,Printer,Office,1036.15,2,2023-11-20,USA,Apple Pay,3.0
+O10907,U592,Monitor,Electronics,593.24,2,2023-04-12,France,Apple Pay,5.0
+O11080,U111,Smartphone,Electronics,1266.4,1,2023-11-02,Poland,Bank Transfer,
+O10450,U764,Speaker,Electronics,184.0,2,2023-07-02,France,Card,3.0
+O11609,U805,Mouse,Accessories,759.53,3,2023-12-25,,Card,4.0
+O11290,U935,Speaker,Electronics,640.62,1,2023-02-28,Italy,Google Pay,3.0
+O11078,U114,Keyboard,Accessories,401.99,5,2023-11-23,Canada,Bank Transfer,4.0
+O10254,U463,Smartphone,Electronics,1050.51,2,2023-07-02,Poland,Bank Transfer,3.0
+O10124,U549,Router,Networking,1425.7,5,2023-10-30,Poland,Google Pay,1.0
+O11927,U834,Keyboard,Accessories,160.68,4,2023-04-24,Poland,Bank Transfer,2.0
+O10251,U576,Mouse,Accessories,190.62,3,2023-08-03,Canada,,3.0
+O10585,U771,Tablet,Electronics,1143.84,3,2023-02-17,Canada,Bank Transfer,3.0
+O11568,U456,Smartwatch,Electronics,108.96,2,2023-05-20,Germany,Google Pay,2.0
+O10824,U569,Monitor,Electronics,1165.97,2,2023-09-02,Italy,Google Pay,4.0
+O10507,U754,Smartwatch,Electronics,826.37,4,2023-08-02,USA,Apple Pay,2.0
+O10889,U305,Keyboard,Accessories,873.39,1,2023-01-06,Italy,Card,2.0
+O10070,U797,Headphones,Electronics,668.94,3,2023-06-02,UK,Bank Transfer,3.0
+O11608,U714,Smartwatch,Electronics,502.64,2,2023-03-12,Italy,Bank Transfer,5.0
+O11532,U853,Keyboard,Accessories,621.5,4,2023-02-22,UK,Card,
+O10247,U367,Router,Networking,963.1,1,2023-03-30,Canada,Bank Transfer,2.0
+O11450,U787,Printer,Office,1059.08,1,2023-06-03,Germany,Card,3.0
+O10212,U154,Keyboard,Accessories,1152.73,4,2023-09-21,Canada,Card,5.0
+O10909,U203,Tablet,Electronics,64.55,3,2023-03-04,France,Apple Pay,5.0
+O11741,U420,Tablet,Electronics,130.15,2,2023-04-03,France,PayPal,1.0
+O11244,U559,Camera,Electronics,294.95,5,2023-12-28,Poland,PayPal,3.0
+O11696,U373,Tablet,Electronics,995.85,1,2023-10-12,Canada,PayPal,5.0
+O11182,U779,Printer,Office,269.84,5,2023-02-23,Spain,Card,2.0
+O10361,U593,Smartphone,Electronics,1320.2,5,2023-04-12,France,Bank Transfer,5.0
+O11473,U772,Smartphone,Electronics,859.82,2,2023-08-04,Canada,PayPal,2.0
+O10678,U665,Router,Networking,953.76,3,2023-09-05,Spain,Apple Pay,3.0
+O11621,U251,Router,Networking,302.77,3,2023-11-30,Poland,Card,4.0
+O11089,U210,Router,Networking,1385.2,5,2023-04-24,USA,Card,2.0
+O11695,U563,Camera,Electronics,1398.96,4,2023-02-14,USA,PayPal,3.0
+O11847,U181,Keyboard,Accessories,750.9,2,2023-03-28,France,Card,5.0
+O10987,U949,Laptop,Electronics,1016.18,4,2023-02-19,UK,Bank Transfer,1.0
+O11512,U222,Speaker,Electronics,808.61,4,2023-07-13,France,Google Pay,4.0
+O10111,U100,Speaker,Electronics,1116.64,5,2023-12-27,USA,Google Pay,4.0
+O11487,U552,Speaker,Electronics,589.96,4,2023-03-31,Spain,Apple Pay,1.0
+O11453,U249,Monitor,Electronics,342.23,2,2023-03-11,Poland,Bank Transfer,3.0
+O10383,U149,Tablet,Electronics,370.57,5,2023-03-09,Spain,,4.0
+O11395,U761,Smartwatch,Electronics,1060.85,2,2023-07-23,USA,PayPal,4.0
+O11054,U255,Printer,Office,857.46,1,2023-05-26,UK,Apple Pay,2.0
+O10755,U934,Monitor,Electronics,979.79,5,2023-10-17,Spain,Bank Transfer,3.0
+O10324,U186,Camera,Electronics,669.14,2,2023-01-12,Canada,Bank Transfer,4.0
+O11623,U276,Router,Networking,63.1,4,2023-10-23,Poland,Card,3.0
+O10787,U410,Tablet,Electronics,1246.26,1,2023-08-25,Italy,Card,2.0
+O10368,U320,Speaker,Electronics,1428.19,2,2023-04-27,USA,Bank Transfer,2.0
+O11819,U563,Printer,Office,138.53,4,2023-04-17,France,Card,2.0
+O10069,U191,Headphones,Electronics,1197.77,4,2023-05-23,USA,Bank Transfer,3.0
+O10857,U265,Laptop,Electronics,691.3,4,2023-08-10,France,Google Pay,3.0
+O11483,U816,Speaker,Electronics,828.45,2,2023-11-28,Spain,Bank Transfer,5.0
+O11555,U952,Smartwatch,Electronics,1090.83,5,2023-07-05,Poland,Google Pay,1.0
+O11691,U184,Speaker,Electronics,764.55,5,2023-10-14,UK,Card,2.0
+O11474,U130,Laptop,Electronics,611.49,3,2023-08-08,Poland,Bank Transfer,3.0
+O11798,U654,Laptop,Electronics,126.53,2,2023-05-11,Canada,Apple Pay,2.0
+O10478,U402,Tablet,Electronics,,3,2023-09-08,USA,Apple Pay,
+O10281,U670,Speaker,Electronics,1200.19,4,2023-12-19,UK,Apple Pay,5.0
+O11647,U352,Keyboard,Accessories,733.79,2,2023-02-25,Italy,,5.0
+O11556,U752,Keyboard,Accessories,1033.81,3,2023-05-01,Canada,PayPal,3.0
+O11729,U399,Speaker,Electronics,913.63,5,2023-07-26,Italy,,
+O10210,U868,Laptop,Electronics,1258.12,3,2023-01-18,UK,,4.0
+O10297,U496,Tablet,Electronics,1495.74,1,2023-04-09,Spain,,5.0
+O11884,U180,Smartphone,Electronics,1094.76,5,2023-03-10,Spain,Google Pay,2.0
+O11833,U326,Router,Networking,813.89,1,2023-05-02,Italy,Card,4.0
+O10651,U748,Smartwatch,Electronics,635.38,2,2023-01-16,Italy,Google Pay,4.0
+O11233,U792,Monitor,Electronics,1244.96,5,2023-01-23,Canada,Apple Pay,3.0
+O11502,U414,Headphones,Electronics,1031.32,2,2023-01-31,Germany,Card,5.0
+O11931,U775,Monitor,Electronics,1251.6,2,2023-10-28,Canada,Bank Transfer,1.0
+O10916,U466,Smartwatch,Electronics,1404.52,2,2023-05-17,Italy,Bank Transfer,2.0
+O10993,U243,Smartphone,Electronics,935.78,1,2023-12-18,USA,Apple Pay,4.0
+O10429,U112,Router,Networking,1145.23,2,2023-03-06,Germany,Google Pay,1.0
+O11370,U510,Router,Networking,988.25,2,2023-07-22,Italy,Bank Transfer,2.0
+O10239,U343,Mouse,Accessories,818.97,3,2023-08-15,Italy,Apple Pay,1.0
+O10879,U370,Smartwatch,Electronics,1007.47,1,2023-04-16,UK,Google Pay,1.0
+O10620,U587,Headphones,Electronics,316.96,2,2023-04-23,,PayPal,2.0
+O10256,U993,Laptop,Electronics,1331.25,2,2023-04-18,USA,Google Pay,3.0
+O10611,U803,Smartwatch,Electronics,852.81,3,2023-07-22,Poland,Google Pay,3.0
+O10544,U536,Laptop,Electronics,436.65,4,2023-04-30,Canada,Bank Transfer,3.0
+O10771,U649,Printer,Office,570.86,2,2023-12-04,Poland,PayPal,3.0
+O11419,U757,Mouse,Accessories,374.21,1,2023-04-10,Canada,Bank Transfer,2.0
+O11041,U359,Smartphone,Electronics,468.47,4,2023-04-28,Spain,Bank Transfer,3.0
+O11789,U541,Mouse,Accessories,737.59,2,2023-11-21,Poland,Apple Pay,
+O10759,U889,Monitor,Electronics,1110.07,5,2023-09-05,Poland,Apple Pay,4.0
+O10382,U251,Speaker,Electronics,553.94,2,2023-03-13,France,Google Pay,3.0
+O11103,U211,Smartwatch,Electronics,1198.44,2,2023-10-23,France,Google Pay,1.0
+O10973,U957,Smartphone,Electronics,601.48,5,2023-07-06,Poland,Google Pay,5.0
+O10352,U435,Smartwatch,Electronics,206.1,5,2023-11-04,Poland,PayPal,5.0
+O11605,U522,Smartwatch,Electronics,333.46,2,2023-01-16,Germany,Apple Pay,1.0
+O11825,U605,Router,Networking,932.06,5,2023-03-09,USA,Google Pay,4.0
+O11036,U468,Mouse,Accessories,794.36,3,2023-08-18,Canada,Card,4.0
+O11107,U324,Laptop,Electronics,1413.38,5,2023-12-21,Italy,Card,1.0
+O10494,U859,Mouse,Accessories,1162.35,2,2023-06-09,Poland,Google Pay,3.0
+O10393,U524,Tablet,Electronics,498.59,3,2023-03-11,Poland,Apple Pay,4.0
+O11546,U356,Router,Networking,1277.22,5,2023-06-04,Germany,Card,4.0
+O10464,U330,Smartwatch,Electronics,321.97,2,2023-10-29,Canada,Apple Pay,4.0
+O10886,U171,Laptop,Electronics,616.11,4,2023-02-08,France,Apple Pay,3.0
+O11193,U268,Smartwatch,Electronics,304.18,2,2023-04-07,Spain,Google Pay,3.0
+O10366,U201,Speaker,Electronics,371.57,1,2023-10-18,UK,Google Pay,1.0
+O11893,U726,Laptop,Electronics,1405.27,1,2023-08-23,Spain,Card,5.0
+O11873,U939,Router,Networking,1457.41,1,2023-09-26,USA,Google Pay,4.0
+O10744,U825,Mouse,Accessories,1179.96,2,2023-01-19,Germany,Bank Transfer,2.0
+O10529,U140,Mouse,Accessories,375.01,4,2023-02-03,UK,PayPal,4.0
+O10802,U532,Camera,Electronics,52.77,5,2023-02-17,UK,Google Pay,3.0
+O11223,U689,Tablet,Electronics,1443.91,1,2023-09-26,Germany,Bank Transfer,2.0
+O10366,U201,Speaker,Electronics,371.57,1,2023-10-18,UK,Google Pay,1.0
+O11905,U322,Speaker,Electronics,878.15,4,2023-02-25,Italy,PayPal,2.0
+O11699,U953,Smartwatch,Electronics,75.92,3,2023-08-24,USA,Apple Pay,2.0
+O11544,U324,Speaker,Electronics,1393.99,2,2023-12-15,Germany,Bank Transfer,5.0
+O11313,U208,Router,Networking,114.57,4,2023-06-21,UK,Google Pay,5.0
+O10306,U486,Smartphone,Electronics,691.47,2,2023-07-18,Canada,Apple Pay,4.0
+O11666,U841,Router,Networking,263.8,3,2023-04-14,UK,Bank Transfer,4.0
+O10862,U314,Smartwatch,Electronics,1031.51,3,2023-06-30,France,Bank Transfer,2.0
+O11566,U229,Smartwatch,Electronics,1275.75,4,2023-05-25,Poland,Apple Pay,3.0
+O10530,U275,Keyboard,Accessories,303.07,3,2023-10-06,Germany,Bank Transfer,3.0
+O10654,U248,Camera,Electronics,1113.12,4,2023-11-22,UK,Apple Pay,4.0
+O11259,U700,Smartwatch,Electronics,1300.31,5,2023-10-23,Canada,Card,2.0
+O10233,U500,Smartwatch,Electronics,1004.25,2,2023-06-22,Italy,Bank Transfer,3.0
+O10120,U797,Keyboard,Accessories,298.42,2,2023-05-16,France,PayPal,2.0
+O11697,U130,Speaker,Electronics,1138.71,1,2023-11-06,Spain,Apple Pay,5.0
+O10949,U164,Camera,Electronics,668.5,3,2023-02-19,Germany,Apple Pay,3.0
+O10617,U665,Router,Networking,1395.3,3,2023-11-19,Canada,PayPal,3.0
+O11178,U209,Smartphone,Electronics,494.19,1,2023-07-26,UK,PayPal,5.0
+O10307,U626,Laptop,Electronics,455.37,4,2023-02-15,UK,Bank Transfer,3.0
+O10135,U862,Keyboard,Accessories,1281.23,4,2023-08-10,Germany,Apple Pay,3.0
+O10554,U273,Laptop,Electronics,785.82,4,2023-03-17,Spain,Card,4.0
+O11673,U750,Smartwatch,Electronics,165.11,1,2023-12-20,France,Apple Pay,4.0
+O10583,U129,Laptop,Electronics,,5,2023-05-02,UK,Card,3.0
+O11640,U503,Smartwatch,Electronics,1140.05,4,2023-10-05,UK,Google Pay,2.0
+O10670,U615,Camera,Electronics,720.63,4,2023-08-06,Canada,Bank Transfer,
+O10834,U303,Monitor,Electronics,150.81,5,2023-12-06,Spain,Google Pay,2.0
+O10109,U630,Monitor,Electronics,1063.52,2,2023-12-12,Poland,Apple Pay,1.0
+O11164,U799,Printer,Office,1083.7,1,2023-08-16,Spain,Google Pay,
+O10650,U309,Laptop,Electronics,97.49,1,2023-01-13,France,PayPal,3.0
+O11464,U927,Mouse,Accessories,333.88,3,2023-05-23,Canada,,2.0
+O11728,U150,Monitor,Electronics,835.02,1,2023-07-10,Poland,Card,4.0
+O11242,U619,Headphones,Electronics,911.65,1,2023-01-02,Italy,Card,2.0
+O10211,U213,Laptop,Electronics,690.87,2,2023-04-23,Poland,PayPal,3.0
+O11767,U429,Camera,Electronics,1174.52,5,2023-07-15,Spain,Apple Pay,3.0
+O11120,U366,Monitor,Electronics,1322.03,1,2023-04-27,France,Bank Transfer,2.0
+O10679,U835,Smartphone,Electronics,466.84,2,2023-01-15,USA,Apple Pay,3.0
+O11012,U539,Keyboard,Accessories,1181.46,5,2023-12-22,France,Apple Pay,4.0
+O11838,U657,Printer,Office,1230.5,1,2023-04-22,Canada,Bank Transfer,4.0
+O10411,U172,Laptop,Electronics,1189.25,4,2023-01-14,Spain,PayPal,2.0
+O11324,U894,Headphones,Electronics,517.05,3,2023-08-02,Canada,Card,2.0
+O10782,U137,Smartphone,Electronics,989.66,1,2023-04-12,Germany,Google Pay,1.0
+O11345,U582,Printer,Office,598.56,4,2023-06-01,France,PayPal,5.0
+O10874,U474,Laptop,Electronics,421.62,2,2023-01-31,Germany,Bank Transfer,4.0
+O11652,U996,Tablet,Electronics,380.59,5,2023-09-29,Canada,PayPal,5.0
+O11278,U467,Laptop,Electronics,1132.11,2,2023-12-31,Spain,PayPal,5.0
+O10785,U239,Keyboard,Accessories,1212.65,1,2023-07-15,Poland,Apple Pay,2.0
+O11818,U483,Smartwatch,Electronics,160.21,3,2023-09-11,Italy,Apple Pay,4.0
+O11198,U815,Camera,Electronics,371.48,2,2023-11-03,USA,Bank Transfer,4.0
+O10807,U124,Monitor,Electronics,1039.17,4,2023-05-24,Poland,Google Pay,4.0
+O10712,U347,Smartwatch,Electronics,244.36,1,2023-06-30,Canada,PayPal,2.0
+O10607,U283,Speaker,Electronics,1123.87,4,2023-01-05,Spain,Bank Transfer,2.0
+O11659,U696,Mouse,Accessories,726.12,1,2023-02-11,France,Card,3.0
+O11190,U168,Monitor,Electronics,1055.4,3,2023-07-04,France,PayPal,1.0
+O11225,U178,Headphones,Electronics,78.11,1,2023-03-28,USA,PayPal,2.0
+O10602,U534,Speaker,Electronics,242.77,2,2023-05-19,USA,Card,4.0
+O10270,U989,Smartwatch,Electronics,1328.0,3,2023-01-20,USA,Google Pay,3.0
+O11384,U157,Speaker,Electronics,56.98,4,2023-09-21,Poland,,4.0
+O10231,U441,Mouse,Accessories,1248.02,5,2023-12-28,Germany,Bank Transfer,1.0
+O10049,U153,Speaker,Electronics,1056.53,3,2023-06-01,UK,PayPal,4.0
+O10462,U360,Laptop,Electronics,33.81,1,2023-12-30,Germany,Bank Transfer,5.0
+O11105,U157,Smartwatch,Electronics,906.96,1,2023-01-25,,PayPal,1.0
+O10855,U192,Laptop,Electronics,82.67,2,2023-07-28,USA,Google Pay,5.0
+O10693,U270,Smartphone,Electronics,1390.77,2,2023-09-12,Canada,Google Pay,1.0
+O11551,U660,Smartphone,Electronics,675.13,3,2023-06-12,Italy,,2.0
+O11872,U687,Headphones,Electronics,77.84,5,2023-05-24,,Google Pay,4.0
+O10526,U975,Printer,Office,1482.34,2,2023-12-30,Spain,Card,2.0
+O10173,U876,Tablet,Electronics,225.46,1,2023-09-30,UK,PayPal,3.0
+O10720,U760,Laptop,Electronics,,5,2023-11-06,France,Card,1.0
+O10414,U435,Keyboard,Accessories,484.32,1,2023-04-20,Italy,Google Pay,4.0
+O10237,U843,Monitor,Electronics,1374.96,3,2023-10-22,France,,3.0
+O11472,U366,Keyboard,Accessories,1191.14,5,2023-03-26,France,Card,2.0
+O11335,U909,Keyboard,Accessories,1423.81,4,2023-06-27,Poland,Apple Pay,2.0
+O11063,U858,Headphones,Electronics,,5,2023-11-28,USA,Bank Transfer,2.0
+O10023,U602,Speaker,Electronics,1276.39,5,2023-08-06,France,Card,4.0
+O11766,U679,Smartphone,Electronics,695.03,4,2023-09-30,Italy,Bank Transfer,3.0
+O10063,U665,Printer,Office,571.58,2,2023-08-11,Canada,Card,4.0
+O10289,U323,Headphones,Electronics,178.33,2,2023-08-21,USA,Apple Pay,5.0
+O10188,U914,Headphones,Electronics,526.28,5,2023-06-08,Italy,Apple Pay,5.0
+O10701,U253,Speaker,Electronics,1273.96,1,2023-02-27,UK,Card,5.0
+O11814,U526,Headphones,Electronics,1017.8,4,2023-03-13,Germany,Card,3.0
+O11137,U787,Camera,Electronics,27.61,3,2023-03-31,Germany,PayPal,2.0
+O10354,U274,Monitor,Electronics,251.12,5,2023-03-27,USA,Apple Pay,4.0
+O10416,U178,Camera,Electronics,120.9,2,2023-01-25,Spain,Google Pay,
+O11245,U760,Mouse,Accessories,1286.88,2,2023-12-08,UK,PayPal,1.0
+O10930,U291,Monitor,Electronics,1415.14,3,2023-03-02,Poland,Apple Pay,1.0
+O10196,U898,Camera,Electronics,1066.71,2,2023-04-02,USA,Apple Pay,4.0
+O10579,U518,Smartphone,Electronics,230.36,1,2023-09-25,Poland,Apple Pay,3.0
+O11134,U233,Laptop,Electronics,425.07,2,2023-08-03,France,Bank Transfer,4.0
+O11813,U563,Tablet,Electronics,750.01,5,2023-07-08,Spain,Card,5.0
+O11934,U527,Smartwatch,Electronics,625.9,2,2023-07-03,France,Google Pay,3.0
+O10433,U843,Tablet,Electronics,500.52,4,2023-03-23,Germany,Bank Transfer,5.0
+O10100,U990,Smartwatch,Electronics,683.7,3,2023-01-25,Spain,Bank Transfer,2.0
+O11654,U677,Smartwatch,Electronics,1184.14,5,2023-06-10,USA,Apple Pay,5.0
+O10394,U616,Speaker,Electronics,674.77,4,2023-05-10,Germany,Apple Pay,1.0
+O11938,U265,Keyboard,Accessories,664.89,4,2023-09-01,Canada,Bank Transfer,4.0
+O10220,U480,Smartwatch,Electronics,327.67,3,2023-04-22,UK,Card,5.0
+O11675,U816,Mouse,Accessories,1114.42,2,2023-01-08,Poland,Card,2.0
+O11497,U852,Mouse,Accessories,825.28,4,2023-10-18,UK,Apple Pay,4.0
+O11784,U868,Smartphone,Electronics,1222.37,5,2023-09-06,USA,PayPal,5.0
+O10344,U786,Keyboard,Accessories,268.08,1,2023-04-17,France,Card,4.0
+O11027,U772,Tablet,Electronics,1015.31,5,2023-04-22,UK,PayPal,4.0
+O10888,U505,Printer,Office,746.33,2,2023-07-27,Italy,Apple Pay,4.0
+O11350,U326,Camera,Electronics,677.39,3,2023-11-19,Spain,PayPal,5.0
+O10552,U544,Smartphone,Electronics,742.79,5,2023-07-20,UK,Apple Pay,1.0
+O10743,U168,Printer,Office,657.2,4,2023-11-30,Canada,Bank Transfer,1.0
+O11541,U897,Camera,Electronics,338.89,2,2023-12-05,Canada,Apple Pay,3.0
+O10538,U453,Mouse,Accessories,20.28,3,2023-04-01,UK,Bank Transfer,3.0
+O10906,U523,Keyboard,Accessories,843.56,5,2023-12-07,Poland,Bank Transfer,5.0
+O11394,U664,Smartwatch,Electronics,911.34,2,2023-11-22,Italy,Bank Transfer,4.0
+O10115,U775,Monitor,Electronics,1388.47,4,2023-08-17,UK,Bank Transfer,3.0
+O10829,U835,Router,Networking,1236.31,2,2023-11-14,Germany,Apple Pay,3.0
+O11937,U209,Smartphone,Electronics,1411.47,3,2023-07-13,Germany,Apple Pay,1.0
+O10808,U604,Mouse,Accessories,1051.97,1,2023-04-03,Italy,Bank Transfer,5.0
+O11310,U156,Monitor,Electronics,231.37,2,2023-07-17,Italy,Apple Pay,2.0
+O11004,U421,Printer,Office,1495.43,2,2023-03-30,Poland,Bank Transfer,3.0
+O10305,U408,Laptop,Electronics,294.58,1,2023-04-03,UK,Google Pay,2.0
+O11100,U565,Monitor,Electronics,990.74,3,2023-10-28,Spain,Card,1.0
+O10479,U500,Laptop,Electronics,1401.01,5,2023-06-10,Canada,Card,4.0
+O11423,U161,Smartphone,Electronics,985.38,3,2023-04-24,Spain,Bank Transfer,2.0
+O11075,U166,Smartwatch,Electronics,1285.11,5,2023-05-27,USA,Bank Transfer,3.0
+O10570,U552,Speaker,Electronics,1239.21,4,2023-09-07,Germany,Google Pay,1.0
+O10618,U293,Smartwatch,Electronics,956.17,5,2023-07-23,France,Apple Pay,2.0
+O11897,U176,Printer,Office,815.32,1,2023-02-22,France,Google Pay,3.0
+O11265,U688,Monitor,Electronics,43.72,4,2023-03-23,France,Bank Transfer,5.0
+O10078,U984,Laptop,Electronics,674.68,1,2023-08-25,Italy,Bank Transfer,4.0
+O11911,U666,Camera,Electronics,995.95,1,2023-10-15,Italy,PayPal,5.0
+O10032,U417,Speaker,Electronics,1293.88,3,2023-05-17,Canada,Apple Pay,2.0
+O11537,U140,Tablet,Electronics,760.43,3,2023-07-29,Poland,,2.0
+O11033,U119,Tablet,Electronics,461.15,5,2023-05-17,Germany,Card,4.0
+O11562,U539,Smartphone,Electronics,1241.37,5,2023-11-27,Italy,Apple Pay,3.0
+O10351,U527,Tablet,Electronics,878.57,3,2023-06-27,,Apple Pay,3.0
+O10163,U998,Printer,Office,,1,2023-09-04,Canada,PayPal,3.0
+O10203,U862,Monitor,Electronics,689.28,3,2023-12-30,Italy,Bank Transfer,1.0
+O11053,U855,Speaker,Electronics,165.92,5,2023-10-19,France,PayPal,1.0
+O11364,U474,Tablet,Electronics,1007.06,3,2023-11-21,Germany,Google Pay,3.0
+O11605,U522,Smartwatch,Electronics,333.46,2,2023-01-16,Germany,Apple Pay,1.0
+O10495,U591,Keyboard,Accessories,209.42,5,2023-06-03,Germany,,4.0
+O11624,U732,Mouse,Accessories,1417.81,3,2023-07-04,Italy,Bank Transfer,3.0
+O10585,U771,Tablet,Electronics,1143.84,3,2023-02-17,Canada,Bank Transfer,3.0
+O10969,U147,Camera,Electronics,44.56,3,2023-04-26,Poland,Bank Transfer,2.0
+O10610,U201,Smartphone,Electronics,891.32,2,2023-08-16,Canada,Card,3.0
+O10432,U609,Smartphone,Electronics,,5,2023-10-09,Canada,Apple Pay,2.0
+O11491,U539,Printer,Office,884.91,5,2023-12-25,France,Card,3.0
+O10218,U281,Speaker,Electronics,1286.43,3,2023-06-14,Italy,Apple Pay,2.0
+O11930,U816,Smartphone,Electronics,119.52,2,2023-04-21,Italy,Apple Pay,4.0
+O11465,U771,Speaker,Electronics,1389.1,2,2023-07-11,Spain,Google Pay,2.0
+O10630,U832,Printer,Office,452.92,3,2023-04-28,Poland,Google Pay,3.0
+O11381,U189,Speaker,Electronics,1306.64,3,2023-06-15,Spain,Apple Pay,2.0
+O11301,U330,Speaker,Electronics,1482.42,2,2023-10-24,France,Bank Transfer,5.0
+O10059,U319,Keyboard,Accessories,1157.46,1,2023-06-21,France,Google Pay,3.0
+O10298,U174,Speaker,Electronics,800.0,5,2023-06-06,Germany,PayPal,2.0
+O11710,U402,Camera,Electronics,1325.71,5,2023-09-08,Canada,Card,1.0
+O10073,U295,Smartwatch,Electronics,339.42,5,2023-04-13,Canada,PayPal,5.0
+O10162,U942,Camera,Electronics,384.02,4,2023-12-16,Canada,PayPal,1.0
+O11274,U435,Router,Networking,1158.21,4,2023-04-14,Italy,PayPal,5.0
+O11593,U756,Smartwatch,Electronics,829.65,2,2023-12-23,Germany,PayPal,1.0
+O11433,U721,Laptop,Electronics,1184.03,2,2023-11-29,USA,Google Pay,3.0
+O11612,U191,Router,Networking,764.12,2,2023-01-10,Spain,Apple Pay,4.0
+O10591,U976,Camera,Electronics,848.34,4,2023-04-23,Canada,Bank Transfer,
+O10316,U215,Router,Networking,1326.15,1,2023-03-18,France,Apple Pay,3.0
+O10045,U514,Headphones,Electronics,223.53,4,2023-05-31,France,Apple Pay,5.0
+O11719,U619,Camera,Electronics,468.75,5,2023-12-11,Spain,Google Pay,2.0
+O11831,U486,Printer,Office,1135.34,1,2023-06-25,UK,Google Pay,5.0
+O10427,U744,Smartwatch,Electronics,1244.76,5,2023-03-27,France,Apple Pay,1.0
+O10581,U507,Keyboard,Accessories,339.76,1,2023-10-06,Germany,Apple Pay,4.0
+O10076,U445,Smartphone,Electronics,420.83,4,2023-02-27,Italy,Apple Pay,1.0
+O11916,U185,Laptop,Electronics,454.58,3,2023-10-29,France,PayPal,3.0
+O11414,U198,Headphones,Electronics,1017.95,3,2023-12-19,Italy,Apple Pay,2.0
+O10780,U921,Router,Networking,763.89,5,2023-12-29,UK,Google Pay,1.0
+O11919,U580,Router,Networking,263.5,4,2023-09-11,Italy,Google Pay,1.0
+O11173,U164,Mouse,Accessories,1358.12,3,2023-11-24,Canada,Google Pay,
+O11319,U769,Keyboard,Accessories,270.36,1,2023-07-16,Spain,Card,3.0
+O10937,U996,Speaker,Electronics,191.24,1,2023-03-17,USA,Google Pay,3.0
+O10030,U605,Headphones,Electronics,296.12,3,2023-05-08,UK,Google Pay,1.0
+O11091,U332,Camera,Electronics,1249.32,4,2023-08-04,Spain,Apple Pay,4.0
+O11615,U871,Printer,Office,919.64,2,2023-12-08,Italy,Google Pay,3.0
+O11229,U117,Speaker,Electronics,121.29,4,2023-10-05,France,Card,2.0
+O10974,U403,Tablet,Electronics,1176.79,3,2023-08-27,Italy,Google Pay,4.0
+O11084,U210,Router,Networking,102.02,3,2023-06-09,Germany,Apple Pay,3.0
+O10514,U337,Printer,Office,482.28,1,2023-02-16,Poland,Bank Transfer,3.0
+O11550,U377,Monitor,Electronics,1014.64,2,2023-10-29,Canada,PayPal,4.0
+O11567,U322,Speaker,Electronics,694.09,4,2023-05-23,Italy,Bank Transfer,3.0
+O11810,U246,Speaker,Electronics,40.01,5,2023-08-16,Italy,PayPal,
+O11573,U702,Keyboard,Accessories,1253.12,1,2023-02-21,Canada,PayPal,4.0
+O10044,U650,Speaker,Electronics,278.06,1,2023-05-08,France,Bank Transfer,5.0
+O11686,U608,Smartphone,Electronics,659.24,1,2023-10-02,Spain,PayPal,4.0
+O10168,U823,Laptop,Electronics,1452.63,4,2023-10-02,UK,Apple Pay,3.0
+O10303,U892,Headphones,Electronics,1123.84,3,2023-11-16,Italy,Google Pay,4.0
+O10990,U589,Camera,Electronics,766.84,4,2023-05-27,Canada,Google Pay,4.0
+O10555,U704,Router,Networking,910.85,2,2023-11-04,Spain,PayPal,2.0
+O11924,U290,Speaker,Electronics,986.87,3,2023-04-17,Poland,Google Pay,3.0
+O10607,U283,Speaker,Electronics,1123.87,4,2023-01-05,Spain,Bank Transfer,2.0
+O11618,U619,Printer,Office,962.5,4,2023-08-08,Canada,PayPal,3.0
+O10757,U512,Speaker,Electronics,798.12,3,2023-09-15,Spain,PayPal,2.0
+O10438,U954,Router,Networking,591.8,1,2023-03-20,Spain,PayPal,3.0
+O10582,U519,Laptop,Electronics,1271.49,3,2023-05-26,France,PayPal,4.0
+O11518,U470,Monitor,Electronics,111.28,1,2023-05-01,Spain,Card,3.0
+O10527,U575,Smartphone,Electronics,396.4,3,2023-03-17,France,PayPal,3.0
+O10342,U961,Router,Networking,789.27,2,2023-11-28,Germany,Apple Pay,1.0
+O11736,U378,Router,Networking,800.34,3,2023-05-27,Poland,Google Pay,2.0
+O10367,U102,Monitor,Electronics,913.1,2,2023-09-22,Poland,Card,3.0
+O10185,U577,Smartphone,Electronics,1195.16,5,2023-10-16,Germany,PayPal,5.0
+O11116,U236,Router,Networking,981.08,1,2023-04-19,Germany,Google Pay,2.0
+O11754,U974,Speaker,Electronics,123.3,1,2023-03-03,France,Apple Pay,4.0
+O11425,U986,Laptop,Electronics,30.42,1,2023-07-15,Poland,Apple Pay,4.0
+O10300,U120,Monitor,Electronics,1427.28,4,2023-04-02,Italy,Google Pay,5.0
+O11903,U997,Tablet,Electronics,228.87,1,2023-12-12,France,Bank Transfer,1.0
+O10832,U889,Tablet,Electronics,432.12,3,2023-12-22,Canada,Google Pay,1.0
+O10543,U735,Mouse,Accessories,1473.06,1,2023-09-08,Poland,Bank Transfer,5.0
+O11600,U110,Camera,Electronics,138.49,2,2023-10-07,Poland,Google Pay,1.0
+O10350,U405,Keyboard,Accessories,1035.23,2,2023-08-05,Germany,Google Pay,
+O11932,U566,Keyboard,Accessories,975.72,4,2023-10-23,UK,Card,3.0
+O11510,U229,Laptop,Electronics,818.7,2,2023-12-30,Germany,Bank Transfer,4.0
+O10978,U960,Keyboard,Accessories,,4,2023-04-28,Canada,Bank Transfer,4.0
+O10175,U984,Printer,Office,1249.32,4,2023-11-30,UK,Card,4.0
+O10482,U870,Headphones,Electronics,857.01,2,2023-02-19,Italy,Card,1.0
+O11412,U435,Camera,Electronics,77.73,5,2023-09-30,Canada,Bank Transfer,3.0
+O11610,U264,Smartwatch,Electronics,298.98,1,2023-11-09,Germany,Google Pay,2.0
+O10123,U646,Laptop,Electronics,421.02,5,2023-02-15,Germany,Card,5.0
+O10599,U453,Router,Networking,385.42,3,2023-02-11,Canada,Bank Transfer,2.0
+O11794,U827,Printer,Office,841.14,4,2023-03-10,Spain,Apple Pay,1.0
+O11745,U151,Laptop,Electronics,478.57,1,2023-03-14,Canada,Apple Pay,4.0
+O11378,U683,Monitor,Electronics,1055.31,4,2023-01-26,France,Apple Pay,2.0
+O11185,U689,Smartphone,Electronics,1320.06,5,2023-07-25,Poland,PayPal,3.0
+O10485,U173,Tablet,Electronics,577.83,5,2023-02-18,Germany,PayPal,5.0
+O10331,U661,Laptop,Electronics,1108.32,4,2023-06-01,Poland,Google Pay,5.0
+O10788,U721,Speaker,Electronics,1217.8,5,2023-02-05,Poland,Bank Transfer,3.0
+O10194,U715,Tablet,Electronics,887.62,2,2023-04-21,UK,Apple Pay,5.0
+O10637,U690,Printer,Office,,4,2023-02-18,Poland,PayPal,1.0
+O10471,U372,Monitor,Electronics,288.35,5,2023-01-20,UK,PayPal,3.0
+O11713,U431,Speaker,Electronics,773.23,1,2023-10-13,Spain,Apple Pay,4.0
+O10322,U489,Monitor,Electronics,138.57,4,2023-07-27,France,Google Pay,5.0
+O11196,U189,Mouse,Accessories,1390.94,2,2023-03-12,Spain,Bank Transfer,3.0
+O10266,U683,Mouse,Accessories,1120.16,4,2023-02-28,Germany,Google Pay,5.0
+O11543,U478,Printer,Office,164.12,4,2023-08-09,Germany,PayPal,3.0
+O11803,U173,Monitor,Electronics,120.66,3,2023-08-02,Poland,Card,4.0
+O10067,U605,Mouse,Accessories,399.19,5,2023-11-12,USA,Card,1.0
+O11737,U356,Smartwatch,Electronics,706.06,1,2023-01-14,Canada,Google Pay,3.0
+O11592,U969,Router,Networking,1094.93,2,2023-09-24,Spain,Apple Pay,4.0
+O11563,U495,Camera,Electronics,1070.41,3,2023-04-13,USA,Card,1.0
+O10480,U658,Smartphone,Electronics,754.33,3,2023-07-17,Italy,,5.0
+O11756,U797,Keyboard,Accessories,1476.5,1,2023-09-26,France,Card,5.0
+O11912,U932,Laptop,Electronics,979.09,5,2023-01-22,Spain,Bank Transfer,2.0
+O11440,U480,Tablet,Electronics,430.17,2,2023-09-12,Spain,Bank Transfer,2.0
+O11460,U750,Router,Networking,278.68,5,2023-11-19,France,Card,2.0
+O10887,U833,Camera,Electronics,999.27,4,2023-02-22,,Bank Transfer,5.0
+O10422,U179,Speaker,Electronics,1178.39,3,2023-09-20,Germany,Apple Pay,4.0
+O11674,U419,Keyboard,Accessories,560.54,5,2023-05-03,France,Apple Pay,4.0
+O11449,U897,Monitor,Electronics,742.09,2,2023-04-27,Italy,Card,5.0
+O10764,U226,Camera,Electronics,504.03,4,2023-12-07,Spain,Apple Pay,5.0
+O10519,U748,Speaker,Electronics,1452.28,3,2023-02-01,Italy,Bank Transfer,5.0
+O11431,U570,Speaker,Electronics,1361.03,3,2023-11-07,Germany,Apple Pay,2.0
+O10613,U262,Speaker,Electronics,911.13,4,2023-12-31,France,PayPal,2.0
+O11530,U404,Headphones,Electronics,380.42,4,2023-09-18,UK,Google Pay,2.0
+O11782,U891,Smartphone,Electronics,,4,2023-04-24,USA,PayPal,2.0
+O11658,U646,Printer,Office,1151.09,1,2023-01-28,USA,Bank Transfer,5.0
+O10453,U643,Keyboard,Accessories,975.8,3,2023-05-02,Poland,Google Pay,2.0
+O10730,U291,Printer,Office,1096.04,5,2023-07-02,Poland,Apple Pay,3.0
+O10534,U541,Keyboard,Accessories,127.55,3,2023-01-04,Poland,Apple Pay,3.0
+O10965,U212,Headphones,Electronics,302.88,1,2023-01-18,France,Apple Pay,2.0
+O11284,U609,Smartwatch,Electronics,967.76,5,2023-05-26,Spain,Bank Transfer,2.0
+O11739,U517,Camera,Electronics,213.9,3,2023-03-13,,Card,2.0
+O10261,U788,Laptop,Electronics,638.29,4,2023-03-06,France,Apple Pay,1.0
+O10535,U412,Laptop,Electronics,471.86,5,2023-08-15,Italy,Bank Transfer,2.0
+O10968,U705,Headphones,Electronics,1140.78,2,2023-11-10,Spain,Bank Transfer,1.0
+O10240,U253,Printer,Office,754.62,5,2023-07-20,UK,Apple Pay,3.0
+O10819,U300,Printer,Office,1163.76,1,2023-05-16,Poland,Apple Pay,3.0
+O10692,U647,Tablet,Electronics,758.37,1,2023-03-15,France,Google Pay,3.0
+O10420,U789,Speaker,Electronics,700.5,2,2023-09-24,USA,Card,1.0
+O11085,U913,Camera,Electronics,986.4,4,2023-03-09,Spain,Card,
+O10442,U535,Router,Networking,703.68,4,2023-05-19,USA,Bank Transfer,4.0
+O10365,U704,Mouse,Accessories,606.34,5,2023-11-12,Spain,PayPal,3.0
+O11022,U889,Smartphone,Electronics,838.61,1,2023-04-05,Poland,Google Pay,4.0
+O11240,U741,Tablet,Electronics,1455.33,5,2023-01-19,Canada,Google Pay,1.0
+O10588,U543,Monitor,Electronics,248.6,5,2023-07-21,Germany,Bank Transfer,3.0
+O10736,U931,Tablet,Electronics,1296.71,5,2023-08-28,Poland,Card,4.0
+O11761,U309,Printer,Office,879.83,2,2023-01-26,USA,PayPal,4.0
+O10941,U262,Printer,Office,1255.19,5,2023-09-19,UK,Apple Pay,2.0
+O10071,U441,Speaker,Electronics,444.08,2,2023-02-27,Canada,PayPal,2.0
+O11407,U691,Mouse,Accessories,469.53,4,2023-08-05,Spain,Bank Transfer,3.0
+O10259,U344,Monitor,Electronics,1155.44,5,2023-11-14,Canada,Apple Pay,3.0
+O10051,U609,Printer,Office,917.52,3,2023-04-22,USA,Google Pay,5.0
+O10198,U721,Camera,Electronics,687.24,5,2023-12-12,Poland,Google Pay,2.0
+O11788,U958,Keyboard,Accessories,1212.72,5,2023-06-24,Spain,Card,3.0
+O10650,U309,Laptop,Electronics,97.49,1,2023-01-13,France,PayPal,3.0
+O10332,U216,Smartwatch,Electronics,876.44,4,2023-09-07,Spain,Card,3.0
+O11359,U776,Laptop,Electronics,972.98,5,2023-03-13,Germany,Apple Pay,4.0
+O10593,U662,Router,Networking,166.97,3,2023-08-22,Italy,Card,1.0
+O11391,U972,Keyboard,Accessories,1341.81,2,2023-06-13,USA,PayPal,1.0
+O11800,U247,Router,Networking,1160.62,3,2023-09-04,Canada,PayPal,1.0
+O11314,U300,Speaker,Electronics,718.9,3,2023-03-28,Canada,Bank Transfer,1.0
+O11111,U580,Mouse,Accessories,1371.3,1,2023-02-11,UK,Apple Pay,2.0
+O11006,U159,Smartwatch,Electronics,402.72,4,2023-02-08,France,Google Pay,4.0
+O11326,U195,Mouse,Accessories,369.27,3,2023-11-11,Germany,Apple Pay,4.0
+O10426,U254,Monitor,Electronics,685.68,5,2023-01-07,Spain,Apple Pay,3.0
+O11558,U316,Smartphone,Electronics,1309.8,1,2023-06-26,USA,PayPal,4.0
+O11293,U313,Laptop,Electronics,1299.26,4,2023-07-14,UK,Bank Transfer,4.0
+O10590,U727,Tablet,Electronics,1022.14,5,2023-06-25,Spain,PayPal,3.0
+O10321,U210,Printer,Office,945.45,4,2023-11-14,France,Card,5.0
+O10480,U658,Smartphone,Electronics,754.33,3,2023-07-17,Italy,,5.0
+O11132,U691,Keyboard,Accessories,1222.34,2,2023-08-08,Germany,PayPal,5.0
+O10985,U842,Router,Networking,1331.41,4,2023-11-25,Canada,Apple Pay,1.0
+O10398,U576,Smartphone,Electronics,852.2,4,2023-11-29,Germany,Bank Transfer,4.0
+O11511,U890,Printer,Office,964.76,2,2023-06-15,Germany,Bank Transfer,5.0
+O10436,U109,Headphones,Electronics,1217.15,5,2023-04-07,Germany,Card,5.0
+O10192,U649,Tablet,Electronics,1243.66,2,2023-12-26,Canada,Card,2.0
+O11435,U170,Keyboard,Accessories,554.6,5,2023-10-13,Poland,PayPal,1.0
+O10614,U436,Headphones,Electronics,181.71,4,2023-12-03,USA,PayPal,5.0
+O11493,U630,Printer,Office,513.28,5,2023-01-17,Canada,Apple Pay,2.0
+O10576,U662,Mouse,Accessories,898.62,2,2023-07-29,Germany,Google Pay,5.0
+O10986,U434,Keyboard,Accessories,979.2,4,2023-08-27,Germany,Google Pay,5.0
+O11432,U675,Camera,Electronics,123.7,1,2023-06-21,Poland,Apple Pay,4.0
+O10706,U744,Printer,Office,232.85,2,2023-02-09,Canada,,3.0
+O11258,U293,Monitor,Electronics,618.28,1,2023-05-19,Italy,Apple Pay,
+O10141,U645,Monitor,Electronics,,4,2023-03-10,,Google Pay,4.0
+O11357,U494,Smartwatch,Electronics,217.26,1,2023-02-14,USA,Google Pay,2.0
+O10002,U408,Mouse,Accessories,513.89,3,2023-05-30,Poland,Card,
+O11221,U535,Printer,Office,59.76,4,2023-03-04,Canada,PayPal,3.0
+O11869,U883,Smartwatch,Electronics,1357.97,2,2023-08-19,Germany,PayPal,4.0
+O11622,U659,Router,Networking,932.04,1,2023-04-04,UK,Apple Pay,5.0
+O10339,U165,Speaker,Electronics,985.14,1,2023-01-28,Canada,Google Pay,5.0
+O11769,U245,Headphones,Electronics,1373.5,3,2023-03-30,Poland,Card,3.0
+O11536,U973,Keyboard,Accessories,1302.9,5,2023-10-17,Spain,Bank Transfer,4.0
+O10483,U948,Smartphone,Electronics,55.8,5,2023-07-17,Poland,Google Pay,5.0
+O10265,U944,Keyboard,Accessories,152.33,3,2023-03-03,France,Card,
+O10376,U743,Router,Networking,1082.1,2,2023-03-18,Spain,Card,5.0
+O10741,U111,Monitor,Electronics,386.31,4,2023-04-23,Canada,Google Pay,2.0
+O11013,U629,Tablet,Electronics,1021.01,4,2023-05-28,Canada,Card,3.0
+O10439,U200,Printer,Office,242.25,4,2023-03-28,USA,Google Pay,1.0
+O10271,U949,Router,Networking,405.15,3,2023-06-27,Germany,PayPal,4.0
+O10184,U653,Mouse,Accessories,193.01,3,2023-06-28,France,Bank Transfer,1.0
+O10939,U308,Tablet,Electronics,551.63,5,2023-12-01,Germany,Card,1.0
+O10244,U116,Monitor,Electronics,485.6,3,2023-11-01,Spain,Apple Pay,
+O10931,U542,Tablet,Electronics,873.75,5,2023-02-25,Germany,Apple Pay,
+O10445,U562,Speaker,Electronics,1452.43,1,2023-11-25,Canada,PayPal,2.0
+O10596,U468,Headphones,Electronics,912.36,4,2023-07-20,Spain,Bank Transfer,1.0
+O10817,U195,Camera,Electronics,1089.65,2,2023-04-17,USA,Google Pay,1.0
+O11272,U595,Smartphone,Electronics,79.69,5,2023-12-07,USA,Google Pay,2.0
+O11676,U659,Printer,Office,1165.51,1,2023-01-20,Italy,Apple Pay,3.0
+O10486,U737,Tablet,Electronics,1064.91,2,2023-09-17,Italy,Google Pay,4.0
+O10680,U673,Laptop,Electronics,1025.84,5,2023-10-21,UK,Bank Transfer,5.0
+O10415,U752,Headphones,Electronics,278.76,3,2023-01-25,Germany,Apple Pay,3.0
+O10273,U709,Speaker,Electronics,71.6,4,2023-12-23,Germany,PayPal,3.0
+O11471,U998,Printer,Office,1363.49,2,2023-09-01,France,PayPal,5.0
+O11829,U566,Router,Networking,1267.57,3,2023-10-20,UK,Google Pay,2.0
+O11454,U377,Speaker,Electronics,740.51,4,2023-04-09,France,PayPal,5.0
+O10250,U236,Headphones,Electronics,70.24,5,2023-01-07,Poland,PayPal,2.0
+O10413,U892,Keyboard,Accessories,868.1,2,2023-01-25,France,Card,3.0
+O11385,U370,Smartphone,Electronics,,5,2023-09-22,Canada,Google Pay,4.0
+O11307,U903,Smartwatch,Electronics,1342.09,5,2023-02-12,Italy,Bank Transfer,3.0
+O10715,U311,Monitor,Electronics,321.3,5,2023-11-13,UK,Apple Pay,2.0
+O10310,U816,Laptop,Electronics,418.11,3,2023-03-05,UK,PayPal,1.0
+O10926,U124,Laptop,Electronics,463.91,4,2023-10-29,Canada,PayPal,2.0
+O10381,U109,Headphones,Electronics,357.56,1,2023-09-28,Canada,Bank Transfer,2.0
+O11565,U538,Router,Networking,1433.43,2,2023-11-29,France,Bank Transfer,2.0
+O10425,U584,Keyboard,Accessories,1275.06,2,2023-03-04,Germany,PayPal,5.0
+O11874,U132,Tablet,Electronics,156.56,3,2023-08-15,France,Card,3.0
+O10532,U165,Smartwatch,Electronics,958.53,4,2023-09-29,Poland,Google Pay,2.0
+O10752,U121,Keyboard,Accessories,953.44,2,2023-06-15,Canada,Bank Transfer,1.0
+O10765,U478,Router,Networking,1294.75,4,2023-04-03,Canada,Google Pay,4.0
+O11356,U563,Speaker,Electronics,1395.88,4,2023-08-14,France,Google Pay,3.0
+O10408,U343,Laptop,Electronics,755.51,4,2023-04-11,France,PayPal,2.0
+O11614,U920,Tablet,Electronics,58.33,3,2023-04-03,France,Bank Transfer,3.0
+O10694,U555,Monitor,Electronics,1215.96,2,2023-02-24,Canada,Card,5.0
+O11738,U563,Tablet,Electronics,700.97,2,2023-06-21,France,Bank Transfer,4.0
+O10548,U697,Printer,Office,1318.35,5,2023-04-20,Poland,Apple Pay,5.0
+O10936,U594,Mouse,Accessories,67.03,2,2023-07-03,Spain,PayPal,1.0
+O11389,U640,Monitor,Electronics,902.59,5,2023-03-31,Italy,Apple Pay,4.0
+O11607,U609,Mouse,Accessories,552.01,5,2023-10-24,Germany,Bank Transfer,1.0
+O11939,U304,Keyboard,Accessories,158.86,4,2023-01-31,Italy,Apple Pay,5.0
+O11481,U567,Printer,Office,1209.47,3,2023-11-05,Italy,Card,3.0
+O10182,U244,Camera,Electronics,669.34,1,2023-06-02,UK,Bank Transfer,5.0
+O11940,U978,Camera,Electronics,330.87,3,2023-05-26,Poland,PayPal,3.0
+O11160,U931,Smartwatch,Electronics,20.34,4,2023-12-08,Spain,Apple Pay,2.0
+O10170,U944,Tablet,Electronics,880.23,3,2023-12-22,UK,Apple Pay,3.0
+O10292,U121,Mouse,Accessories,119.68,2,2023-07-12,USA,Bank Transfer,4.0
+O10561,U390,Monitor,Electronics,720.0,3,2023-05-22,UK,Bank Transfer,3.0
+O11456,U178,Printer,Office,288.81,3,2023-01-09,USA,Bank Transfer,3.0
+O11876,U325,Keyboard,Accessories,743.14,1,2023-02-25,Canada,Google Pay,5.0
+O11651,U822,Smartwatch,Electronics,213.07,1,2023-05-14,France,Apple Pay,4.0
+O10849,U414,Laptop,Electronics,526.02,5,2023-07-10,Germany,Card,3.0
+O10272,U219,Speaker,Electronics,247.77,3,2023-09-26,UK,Bank Transfer,4.0
+O11549,U380,Mouse,Accessories,1082.45,4,2023-08-30,USA,Google Pay,2.0
+O11034,U306,Laptop,Electronics,1251.98,3,2023-09-25,,Apple Pay,3.0
+O11743,U880,Printer,Office,401.56,4,2023-07-26,Poland,Bank Transfer,3.0
+O10371,U506,Monitor,Electronics,1078.93,3,2023-01-21,Spain,Apple Pay,3.0
+O11669,U204,Headphones,Electronics,1099.28,2,2023-12-09,Germany,Card,5.0
+O10721,U131,Smartphone,Electronics,583.42,2,2023-07-21,Canada,Bank Transfer,2.0
+O10733,U773,Smartphone,Electronics,1200.37,1,2023-09-27,France,Card,3.0
+O10777,U519,Smartwatch,Electronics,964.17,2,2023-06-17,USA,Google Pay,3.0
+O10518,U359,Smartphone,Electronics,988.35,3,2023-04-11,Germany,Google Pay,4.0
+O10334,U742,Camera,Electronics,896.68,5,2023-09-25,USA,PayPal,4.0
+O10845,U307,Camera,Electronics,936.9,3,2023-01-03,,Apple Pay,3.0
+O11251,U451,Tablet,Electronics,130.85,1,2023-09-01,Spain,Bank Transfer,5.0
+O11052,U577,Mouse,Accessories,106.68,1,2023-03-12,France,Card,3.0
+O11923,U991,Printer,Office,658.63,5,2023-02-28,Poland,PayPal,4.0
+O10015,U316,Headphones,Electronics,1126.03,5,2023-10-07,Italy,Card,2.0
+O10707,U498,Router,Networking,1174.94,2,2023-03-25,Poland,Google Pay,3.0
+O10900,U242,Laptop,Electronics,322.58,1,2023-04-26,Germany,Bank Transfer,5.0
+O10453,U643,Keyboard,Accessories,975.8,3,2023-05-02,Poland,Google Pay,2.0
+O11572,U208,Smartwatch,Electronics,1340.25,3,2023-03-03,USA,,2.0
+O10903,U171,Laptop,Electronics,338.94,4,2023-08-25,France,Apple Pay,5.0
+O10465,U333,Monitor,Electronics,1038.07,5,2023-03-27,UK,Google Pay,4.0
+O11586,U985,Tablet,Electronics,233.12,2,2023-11-27,USA,Bank Transfer,3.0
+O10199,U666,Printer,Office,1259.49,1,2023-11-15,USA,Apple Pay,2.0
+O11206,U267,Smartwatch,Electronics,185.0,2,2023-04-04,UK,PayPal,4.0
+O11055,U130,Monitor,Electronics,,3,2023-07-06,USA,PayPal,3.0
+O11131,U210,Laptop,Electronics,522.08,1,2023-05-24,UK,Bank Transfer,2.0
+O11379,U520,Laptop,Electronics,1007.07,1,2023-05-24,Germany,PayPal,1.0
+O10998,U592,Headphones,Electronics,1469.14,3,2023-11-27,UK,PayPal,1.0
+O10727,U412,Laptop,Electronics,205.19,5,2023-05-06,Germany,Apple Pay,2.0
+O11771,U667,Printer,Office,708.95,2,2023-12-05,Canada,PayPal,4.0
+O11909,U169,Router,Networking,1011.13,1,2023-01-18,USA,Card,3.0
+O11821,U158,Router,Networking,1042.11,5,2023-08-23,Germany,Card,4.0
+O10567,U226,Monitor,Electronics,1019.62,3,2023-11-29,Italy,Card,2.0
+O10043,U247,Monitor,Electronics,44.55,3,2023-05-27,USA,Card,4.0
+O10274,U748,Mouse,Accessories,598.93,3,2023-01-29,Poland,Google Pay,1.0
+O11096,U657,Headphones,Electronics,107.58,4,2023-06-22,Spain,Card,1.0
+O10101,U208,Mouse,Accessories,1420.37,1,2023-02-08,Spain,PayPal,5.0
+O11231,U664,Smartphone,Electronics,884.2,4,2023-06-04,Italy,Bank Transfer,1.0
+O11721,U594,Keyboard,Accessories,1046.94,4,2023-07-29,Poland,Card,4.0
+O11832,U328,Speaker,Electronics,1145.7,4,2023-10-04,Poland,Google Pay,1.0
+O10107,U316,Monitor,Electronics,1322.93,1,2023-11-23,Poland,Bank Transfer,3.0
+O11617,U369,Mouse,Accessories,1126.32,4,2023-06-10,Italy,Google Pay,2.0
+O10497,U470,Smartwatch,Electronics,988.18,2,2023-11-01,Canada,Google Pay,
+O10789,U928,Headphones,Electronics,768.34,1,2023-08-01,Poland,Google Pay,3.0
+O10881,U944,Router,Networking,569.77,3,2023-03-23,Poland,Card,4.0
+O10756,U659,Smartwatch,Electronics,854.22,1,2023-12-18,USA,Bank Transfer,3.0
+O10619,U402,Mouse,Accessories,1104.92,1,2023-08-10,Germany,PayPal,
+O11106,U174,Router,Networking,754.43,1,2023-02-07,UK,PayPal,3.0
+O11935,U981,Smartwatch,Electronics,574.48,4,2023-07-21,UK,Google Pay,2.0
+O10809,U844,Monitor,Electronics,321.09,4,2023-04-28,USA,Google Pay,3.0
+O11037,U985,Laptop,Electronics,1348.94,3,2023-02-21,Spain,Card,5.0
+O10072,U363,Printer,Office,77.48,3,2023-04-11,Poland,Google Pay,4.0
+O11283,U519,Camera,Electronics,1465.39,4,2023-04-08,Poland,Apple Pay,4.0
+O11271,U719,Router,Networking,249.19,1,2023-01-11,Canada,Google Pay,4.0
+O11334,U796,Camera,Electronics,591.71,1,2023-05-15,France,PayPal,1.0
+O11458,U542,Speaker,Electronics,785.56,2,2023-04-30,UK,Google Pay,4.0
+O10481,U499,Tablet,Electronics,588.07,1,2023-03-31,Italy,Bank Transfer,2.0
+O11068,U482,Headphones,Electronics,1203.68,2,2023-06-21,France,Card,4.0
+O10506,U490,Smartwatch,Electronics,1195.1,1,2023-02-01,Italy,Apple Pay,5.0
+O11237,U733,Speaker,Electronics,403.18,1,2023-01-10,Spain,Google Pay,1.0
+O11861,U691,Laptop,Electronics,822.6,1,2023-01-10,Spain,Bank Transfer,1.0
+O11301,U330,Speaker,Electronics,1482.42,2,2023-10-24,France,Bank Transfer,5.0
+O11476,U440,Speaker,Electronics,907.05,2,2023-06-29,France,Apple Pay,3.0
+O11866,U885,Smartwatch,Electronics,1417.11,5,2023-03-21,Poland,Bank Transfer,
+O11455,U752,Laptop,Electronics,695.63,2,2023-03-30,France,PayPal,3.0
+O10311,U265,Monitor,Electronics,707.61,2,2023-04-05,,Google Pay,2.0
+O10962,U908,Monitor,Electronics,1051.11,4,2023-12-03,Germany,Google Pay,2.0
+O10405,U677,Mouse,Accessories,468.63,2,2023-08-25,,Google Pay,3.0
+O11330,U593,Smartwatch,Electronics,408.48,1,2023-07-20,Canada,PayPal,1.0
+O11649,U439,Monitor,Electronics,1279.87,1,2023-03-14,Spain,Card,3.0
+O10309,U825,Camera,Electronics,316.78,1,2023-11-15,Canada,Card,3.0
+O10226,U620,Tablet,Electronics,737.47,1,2023-01-14,Spain,Apple Pay,3.0
+O11857,U510,Camera,Electronics,707.99,5,2023-05-01,Poland,Apple Pay,3.0
+O10710,U382,Keyboard,Accessories,770.24,3,2023-10-07,Canada,Google Pay,5.0
+O11943,U262,Tablet,Electronics,610.68,5,2023-11-04,UK,PayPal,3.0
+O11383,U470,Laptop,Electronics,304.89,5,2023-07-19,USA,PayPal,4.0
+O11785,U286,Monitor,Electronics,1395.52,3,2023-03-15,Germany,Apple Pay,3.0
+O10148,U220,Smartwatch,Electronics,78.18,1,2023-02-16,UK,Bank Transfer,4.0
+O11554,U900,Smartphone,Electronics,1012.68,5,2023-01-09,USA,PayPal,5.0
+O10348,U158,Printer,Office,,5,2023-09-02,Italy,Google Pay,2.0
+O10925,U864,Mouse,Accessories,739.01,4,2023-10-21,Poland,Google Pay,3.0
+O10942,U921,Smartphone,Electronics,583.87,5,2023-05-23,Italy,Apple Pay,4.0
+O10836,U616,Router,Networking,1321.19,3,2023-03-20,Canada,Bank Transfer,4.0
+O10575,U301,Smartphone,Electronics,630.76,5,2023-04-15,Germany,Bank Transfer,3.0
+O10557,U505,Camera,Electronics,,4,2023-09-17,Poland,Apple Pay,4.0
+O11235,U717,Smartwatch,Electronics,496.66,3,2023-11-24,USA,PayPal,4.0
+O11360,U232,Camera,Electronics,413.03,2,2023-08-27,Italy,Card,1.0
+O11347,U361,Monitor,Electronics,155.4,5,2023-06-04,Canada,Google Pay,4.0
+O11161,U977,Monitor,Electronics,1236.9,5,2023-09-08,Poland,Card,5.0
+O11442,U818,Tablet,Electronics,1298.41,5,2023-11-27,France,Google Pay,1.0
+O10286,U394,Headphones,Electronics,1230.59,5,2023-01-12,Canada,Bank Transfer,2.0
+O11604,U645,Camera,Electronics,1125.91,1,2023-03-16,Italy,Bank Transfer,2.0
+O11057,U207,Mouse,Accessories,138.68,3,2023-03-07,Canada,Google Pay,5.0
+O10598,U773,Router,Networking,821.28,5,2023-11-01,Italy,PayPal,2.0
+O10932,U851,Smartwatch,Electronics,337.75,1,2023-02-28,Canada,Google Pay,4.0
+O11461,U703,Tablet,Electronics,729.85,1,2023-04-01,Italy,Apple Pay,4.0
+O11637,U765,Mouse,Accessories,283.93,4,2023-02-12,USA,PayPal,1.0
+O11587,U341,Headphones,Electronics,114.13,4,2023-02-03,UK,Apple Pay,
+O11040,U700,Headphones,Electronics,487.34,1,2023-09-26,Germany,Card,5.0
+O11230,U170,Speaker,Electronics,1227.3,5,2023-02-20,Italy,PayPal,3.0
+O10806,U640,Smartwatch,Electronics,1016.4,3,2023-07-26,Spain,PayPal,4.0
+O10904,U141,Tablet,Electronics,1049.52,3,2023-08-20,Germany,,3.0
+O11679,U449,Camera,Electronics,1126.6,2,2023-05-10,Germany,Google Pay,2.0
+O11204,U827,Tablet,Electronics,237.8,1,2023-05-25,Spain,Google Pay,5.0
+O10767,U138,Speaker,Electronics,378.19,4,2023-06-17,Germany,Google Pay,2.0
+O10609,U919,Keyboard,Accessories,779.1,4,2023-08-24,Canada,Bank Transfer,5.0
+O10396,U271,Laptop,Electronics,512.84,2,2023-08-03,Spain,PayPal,4.0
+O11564,U339,Speaker,Electronics,240.24,2,2023-03-03,Spain,Card,3.0
+O11422,U330,Headphones,Electronics,947.59,1,2023-06-21,UK,Card,2.0
+O11010,U413,Mouse,Accessories,208.68,2,2023-05-08,Poland,Bank Transfer,3.0
+O10493,U295,Headphones,Electronics,1361.53,1,2023-01-21,Poland,Bank Transfer,2.0
+O11320,U406,Mouse,Accessories,912.8,1,2023-07-15,Spain,PayPal,1.0
+O10277,U701,Camera,Electronics,404.44,5,2023-06-25,France,Card,3.0
+O11846,U887,Smartwatch,Electronics,917.9,1,2023-07-19,USA,Google Pay,2.0
+O10358,U701,Camera,Electronics,602.92,5,2023-12-27,France,PayPal,2.0
+O11110,U124,Router,Networking,487.79,5,2023-07-30,France,,4.0
+O10236,U395,Smartphone,Electronics,383.12,5,2023-09-24,France,Bank Transfer,3.0
+O10551,U375,Laptop,Electronics,791.74,5,2023-10-31,Italy,Google Pay,2.0
+O11867,U486,Printer,Office,1332.67,5,2023-05-16,UK,PayPal,2.0
+O11812,U779,Keyboard,Accessories,989.06,3,2023-11-18,France,Bank Transfer,3.0
+O10208,U534,Laptop,Electronics,463.4,5,2023-08-03,Spain,PayPal,2.0
+O11386,U464,Monitor,Electronics,1134.62,4,2023-03-25,Germany,Bank Transfer,2.0
+O11560,U897,Monitor,Electronics,268.99,4,2023-09-10,Spain,PayPal,4.0
+O10058,U758,Speaker,Electronics,308.96,5,2023-10-31,Canada,Google Pay,3.0
+O10631,U769,Headphones,Electronics,1266.5,1,2023-08-21,Germany,Bank Transfer,
+O10258,U913,Headphones,Electronics,588.27,3,2023-02-08,USA,Google Pay,3.0
+O11859,U110,Speaker,Electronics,537.39,5,2023-09-25,France,Card,5.0
+O11816,U715,Mouse,Accessories,891.44,1,2023-02-23,Germany,Apple Pay,4.0
+O10363,U443,Laptop,Electronics,664.66,3,2023-05-09,USA,Google Pay,2.0
+O10505,U749,Headphones,Electronics,1184.72,4,2023-02-28,Germany,,
+O11165,U571,Mouse,Accessories,364.44,2,2023-12-28,Poland,Card,1.0
+O11121,U475,Tablet,Electronics,224.43,5,2023-06-13,Spain,Bank Transfer,3.0
+O11629,U292,Monitor,Electronics,621.42,3,2023-04-16,UK,Bank Transfer,5.0
+O11216,U874,Headphones,Electronics,1195.02,5,2023-04-28,Spain,PayPal,2.0
+O11151,U988,Keyboard,Accessories,566.32,4,2023-11-30,USA,Google Pay,2.0
+O11124,U278,Smartwatch,Electronics,975.49,5,2023-07-25,Germany,PayPal,5.0
+O11594,U886,Tablet,Electronics,801.7,5,2023-02-09,Italy,PayPal,4.0
+O10118,U429,Headphones,Electronics,1110.91,3,2023-01-12,Italy,Bank Transfer,
+O11249,U811,Monitor,Electronics,737.83,2,2023-04-30,Spain,Card,2.0
+O10400,U614,Tablet,Electronics,21.83,4,2023-05-16,France,PayPal,5.0
+O10522,U739,Monitor,Electronics,1470.08,3,2023-09-04,Italy,PayPal,1.0
+O10513,U263,Mouse,Accessories,794.53,4,2023-10-24,Canada,Apple Pay,2.0
+O10081,U849,Tablet,Electronics,155.86,1,2023-04-04,Poland,Bank Transfer,
+O10915,U915,Laptop,Electronics,675.34,1,2023-07-29,Italy,Bank Transfer,5.0
+O11018,U471,Router,Networking,981.69,5,2023-10-10,Canada,Bank Transfer,4.0
+O10380,U376,Laptop,Electronics,186.21,5,2023-04-28,France,Google Pay,5.0
+O11029,U886,Monitor,Electronics,399.98,4,2023-08-31,Germany,Bank Transfer,4.0
+O11688,U889,Tablet,Electronics,951.14,2,2023-02-25,Spain,Bank Transfer,5.0
+O10084,U322,Speaker,Electronics,959.94,2,2023-06-29,USA,Card,1.0
+O11677,U153,Printer,Office,213.7,4,2023-12-22,USA,Google Pay,5.0
+O10329,U916,Router,Networking,346.43,1,2023-11-28,Canada,Apple Pay,5.0
+O10006,U666,Printer,Office,1182.06,3,2023-12-30,USA,Google Pay,
+O10745,U240,Keyboard,Accessories,103.75,4,2023-10-16,Canada,Bank Transfer,4.0
+O11553,U260,Camera,Electronics,798.4,4,2023-09-30,Germany,Apple Pay,3.0
+O10914,U849,Headphones,Electronics,1195.83,4,2023-12-21,Poland,Bank Transfer,1.0
+O10873,U482,Mouse,Accessories,1349.39,2,2023-06-15,Canada,Bank Transfer,
+O10451,U889,Keyboard,Accessories,834.14,2,2023-04-24,France,Bank Transfer,2.0
+O10490,U319,Printer,Office,104.44,4,2023-06-12,Germany,Google Pay,4.0
+O11480,U970,Headphones,Electronics,787.18,5,2023-10-05,,Apple Pay,2.0
+O10287,U332,Router,Networking,144.47,3,2023-04-23,Italy,Bank Transfer,4.0
+O10948,U971,Mouse,Accessories,834.98,2,2023-02-13,Canada,Bank Transfer,2.0
+O11382,U708,Router,Networking,,1,2023-09-21,Germany,Card,3.0
+O11368,U448,Mouse,Accessories,1071.32,3,2023-03-05,UK,Bank Transfer,5.0
+O11146,U727,Keyboard,Accessories,1051.6,1,2023-01-24,Italy,Apple Pay,1.0
+O10705,U381,Router,Networking,878.53,3,2023-03-17,UK,Apple Pay,5.0
+O11726,U378,Printer,Office,433.92,2,2023-01-23,USA,Card,1.0
+O11701,U390,Mouse,Accessories,123.14,3,2023-10-03,France,Apple Pay,4.0
+O11628,U827,Tablet,Electronics,569.48,2,2023-02-20,Germany,Card,1.0
+O11599,U704,Printer,Office,628.77,2,2023-07-28,Germany,Card,2.0
+O11538,U719,Smartphone,Electronics,1200.18,4,2023-03-19,UK,PayPal,3.0
+O11405,U597,Camera,Electronics,1362.34,4,2023-10-03,Canada,PayPal,4.0
+O11650,U249,Printer,Office,998.97,5,2023-04-15,France,Google Pay,2.0
+O10327,U761,Smartwatch,Electronics,757.33,2,2023-07-30,Italy,PayPal,2.0
+O10442,U535,Router,Networking,703.68,4,2023-05-19,USA,Bank Transfer,4.0
+O10774,U956,Camera,Electronics,569.25,1,2023-04-17,Germany,Google Pay,2.0
+O11087,U636,Keyboard,Accessories,601.86,5,2023-07-16,France,Card,1.0
+O11220,U298,Laptop,Electronics,827.63,2,2023-11-30,Italy,Google Pay,3.0
+O11635,U703,Laptop,Electronics,756.34,5,2023-04-26,UK,Google Pay,5.0
+O10177,U878,Speaker,Electronics,870.22,5,2023-11-24,Spain,Apple Pay,4.0
+O11322,U378,Smartphone,Electronics,569.04,3,2023-04-09,Spain,Bank Transfer,3.0
+O10704,U355,Tablet,Electronics,352.84,4,2023-07-16,Poland,Apple Pay,3.0
+O10086,U574,Camera,Electronics,1416.96,2,2023-06-09,Canada,PayPal,5.0
+O11883,U990,Smartphone,Electronics,183.05,5,2023-02-10,Spain,PayPal,5.0
+O11947,U954,Tablet,Electronics,23.47,1,2023-01-26,USA,Google Pay,3.0
+O10457,U562,Tablet,Electronics,263.93,5,2023-08-01,Canada,Bank Transfer,1.0
+O11828,U578,Printer,Office,700.95,5,2023-07-05,Germany,Card,5.0
+O10054,U294,Mouse,Accessories,501.59,4,2023-05-15,USA,PayPal,4.0
+O11501,U125,Camera,Electronics,323.37,2,2023-08-25,Spain,Card,5.0
+O10643,U520,Monitor,Electronics,578.43,4,2023-06-28,UK,Google Pay,1.0
+O10677,U981,Tablet,Electronics,1041.2,2,2023-08-29,Poland,Bank Transfer,1.0
+O10221,U996,Router,Networking,971.53,2,2023-01-02,France,Google Pay,5.0
+O10113,U157,Monitor,Electronics,1305.53,5,2023-05-14,Germany,Card,1.0
+O10982,U380,Mouse,Accessories,1367.99,5,2023-05-28,Italy,Google Pay,2.0
+O11228,U655,Tablet,Electronics,639.07,3,2023-06-11,Canada,Apple Pay,4.0
+O10999,U916,Router,Networking,244.63,3,2023-07-01,Spain,Google Pay,4.0
+O10174,U194,Router,Networking,717.93,3,2023-04-04,Canada,Card,5.0
+O10781,U102,Headphones,Electronics,330.84,1,2023-11-07,USA,,3.0
+O10589,U494,Tablet,Electronics,29.93,3,2023-05-06,Italy,Apple Pay,2.0
+O11559,U817,Camera,Electronics,816.38,5,2023-08-06,UK,Card,4.0
+O10018,U491,Laptop,Electronics,28.17,3,2023-03-22,UK,Bank Transfer,4.0
+O10423,U651,Router,Networking,934.72,4,2023-04-13,Canada,Card,5.0
+O11343,U745,Mouse,Accessories,,1,2023-02-21,Spain,Bank Transfer,4.0
+O10285,U650,Smartwatch,Electronics,1233.52,5,2023-06-07,France,Apple Pay,2.0
+O11583,U600,Speaker,Electronics,393.17,1,2023-11-28,USA,Google Pay,4.0
+O10428,U841,Printer,Office,635.91,3,2023-09-03,Italy,Card,2.0
+O11509,U776,Laptop,Electronics,890.43,3,2023-04-11,Germany,Google Pay,4.0
+O11318,U650,Router,Networking,1303.42,3,2023-03-22,France,Google Pay,3.0
+O10669,U709,Keyboard,Accessories,117.23,1,2023-06-06,Canada,Google Pay,4.0
+O10031,U732,Router,Networking,547.32,1,2023-10-10,Spain,PayPal,5.0
+O10940,U701,Headphones,Electronics,1345.91,1,2023-01-17,France,PayPal,2.0
+O10722,U579,Router,Networking,1175.33,1,2023-05-19,Canada,PayPal,1.0
+O10994,U228,Printer,Office,54.83,3,2023-03-29,UK,Apple Pay,1.0
+O10214,U107,Router,Networking,1468.82,2,2023-12-15,France,Bank Transfer,1.0
+O10813,U148,Smartphone,Electronics,1274.93,4,2023-11-09,Italy,Apple Pay,1.0
+O10326,U408,Smartphone,Electronics,518.61,5,2023-04-29,,PayPal,4.0
+O10560,U548,Keyboard,Accessories,87.56,3,2023-12-28,Italy,Card,3.0
+O11112,U444,Camera,Electronics,313.99,2,2023-02-03,USA,PayPal,3.0
+O10700,U190,Printer,Office,1488.81,5,2023-06-30,Italy,PayPal,3.0
+O11578,U602,Tablet,Electronics,328.25,4,2023-11-28,Spain,Card,3.0
+O11189,U893,Speaker,Electronics,425.5,4,2023-01-27,Poland,Apple Pay,4.0
+O10341,U729,Speaker,Electronics,367.32,2,2023-07-14,France,PayPal,2.0
+O10629,U394,Printer,Office,1006.94,4,2023-10-17,Spain,Apple Pay,3.0
+O10147,U829,Smartwatch,Electronics,546.87,2,2023-03-19,Germany,Apple Pay,4.0
+O11309,U124,Speaker,Electronics,1391.82,4,2023-07-01,Canada,Bank Transfer,
+O10360,U258,Mouse,Accessories,1133.59,5,2023-03-18,Italy,Google Pay,4.0
+O10083,U861,Camera,Electronics,707.72,5,2023-01-23,Germany,Card,4.0
+O10048,U108,Keyboard,Accessories,1347.88,5,2023-06-09,Germany,Bank Transfer,2.0
+O10468,U231,Camera,Electronics,1317.44,5,2023-07-05,France,Card,3.0
+O10155,U372,Tablet,Electronics,578.38,2,2023-02-08,France,Google Pay,2.0
+O10772,U486,Smartphone,Electronics,750.38,5,2023-06-23,Canada,Card,4.0
+O11239,U184,Laptop,Electronics,278.39,2,2023-04-16,Italy,Google Pay,4.0
+O11200,U738,Smartphone,Electronics,717.54,2,2023-05-10,France,Card,1.0
+O11402,U581,Smartphone,Electronics,1369.22,5,2023-03-16,Italy,PayPal,2.0
+O11202,U173,Tablet,Electronics,1041.27,1,2023-07-22,Canada,Apple Pay,4.0
+O11630,U367,Headphones,Electronics,274.08,4,2023-09-24,USA,Apple Pay,3.0
+O10500,U453,Camera,Electronics,794.62,5,2023-03-02,Canada,Bank Transfer,3.0
+O11764,U248,Mouse,Accessories,1230.42,3,2023-10-02,Germany,PayPal,4.0
+O10179,U231,Camera,Electronics,1004.49,2,2023-03-03,Poland,Apple Pay,2.0
+O11047,U280,Tablet,Electronics,633.94,2,2023-02-16,Canada,PayPal,3.0
+O11755,U412,Mouse,Accessories,1369.16,2,2023-08-23,Germany,PayPal,2.0
+O10950,U497,Router,Networking,1130.04,2,2023-05-08,Canada,Bank Transfer,2.0
+O11316,U382,Speaker,Electronics,1414.71,1,2023-01-17,Poland,Bank Transfer,2.0
+O11619,U178,Smartphone,Electronics,1324.93,1,2023-03-07,Canada,Bank Transfer,5.0
+O10528,U317,Mouse,Accessories,381.62,4,2023-09-05,Spain,Apple Pay,1.0
+O10346,U981,Monitor,Electronics,1299.04,4,2023-09-08,Spain,Bank Transfer,
+O11387,U192,Smartphone,Electronics,104.36,1,2023-08-20,Poland,Card,1.0
+O10977,U619,Router,Networking,1212.36,5,2023-10-19,Poland,Google Pay,5.0
+O11050,U772,Tablet,Electronics,880.97,3,2023-11-04,Spain,PayPal,1.0
+O11271,U719,Router,Networking,249.19,1,2023-01-11,Canada,Google Pay,4.0
+O11441,U214,Camera,Electronics,768.95,1,2023-11-25,Poland,PayPal,5.0
+O10601,U379,Smartwatch,Electronics,1450.3,4,2023-04-02,Italy,Bank Transfer,
+O11281,U694,Speaker,Electronics,1201.04,5,2023-08-09,USA,PayPal,2.0
+O10243,U965,Mouse,Accessories,1203.14,4,2023-04-12,Italy,PayPal,1.0
+O11336,U562,Headphones,Electronics,1462.86,2,2023-03-15,Poland,Google Pay,3.0
+O11067,U295,Headphones,Electronics,1234.32,4,2023-07-29,Poland,Bank Transfer,3.0
+O11475,U838,Smartwatch,Electronics,401.51,1,2023-01-27,USA,Google Pay,1.0
+O10312,U524,Tablet,Electronics,1048.57,1,2023-04-12,Germany,PayPal,1.0
+O10435,U492,Smartphone,Electronics,217.05,1,2023-04-30,Poland,Apple Pay,5.0
+O11898,U962,Camera,Electronics,370.86,2,2023-04-22,Poland,Card,
+O11328,U527,Laptop,Electronics,226.39,5,2023-03-23,Poland,PayPal,3.0
+O10308,U951,Printer,Office,193.62,1,2023-08-24,Poland,Bank Transfer,3.0
+O10430,U437,Router,Networking,376.98,5,2023-06-30,UK,Apple Pay,1.0
+O10660,U508,Router,Networking,900.79,5,2023-06-20,Spain,Bank Transfer,
+O10370,U425,Smartphone,Electronics,725.51,3,2023-12-09,Poland,Card,4.0
+O10566,U140,Smartwatch,Electronics,806.77,3,2023-07-02,UK,PayPal,1.0
+O10979,U279,Keyboard,Accessories,445.24,2,2023-03-12,Poland,Bank Transfer,3.0
+O10181,U521,Speaker,Electronics,577.88,3,2023-05-05,France,Google Pay,3.0
+O11362,U787,Router,Networking,458.88,2,2023-05-03,Poland,PayPal,
+O10621,U124,Router,Networking,41.19,1,2023-10-19,Canada,Card,4.0
+O10818,U770,Tablet,Electronics,342.15,1,2023-12-14,Italy,Google Pay,5.0
+O11192,U646,Tablet,Electronics,727.06,5,2023-06-03,USA,PayPal,4.0
+O10952,U383,Router,Networking,1362.73,4,2023-12-12,Germany,Card,3.0
+O11421,U434,Router,Networking,487.27,2,2023-06-06,Canada,Card,3.0
+O11840,U720,Tablet,Electronics,,4,2023-03-28,Italy,Bank Transfer,3.0
+O10922,U186,Smartwatch,Electronics,548.02,4,2023-05-12,UK,Bank Transfer,2.0
+O11073,U978,Laptop,Electronics,138.56,5,2023-05-03,UK,Card,1.0
+O10296,U581,Headphones,Electronics,1160.2,2,2023-01-26,Canada,Bank Transfer,2.0
+O10966,U224,Printer,Office,313.18,2,2023-03-24,Spain,Google Pay,2.0
+O10461,U235,Keyboard,Accessories,1318.16,5,2023-04-21,Poland,Google Pay,3.0
+O11302,U790,Speaker,Electronics,701.33,3,2023-05-08,Germany,Apple Pay,3.0
+O11176,U709,Mouse,Accessories,749.58,1,2023-02-11,UK,Card,5.0
+O10377,U138,Camera,Electronics,793.27,4,2023-03-15,Germany,PayPal,3.0
+O10798,U481,Headphones,Electronics,380.72,3,2023-04-28,Germany,Google Pay,
+O11102,U344,Smartphone,Electronics,854.56,3,2023-05-17,UK,Bank Transfer,3.0
+O10105,U733,Camera,Electronics,1057.43,2,2023-10-10,Germany,Card,1.0
+O10126,U323,Printer,Office,577.17,1,2023-05-26,Poland,Apple Pay,
+O10613,U262,Speaker,Electronics,911.13,4,2023-12-31,France,PayPal,2.0
+O10838,U176,Tablet,Electronics,501.43,5,2023-04-14,USA,Google Pay,5.0
+O10355,U244,Monitor,Electronics,1260.41,2,2023-04-24,Poland,Card,5.0
+O11616,U584,Smartphone,Electronics,,5,2023-04-28,France,Apple Pay,2.0
+O10682,U527,Tablet,Electronics,265.31,5,2023-01-08,Canada,Google Pay,5.0
+O10812,U284,Smartphone,Electronics,321.14,4,2023-08-27,Italy,Google Pay,4.0
+O11680,U856,Camera,Electronics,336.04,4,2023-01-01,Spain,Card,2.0
+O10209,U528,Speaker,Electronics,1349.12,5,2023-11-01,Germany,Card,3.0
+O11492,U587,Printer,Office,745.66,1,2023-08-19,Spain,Google Pay,3.0
+O10140,U283,Smartphone,Electronics,1052.51,5,2023-05-18,France,Card,5.0
+O10192,U649,Tablet,Electronics,1243.66,2,2023-12-26,Canada,Card,2.0
+O11339,U993,Laptop,Electronics,902.29,2,2023-06-28,USA,,3.0
+O11797,U884,Router,Networking,1206.4,1,2023-03-02,Poland,Bank Transfer,4.0
+O11574,U481,Mouse,Accessories,227.95,4,2023-08-26,Germany,Google Pay,5.0
+O11181,U888,Smartwatch,Electronics,274.38,1,2023-08-07,Poland,Card,5.0
+O11393,U793,Camera,Electronics,134.57,2,2023-06-02,Canada,PayPal,2.0
+O11815,U769,Keyboard,Accessories,461.54,1,2023-07-14,Poland,Card,3.0
+O10711,U635,Smartphone,Electronics,511.64,2,2023-01-24,Spain,Bank Transfer,4.0
+O11793,U427,Camera,Electronics,1240.76,1,2023-02-17,UK,Bank Transfer,5.0
+O10892,U695,Monitor,Electronics,346.35,5,2023-09-07,Poland,Apple Pay,2.0
+O10859,U975,Router,Networking,971.01,2,2023-03-16,Italy,PayPal,3.0
+O10010,U134,Monitor,Electronics,671.43,4,2023-09-21,Poland,,5.0
+O11694,U481,Mouse,Accessories,324.71,4,2023-12-21,Poland,PayPal,5.0
+O11427,U748,Monitor,Electronics,952.66,5,2023-02-14,UK,PayPal,1.0
+O10282,U444,Headphones,Electronics,1068.38,3,2023-02-14,,PayPal,5.0
+O10810,U998,Smartwatch,Electronics,775.63,3,2023-09-28,Poland,Apple Pay,1.0
+O11341,U678,Smartphone,Electronics,217.99,2,2023-02-20,UK,Card,1.0
+O10291,U291,Monitor,Electronics,1160.86,4,2023-08-07,USA,Card,4.0
+O10754,U502,Tablet,Electronics,459.99,4,2023-04-18,UK,Apple Pay,4.0
+O10626,U144,Printer,Office,1216.19,5,2023-10-17,UK,Card,
+O10943,U159,Speaker,Electronics,1176.63,5,2023-06-12,Poland,Bank Transfer,1.0
+O10861,U144,Keyboard,Accessories,1323.84,3,2023-01-07,UK,PayPal,
+O10129,U962,Mouse,Accessories,,4,2023-07-16,UK,Card,4.0
+O11175,U558,Laptop,Electronics,637.74,5,2023-01-22,Germany,Card,5.0
+O10323,U908,Smartwatch,Electronics,689.43,3,2023-05-07,Canada,PayPal,2.0
+O11090,U637,Laptop,Electronics,1177.99,3,2023-11-05,UK,Card,5.0
+O10843,U600,Mouse,Accessories,1339.73,5,2023-10-31,Canada,Google Pay,2.0
+O10963,U292,Headphones,Electronics,1288.64,3,2023-01-22,Poland,Bank Transfer,3.0
+O11864,U912,Laptop,Electronics,1020.47,3,2023-09-30,France,Google Pay,3.0
+O10865,U408,Smartwatch,Electronics,112.34,4,2023-08-19,UK,PayPal,
+O10921,U261,Smartphone,Electronics,1002.01,2,2023-06-24,France,Apple Pay,5.0
+O10695,U550,Smartphone,Electronics,395.66,3,2023-12-15,Spain,Card,5.0
+O10215,U427,Keyboard,Accessories,348.52,3,2023-09-12,Germany,PayPal,1.0
+O11780,U767,Printer,Office,441.34,3,2023-01-31,Germany,Bank Transfer,3.0
+O11261,U891,Keyboard,Accessories,412.51,1,2023-05-20,Italy,Card,3.0
+O10158,U875,Smartwatch,Electronics,148.64,2,2023-04-21,France,Apple Pay,3.0
+O11058,U354,Headphones,Electronics,552.5,2,2023-06-30,USA,Bank Transfer,5.0
+O10988,U377,Laptop,Electronics,991.45,3,2023-06-14,France,PayPal,4.0
+O10841,U958,Keyboard,Accessories,1206.0,5,2023-12-31,UK,Bank Transfer,2.0
+O10634,U277,Headphones,Electronics,126.23,2,2023-01-14,Poland,Bank Transfer,4.0
+O10516,U725,Tablet,Electronics,1288.63,3,2023-10-10,Spain,Google Pay,2.0
+O11428,U213,Headphones,Electronics,1106.84,3,2023-01-30,Italy,PayPal,2.0
+O11747,U203,Monitor,Electronics,1260.76,1,2023-03-11,UK,Card,2.0
+O10597,U835,Monitor,Electronics,918.18,4,2023-04-19,Canada,,2.0
+O10195,U232,Mouse,Accessories,1399.54,4,2023-11-20,France,Apple Pay,5.0
+O11783,U306,Headphones,Electronics,89.65,3,2023-06-16,UK,Apple Pay,2.0
+O10869,U683,Speaker,Electronics,1460.15,1,2023-10-23,USA,PayPal,3.0
+O10410,U561,Headphones,Electronics,1017.97,2,2023-06-07,USA,PayPal,5.0
+O10096,U897,Headphones,Electronics,1115.06,3,2023-12-27,Germany,PayPal,5.0
+O11000,U895,Speaker,Electronics,871.53,4,2023-06-15,Italy,PayPal,4.0
+O11505,U977,Tablet,Electronics,495.87,4,2023-12-04,Italy,Apple Pay,2.0
+O10156,U244,Keyboard,Accessories,504.7,4,2023-01-25,UK,Apple Pay,2.0
+O10419,U616,Laptop,Electronics,911.78,3,2023-10-14,France,Apple Pay,4.0
+O11802,U575,Smartphone,Electronics,384.08,1,2023-03-30,Spain,Apple Pay,4.0
+O10477,U580,Printer,Office,238.23,1,2023-07-02,Spain,Card,1.0
+O11855,U449,Smartwatch,Electronics,,1,2023-07-15,Italy,Google Pay,4.0
+O10668,U158,Smartphone,Electronics,450.89,5,2023-08-02,Spain,PayPal,2.0
+O11417,U488,Printer,Office,656.61,4,2023-12-21,UK,Apple Pay,4.0
+O11871,U649,Keyboard,Accessories,284.68,1,2023-06-09,Poland,Bank Transfer,3.0
+O11299,U399,Headphones,Electronics,1078.76,3,2023-12-31,USA,Google Pay,2.0
+O10447,U248,Smartphone,Electronics,804.85,2,2023-09-23,Germany,Bank Transfer,1.0
+O10553,U579,Headphones,Electronics,1305.46,2,2023-08-04,Spain,PayPal,3.0
+O10178,U264,Smartwatch,Electronics,318.41,3,2023-08-01,Italy,Google Pay,5.0
+O10390,U799,Headphones,Electronics,1082.04,1,2023-10-07,Germany,PayPal,5.0
+O10578,U486,Laptop,Electronics,1116.65,5,2023-06-15,Spain,Google Pay,3.0
+O11477,U485,Smartwatch,Electronics,758.47,4,2023-01-25,Spain,Card,4.0
+O11706,U650,Laptop,Electronics,1295.58,2,2023-11-29,Italy,Card,3.0
+O11287,U266,Laptop,Electronics,463.9,2,2023-01-01,Poland,Google Pay,4.0
+O11644,U910,Monitor,Electronics,1316.13,3,2023-06-12,UK,Google Pay,3.0
+O11023,U171,Camera,Electronics,1483.48,3,2023-03-30,Spain,Card,1.0
+O10820,U906,Mouse,Accessories,1177.3,5,2023-11-14,France,PayPal,4.0
+O11824,U399,Printer,Office,1298.65,3,2023-04-23,Italy,Bank Transfer,1.0
+O10984,U985,Speaker,Electronics,1051.8,5,2023-11-14,Canada,Apple Pay,2.0
+O11338,U773,Tablet,Electronics,1277.92,3,2023-04-29,Canada,Apple Pay,1.0
+O10664,U132,Monitor,Electronics,45.98,5,2023-06-02,Canada,PayPal,4.0
+O10142,U851,Tablet,Electronics,534.17,3,2023-02-12,Spain,Card,2.0
+O11516,U185,Mouse,Accessories,1123.53,3,2023-02-17,Poland,Apple Pay,3.0
+O11429,U897,Camera,Electronics,,1,2023-09-10,UK,Bank Transfer,1.0
+O10864,U306,Smartphone,Electronics,1042.99,1,2023-09-21,Italy,Apple Pay,5.0
+O10421,U198,Camera,Electronics,1048.65,1,2023-03-24,Italy,Apple Pay,1.0
+O10636,U859,Camera,Electronics,421.69,2,2023-12-04,Spain,PayPal,4.0
+O11406,U287,Headphones,Electronics,301.54,5,2023-01-01,Canada,Bank Transfer,2.0
+O10799,U274,Laptop,Electronics,932.12,5,2023-05-17,Canada,Google Pay,4.0
+O11403,U358,Printer,Office,544.73,3,2023-02-08,USA,Card,2.0
+O10615,U905,Camera,Electronics,1341.77,3,2023-03-04,Italy,Google Pay,2.0
+O10294,U480,Camera,Electronics,680.02,3,2023-08-15,Canada,Bank Transfer,3.0
+O10923,U769,Tablet,Electronics,178.44,1,2023-03-07,France,Apple Pay,5.0
+O11268,U919,Smartphone,Electronics,815.26,3,2023-11-26,France,Apple Pay,4.0
+O11902,U287,Camera,Electronics,648.37,3,2023-04-17,USA,Card,3.0
+O10088,U941,Tablet,Electronics,946.39,1,2023-06-17,USA,,2.0
+O10041,U223,Headphones,Electronics,1228.32,1,2023-07-20,Italy,Apple Pay,3.0
+O11801,U187,Smartwatch,Electronics,1484.24,2,2023-03-06,Poland,Google Pay,5.0
+O11933,U972,Keyboard,Accessories,643.26,5,2023-08-20,Poland,Card,5.0
+O10131,U556,Router,Networking,579.22,5,2023-03-19,Poland,PayPal,1.0
+O11001,U907,Smartwatch,Electronics,354.88,4,2023-10-25,Poland,PayPal,2.0
+O11157,U489,Mouse,Accessories,1397.62,2,2023-12-16,USA,Apple Pay,2.0
+O11094,U509,Smartphone,Electronics,1302.31,1,2023-02-06,UK,Apple Pay,5.0
+O11854,U589,Monitor,Electronics,110.6,4,2023-08-21,France,Card,
+O11344,U816,Keyboard,Accessories,1089.17,1,2023-08-07,Germany,Apple Pay,3.0
+O11498,U908,Headphones,Electronics,506.56,1,2023-10-15,UK,Google Pay,3.0
+O10164,U105,Speaker,Electronics,627.39,4,2023-08-11,Germany,Bank Transfer,3.0
+O10724,U852,Router,Networking,212.31,5,2023-04-12,France,PayPal,3.0
+O10290,U295,Router,Networking,600.38,5,2023-10-05,,Google Pay,2.0
+O11208,U200,Monitor,Electronics,1317.39,2,2023-07-31,,Bank Transfer,3.0
+O11588,U742,Smartwatch,Electronics,656.91,1,2023-07-08,,Apple Pay,2.0
+O11896,U665,Router,Networking,1197.76,3,2023-06-24,UK,PayPal,4.0
+O11641,U369,Laptop,Electronics,212.87,1,2023-10-07,Germany,Card,5.0
+O11361,U577,Printer,Office,965.67,5,2023-10-20,France,Apple Pay,3.0
+O10778,U965,Camera,Electronics,233.69,4,2023-01-18,France,Card,3.0
+O10839,U992,Mouse,Accessories,1270.41,3,2023-07-01,Poland,Card,1.0
+O10348,U158,Printer,Office,,5,2023-09-02,Italy,Google Pay,2.0
+O11944,U804,Mouse,Accessories,347.3,5,2023-05-07,Germany,PayPal,
+O10571,U788,Smartphone,Electronics,961.87,5,2023-08-03,Germany,Google Pay,4.0
+O10917,U610,Camera,Electronics,900.91,5,2023-01-25,Spain,Apple Pay,3.0
+O10976,U240,Keyboard,Accessories,812.34,4,2023-01-12,Canada,Google Pay,5.0
+O11913,U566,Smartphone,Electronics,1387.14,3,2023-07-21,France,PayPal,4.0
+O11468,U492,Speaker,Electronics,86.39,3,2023-12-12,Germany,PayPal,4.0
+O11591,U414,Keyboard,Accessories,1280.91,3,2023-11-14,France,PayPal,5.0
+O11317,U628,Headphones,Electronics,685.92,4,2023-01-19,,PayPal,2.0
+O11844,U220,Camera,Electronics,335.02,4,2023-05-12,,Apple Pay,1.0
+O10136,U677,Laptop,Electronics,218.34,5,2023-12-07,Canada,PayPal,5.0
+O10458,U143,Keyboard,Accessories,1448.39,3,2023-03-29,Spain,Bank Transfer,4.0
+O10375,U243,Monitor,Electronics,1208.48,3,2023-05-16,Canada,Bank Transfer,1.0
+O11342,U368,Speaker,Electronics,735.65,1,2023-01-07,USA,PayPal,3.0
+O10333,U394,Camera,Electronics,917.16,2,2023-09-19,Germany,Google Pay,2.0
+O11159,U525,Printer,Office,101.0,1,2023-07-16,Canada,Bank Transfer,2.0
+O11760,U489,Laptop,Electronics,1237.69,3,2023-09-28,Poland,,2.0
+O11457,U285,Camera,Electronics,1282.63,2,2023-02-20,Germany,Google Pay,3.0
+O10816,U743,Mouse,Accessories,1099.27,3,2023-03-03,France,PayPal,3.0
+O11114,U641,Laptop,Electronics,282.44,2,2023-01-10,UK,Google Pay,4.0
+O11005,U621,Router,Networking,207.05,2,2023-07-20,France,Bank Transfer,1.0
+O11856,U539,Mouse,Accessories,175.79,2,2023-06-03,Germany,Bank Transfer,4.0
+O11135,U251,Keyboard,Accessories,510.79,1,2023-06-23,USA,Apple Pay,2.0
+O11850,U580,Printer,Office,1098.35,5,2023-08-14,Poland,Card,2.0
+O10910,U246,Monitor,Electronics,412.93,1,2023-01-06,Canada,Card,2.0
+O11929,U902,Smartphone,Electronics,586.94,1,2023-11-14,Poland,Card,3.0
+O11125,U847,Headphones,Electronics,244.03,2,2023-10-03,Poland,Apple Pay,1.0
+O10328,U813,Tablet,Electronics,822.87,3,2023-05-11,USA,Bank Transfer,3.0
+O11247,U185,Speaker,Electronics,505.27,5,2023-02-13,Italy,PayPal,2.0
+O10318,U971,Camera,Electronics,316.22,4,2023-11-01,Poland,Apple Pay,4.0
+O11689,U122,Tablet,Electronics,1225.56,2,2023-06-18,France,Apple Pay,4.0
+O11358,U951,Laptop,Electronics,470.1,2,2023-08-02,Germany,Card,1.0
+O11732,U674,Printer,Office,1377.1,4,2023-08-17,Poland,Card,4.0
+O10167,U399,Mouse,Accessories,811.85,2,2023-06-22,Poland,Card,2.0
+O10012,U501,Tablet,Electronics,860.2,5,2023-07-10,Germany,Bank Transfer,4.0
+O11926,U911,Monitor,Electronics,1395.78,3,2023-11-13,Poland,Apple Pay,3.0
+O10171,U360,Camera,Electronics,96.7,2,2023-01-10,Italy,PayPal,1.0
+O10649,U326,Laptop,Electronics,660.44,2,2023-09-13,,Card,3.0
+O11061,U860,Printer,Office,784.1,5,2023-01-30,Poland,Apple Pay,5.0
+O10260,U476,Camera,Electronics,879.52,4,2023-08-27,Spain,PayPal,4.0
+O11366,U618,Headphones,Electronics,186.35,3,2023-05-08,Germany,Bank Transfer,1.0
+O11548,U518,Smartwatch,Electronics,146.01,1,2023-03-28,Italy,Google Pay,
+O10901,U516,Printer,Office,774.58,5,2023-06-29,Germany,Google Pay,5.0
+O10672,U332,Tablet,Electronics,973.99,4,2023-10-05,Canada,PayPal,2.0
+O10258,U913,Headphones,Electronics,588.27,3,2023-02-08,USA,Google Pay,3.0
+O10844,U794,Speaker,Electronics,41.28,2,2023-12-22,Spain,Bank Transfer,5.0
+O10867,U901,Headphones,Electronics,125.13,4,2023-02-27,Italy,Apple Pay,3.0
+O11799,U145,Printer,Office,1188.15,2,2023-10-20,France,Google Pay,3.0
+O10138,U348,Monitor,Electronics,962.23,3,2023-11-04,UK,PayPal,3.0
+O10893,U738,Router,Networking,409.61,5,2023-02-14,Poland,Apple Pay,4.0
+O11837,U522,Tablet,Electronics,1258.2,3,2023-12-24,Spain,PayPal,2.0
+O10549,U980,Headphones,Electronics,294.29,5,2023-03-03,UK,Apple Pay,2.0
+O10319,U172,Mouse,Accessories,1065.58,1,2023-09-19,Poland,Card,1.0
+O11526,U462,Monitor,Electronics,1382.53,4,2023-11-09,UK,Card,1.0
+O11805,U280,Monitor,Electronics,1295.2,5,2023-08-15,France,Google Pay,1.0
+O11177,U221,Printer,Office,522.2,2,2023-09-04,Canada,Card,2.0
+O10558,U261,Camera,Electronics,1456.73,4,2023-07-13,USA,Card,3.0
+O10139,U858,Laptop,Electronics,1179.81,4,2023-01-30,UK,Apple Pay,3.0
+O11734,U727,Camera,Electronics,1400.5,1,2023-12-21,Canada,Google Pay,4.0
+O10531,U961,Headphones,Electronics,1112.34,4,2023-05-19,USA,Bank Transfer,
+O10224,U463,Headphones,Electronics,,3,2023-12-08,Spain,Card,1.0
+O10723,U535,Mouse,Accessories,412.68,4,2023-02-17,France,Google Pay,4.0
+O10786,U160,Smartphone,Electronics,782.21,1,2023-10-04,Italy,Apple Pay,3.0
+O11717,U165,Speaker,Electronics,1245.33,1,2023-12-05,France,Bank Transfer,3.0
+O11007,U668,Speaker,Electronics,1015.81,4,2023-06-08,Germany,PayPal,
+O10409,U693,Keyboard,Accessories,1397.28,2,2023-06-15,France,PayPal,4.0
+O10325,U246,Smartphone,Electronics,729.33,3,2023-05-02,Italy,Apple Pay,
+O11765,U255,Laptop,Electronics,163.29,2,2023-06-22,Canada,PayPal,4.0
+O10299,U558,Smartphone,Electronics,141.92,4,2023-01-22,Italy,Apple Pay,2.0
+O11262,U211,Tablet,Electronics,187.68,2,2023-02-26,Spain,PayPal,4.0
+O11945,U703,Camera,Electronics,212.92,1,2023-08-03,Canada,Bank Transfer,3.0
+O10025,U963,Router,Networking,670.22,3,2023-03-04,UK,PayPal,4.0
+O11858,U966,Router,Networking,802.3,2,2023-04-20,Germany,Google Pay,4.0
+O10714,U749,Monitor,Electronics,636.52,5,2023-11-09,UK,Bank Transfer,2.0
+O11009,U945,Speaker,Electronics,56.53,5,2023-04-20,Poland,PayPal,5.0
+O10193,U462,Smartphone,Electronics,646.92,2,2023-10-29,France,Apple Pay,2.0
+O10440,U534,Printer,Office,76.27,3,2023-04-19,Spain,Card,1.0
+O10573,U511,Camera,Electronics,566.2,3,2023-08-27,USA,Apple Pay,3.0
+O10946,U986,Headphones,Electronics,1393.59,5,2023-02-13,Poland,Bank Transfer,3.0
+O10997,U630,Smartphone,Electronics,394.48,4,2023-04-18,Germany,Apple Pay,1.0
+O10503,U941,Camera,Electronics,1003.0,1,2023-03-07,Canada,Card,3.0
+O10605,U163,Keyboard,Accessories,723.81,4,2023-05-27,Canada,Card,3.0
+O11716,U256,Mouse,Accessories,631.75,4,2023-03-16,Spain,Bank Transfer,4.0
+O11163,U158,Monitor,Electronics,378.42,3,2023-06-20,USA,Apple Pay,4.0
+O11786,U632,Mouse,Accessories,94.75,2,2023-08-28,USA,Card,3.0
+O10846,U167,Keyboard,Accessories,615.46,3,2023-01-25,Spain,PayPal,
+O10003,U376,Speaker,Electronics,1252.02,2,2023-07-11,Germany,Google Pay,4.0
+O11286,U435,Monitor,Electronics,677.97,4,2023-06-19,USA,Apple Pay,1.0
+O11222,U385,Laptop,Electronics,605.75,2,2023-04-18,Spain,Card,2.0
+O10467,U834,Headphones,Electronics,564.55,3,2023-08-31,France,Google Pay,2.0
+O10321,U210,Printer,Office,945.45,4,2023-11-14,France,Card,5.0
+O10005,U882,Headphones,Electronics,925.54,2,2023-07-07,UK,PayPal,3.0
+O10222,U570,Headphones,Electronics,525.89,2,2023-07-14,USA,Bank Transfer,1.0
+O11374,U225,Laptop,Electronics,334.74,2,2023-07-29,Germany,Card,4.0
+O10547,U167,Keyboard,Accessories,1100.76,1,2023-07-15,France,Apple Pay,5.0
+O10228,U208,Keyboard,Accessories,1476.92,2,2023-01-29,France,Google Pay,4.0
+O10039,U283,Headphones,Electronics,378.24,4,2023-07-22,Poland,PayPal,2.0
+O10542,U812,Printer,Office,1067.38,3,2023-10-02,Italy,PayPal,5.0
+O10242,U902,Laptop,Electronics,905.46,1,2023-02-08,Germany,Bank Transfer,5.0
+O10898,U970,Keyboard,Accessories,1145.43,1,2023-10-13,Italy,Apple Pay,5.0
+O11133,U254,Smartphone,Electronics,1315.72,5,2023-01-07,Italy,Google Pay,4.0
+O11448,U718,Smartwatch,Electronics,1113.62,4,2023-06-10,Italy,Google Pay,3.0
+O11868,U789,Laptop,Electronics,1107.58,3,2023-12-04,Italy,Apple Pay,3.0
+O10842,U980,Mouse,Accessories,79.72,5,2023-09-26,Italy,Google Pay,
+O11418,U948,Smartphone,Electronics,1405.54,2,2023-06-20,Spain,Card,
+O11653,U436,Smartphone,Electronics,1335.51,5,2023-05-05,Canada,Apple Pay,3.0
+O11132,U691,Keyboard,Accessories,1222.34,2,2023-08-08,Germany,PayPal,5.0
+O10661,U218,Tablet,Electronics,788.17,1,2023-12-06,Poland,Bank Transfer,4.0
+O11210,U364,Smartphone,Electronics,762.97,3,2023-04-18,Poland,Apple Pay,2.0
+O10314,U772,Speaker,Electronics,47.18,4,2023-05-28,Poland,Apple Pay,3.0
+O10691,U853,Smartwatch,Electronics,1176.4,4,2023-03-29,Spain,PayPal,4.0
+O11503,U519,Keyboard,Accessories,207.42,1,2023-08-20,France,Google Pay,1.0
+O10424,U919,Headphones,Electronics,930.52,4,2023-08-09,Spain,Google Pay,4.0
+O10594,U584,Tablet,Electronics,1139.2,5,2023-01-30,Poland,Google Pay,5.0
+O11343,U745,Mouse,Accessories,,1,2023-02-21,Spain,Bank Transfer,4.0
+O10622,U747,Speaker,Electronics,122.16,5,2023-08-20,Spain,Bank Transfer,4.0
+O11170,U593,Smartwatch,Electronics,387.94,1,2023-03-09,Spain,Bank Transfer,3.0
+O11043,U846,Speaker,Electronics,391.3,2,2023-01-28,Poland,Card,
+O10227,U377,Router,Networking,957.55,1,2023-09-03,Poland,Apple Pay,5.0
+O11117,U168,Headphones,Electronics,413.68,3,2023-11-04,Poland,Apple Pay,3.0
+O11331,U257,Smartphone,Electronics,907.4,2,2023-08-08,Poland,Card,5.0
+O11315,U802,Printer,Office,1219.81,3,2023-04-28,France,PayPal,4.0
+O10066,U858,Printer,Office,1059.68,5,2023-06-19,UK,Google Pay,3.0
+O10024,U114,Smartwatch,Electronics,750.82,1,2023-07-26,Poland,Google Pay,1.0
+O10144,U192,Smartwatch,Electronics,629.26,3,2023-06-04,France,Card,
+O10536,U492,Speaker,Electronics,986.68,4,2023-02-08,UK,Apple Pay,4.0
+O10811,U757,Printer,Office,626.41,1,2023-08-20,Canada,Card,5.0
+O11466,U642,Printer,Office,520.99,2,2023-06-15,UK,PayPal,5.0
+O10085,U615,Mouse,Accessories,1401.49,1,2023-11-21,Poland,Apple Pay,4.0
+O11660,U716,Tablet,Electronics,1126.44,3,2023-11-21,Spain,Card,1.0
+O11645,U486,Mouse,Accessories,803.77,2,2023-10-12,Canada,Apple Pay,1.0
+O11804,U514,Printer,Office,369.78,4,2023-10-29,Poland,Apple Pay,2.0
+O11817,U341,Mouse,Accessories,1265.18,2,2023-06-27,Germany,Card,2.0
+O11576,U119,Keyboard,Accessories,1326.01,5,2023-04-24,Poland,PayPal,
+O11144,U323,Headphones,Electronics,702.13,5,2023-02-17,Spain,Card,5.0
+O10362,U496,Laptop,Electronics,668.5,2,2023-03-23,Italy,Bank Transfer,4.0
+O11611,U836,Laptop,Electronics,788.15,1,2023-06-02,Italy,PayPal,3.0
+O11865,U612,Laptop,Electronics,1101.4,3,2023-02-02,Spain,Google Pay,3.0
+O11026,U228,Camera,Electronics,493.64,5,2023-04-21,Canada,Card,3.0
+O11030,U540,Monitor,Electronics,936.38,5,2023-07-07,Germany,Bank Transfer,2.0
+O11303,U177,Headphones,Electronics,204.48,1,2023-08-19,Spain,Bank Transfer,2.0
+O11355,U938,Smartphone,Electronics,678.05,3,2023-08-25,USA,Apple Pay,2.0
+O11730,U739,Mouse,Accessories,587.55,4,2023-08-31,UK,Bank Transfer,5.0
+O10665,U111,Keyboard,Accessories,350.43,1,2023-05-06,Germany,Card,1.0
+O10364,U164,Router,Networking,980.63,5,2023-05-23,Canada,Bank Transfer,3.0
+O10077,U157,Camera,Electronics,1444.72,1,2023-05-09,USA,Card,5.0
+O10027,U135,Speaker,Electronics,627.37,3,2023-01-29,UK,Bank Transfer,5.0
+O11436,U125,Headphones,Electronics,881.71,3,2023-01-03,Italy,Google Pay,4.0
+O10525,U310,Keyboard,Accessories,458.8,2,2023-05-14,Germany,Apple Pay,4.0
+O11834,U927,Speaker,Electronics,755.92,5,2023-09-04,Spain,Apple Pay,
+O10055,U849,Smartwatch,Electronics,861.1,4,2023-01-22,Germany,Card,3.0
+O10638,U885,Tablet,Electronics,299.78,5,2023-06-03,USA,Card,2.0
+O10302,U991,Smartphone,Electronics,1476.29,1,2023-02-27,France,Bank Transfer,4.0
+O10718,U510,Headphones,Electronics,501.44,1,2023-04-22,Italy,Apple Pay,2.0
+O10624,U483,Printer,Office,151.13,1,2023-10-17,France,Bank Transfer,4.0
+O10007,U746,Mouse,Accessories,710.81,5,2023-11-03,Italy,PayPal,2.0
+O10803,U170,Mouse,Accessories,1401.03,2,2023-01-17,USA,PayPal,1.0
+O11049,U540,Headphones,Electronics,312.51,2,2023-05-18,Italy,Bank Transfer,4.0
+O10336,U433,Camera,Electronics,1365.37,2,2023-01-14,France,Bank Transfer,3.0
+O10047,U996,Router,Networking,784.62,1,2023-01-02,France,Google Pay,1.0
+O11763,U955,Keyboard,Accessories,698.21,4,2023-07-05,Canada,Card,5.0
+O10106,U595,Printer,Office,779.72,3,2023-05-16,UK,Google Pay,5.0
+O10349,U792,Speaker,Electronics,770.71,4,2023-10-03,Poland,PayPal,3.0
+O11079,U365,Printer,Office,1237.06,1,2023-01-01,France,PayPal,5.0
+O10238,U388,Laptop,Electronics,724.55,5,2023-11-08,UK,Card,2.0
+O10213,U479,Smartwatch,Electronics,572.5,2,2023-06-11,UK,Apple Pay,5.0
+O11775,U894,Router,Networking,1284.3,1,2023-12-22,USA,PayPal,3.0
+O11138,U278,Headphones,Electronics,1000.22,3,2023-11-24,USA,Card,5.0
+O10793,U144,Tablet,Electronics,285.29,4,2023-04-22,UK,PayPal,2.0
+O11586,U985,Tablet,Electronics,233.12,2,2023-11-27,USA,Bank Transfer,3.0
+O11582,U185,Keyboard,Accessories,1180.92,2,2023-09-01,Poland,PayPal,4.0
+O11671,U612,Laptop,Electronics,469.19,1,2023-11-29,USA,Apple Pay,4.0
+O10523,U892,Smartwatch,Electronics,848.44,1,2023-07-15,Germany,Bank Transfer,5.0
+O10232,U709,Camera,Electronics,1352.03,3,2023-06-17,UK,Apple Pay,4.0
+O10644,U828,Monitor,Electronics,82.59,5,2023-11-12,Poland,Bank Transfer,4.0
+O11507,U959,Smartphone,Electronics,1098.38,3,2023-02-22,USA,Apple Pay,1.0
+O10533,U223,Tablet,Electronics,25.65,1,2023-05-28,Poland,PayPal,
+O11941,U262,Mouse,Accessories,865.4,1,2023-09-04,UK,Card,3.0
+O10603,U313,Speaker,Electronics,1107.18,2,2023-04-14,Italy,Bank Transfer,3.0
+O11329,U501,Mouse,Accessories,1390.22,2,2023-11-23,Spain,Apple Pay,1.0
+O11074,U617,Tablet,Electronics,1118.59,5,2023-02-04,Germany,Apple Pay,3.0
+O11304,U168,Speaker,Electronics,78.26,1,2023-05-25,Spain,Bank Transfer,1.0
+O10060,U136,Smartwatch,Electronics,433.75,3,2023-08-21,Italy,,5.0
+O11263,U896,Laptop,Electronics,828.68,5,2023-12-05,Canada,Bank Transfer,2.0
+O10092,U592,Laptop,Electronics,754.14,2,2023-04-24,USA,Bank Transfer,5.0
+O10666,U327,Monitor,Electronics,463.7,4,2023-05-15,Italy,Google Pay,5.0
+O10280,U388,Speaker,Electronics,999.93,3,2023-08-25,UK,Bank Transfer,5.0
+O11113,U963,Router,Networking,890.23,2,2023-03-11,France,Card,5.0
+O10359,U780,Tablet,Electronics,255.75,1,2023-06-10,Canada,Card,
+O11128,U926,Camera,Electronics,974.92,5,2023-08-02,France,Apple Pay,1.0
+O11169,U874,Keyboard,Accessories,1215.94,2,2023-04-16,Poland,PayPal,4.0
+O10847,U672,Keyboard,Accessories,1139.96,3,2023-03-15,Canada,PayPal,3.0
+O11521,U933,Smartwatch,Electronics,1325.97,4,2023-08-25,Italy,Google Pay,2.0
+O10110,U319,Printer,Office,749.09,5,2023-08-30,France,Google Pay,3.0
+O10042,U863,Smartwatch,Electronics,1049.8,3,2023-05-28,Canada,Google Pay,4.0
+O10125,U104,Laptop,Electronics,1317.46,3,2023-12-31,Spain,Google Pay,1.0
+O10204,U600,Mouse,Accessories,281.05,4,2023-07-17,Canada,Bank Transfer,5.0
+O10052,U805,Smartphone,Electronics,1461.02,2,2023-12-04,Canada,Card,4.0
+O10545,U772,Printer,Office,162.87,1,2023-11-16,Germany,Google Pay,3.0
+O10068,U875,Router,Networking,949.28,4,2023-11-17,USA,PayPal,4.0
+O11740,U634,Camera,Electronics,1388.25,1,2023-11-24,France,Bank Transfer,4.0
+O11547,U993,Laptop,Electronics,327.12,5,2023-09-30,USA,Google Pay,3.0
+O10183,U203,Camera,Electronics,588.16,5,2023-04-14,Germany,Bank Transfer,4.0
+O10137,U905,Mouse,Accessories,1356.66,4,2023-08-14,Canada,Bank Transfer,4.0
+O10899,U270,Printer,Office,576.19,2,2023-09-26,Italy,Card,1.0
+O10796,U214,Laptop,Electronics,1338.47,2,2023-05-18,Italy,Google Pay,2.0
+O10132,U545,Keyboard,Accessories,1432.0,5,2023-09-17,Poland,Apple Pay,5.0
+O10080,U796,Mouse,Accessories,386.64,3,2023-03-27,Canada,PayPal,2.0
+O10536,U492,Speaker,Electronics,986.68,4,2023-02-08,UK,Apple Pay,4.0
+O11540,U734,Smartphone,Electronics,833.82,4,2023-08-01,Poland,Bank Transfer,5.0
+O10541,U826,Monitor,Electronics,1115.06,2,2023-04-12,Italy,Google Pay,1.0
+O11668,U882,Mouse,Accessories,650.66,5,2023-03-06,Spain,PayPal,2.0
+O10983,U129,Printer,Office,554.39,2,2023-12-22,Canada,Apple Pay,3.0
+O10165,U745,Printer,Office,1454.82,4,2023-12-01,Spain,Card,
+O10248,U146,Monitor,Electronics,1481.75,5,2023-01-26,France,PayPal,1.0
+O10446,U716,Headphones,Electronics,199.65,4,2023-03-19,Spain,Google Pay,4.0
+O11514,U975,Tablet,Electronics,1490.5,3,2023-07-10,Italy,Card,3.0
+O10858,U904,Monitor,Electronics,742.97,5,2023-11-18,,Google Pay,5.0
+O11211,U630,Keyboard,Accessories,758.81,4,2023-09-04,Germany,Google Pay,1.0
+O10097,U496,Tablet,Electronics,767.77,1,2023-12-08,Germany,Google Pay,5.0
+O11304,U168,Speaker,Electronics,78.26,1,2023-05-25,Spain,Bank Transfer,1.0
+O10737,U557,Tablet,Electronics,1429.65,3,2023-02-12,Canada,PayPal,5.0
+O11255,U786,Smartwatch,Electronics,1416.79,2,2023-01-18,Germany,Card,3.0
+O10102,U262,Monitor,Electronics,1461.89,2,2023-05-13,Italy,PayPal,5.0
+O10434,U120,Tablet,Electronics,928.84,5,2023-02-11,Spain,Bank Transfer,
+O10074,U919,Camera,Electronics,307.68,3,2023-11-07,Italy,PayPal,1.0
+O11791,U676,Laptop,Electronics,466.16,4,2023-09-14,Spain,PayPal,4.0
+O11234,U253,Monitor,Electronics,960.28,5,2023-01-17,UK,Bank Transfer,1.0
+O10918,U381,Speaker,Electronics,385.05,2,2023-03-14,Poland,Bank Transfer,4.0
+O11711,U855,Tablet,Electronics,1134.04,3,2023-09-21,France,Apple Pay,1.0
+O11670,U842,Speaker,Electronics,1295.58,1,2023-12-20,Canada,Google Pay,5.0
+O11620,U240,Monitor,Electronics,762.69,1,2023-04-01,Spain,Apple Pay,1.0
+O10762,U145,Smartwatch,Electronics,346.32,1,2023-08-25,UK,PayPal,2.0
+O10989,U909,Printer,Office,420.55,2,2023-03-18,France,PayPal,3.0
+O10388,U869,Headphones,Electronics,598.54,5,2023-09-11,Poland,Card,2.0
+O10235,U792,Keyboard,Accessories,1438.77,1,2023-11-03,Canada,PayPal,4.0
+O11506,U419,Speaker,Electronics,1059.55,4,2023-08-15,Italy,Apple Pay,1.0
+O10267,U592,Tablet,Electronics,981.48,5,2023-08-31,UK,,1.0
+O11187,U228,Speaker,Electronics,764.95,1,2023-12-06,Spain,PayPal,2.0
+O10117,U985,Camera,Electronics,455.85,1,2023-02-23,France,Card,3.0
+O11606,U630,Keyboard,Accessories,1497.87,4,2023-05-04,France,Apple Pay,1.0
+O10673,U124,Mouse,Accessories,1093.93,2,2023-01-26,Spain,Card,4.0
+O10249,U185,Headphones,Electronics,890.63,1,2023-10-09,UK,Bank Transfer,5.0
+O11452,U941,Speaker,Electronics,21.11,2,2023-03-13,USA,PayPal,1.0
+O10592,U174,Printer,Office,358.16,3,2023-03-08,France,Card,1.0
+O10094,U198,Camera,Electronics,646.74,3,2023-06-26,Poland,Card,3.0
+O10033,U926,Speaker,Electronics,197.4,4,2023-06-01,Canada,PayPal,2.0
+O11463,U238,Laptop,Electronics,622.21,3,2023-12-22,USA,Bank Transfer,4.0
+O11667,U205,Mouse,Accessories,691.06,2,2023-01-10,UK,PayPal,1.0
+O10448,U792,Smartwatch,Electronics,722.02,2,2023-09-26,UK,Apple Pay,5.0
+O10716,U137,Smartphone,Electronics,22.18,4,2023-11-28,Canada,,4.0
+O11809,U648,Mouse,Accessories,1019.79,3,2023-10-10,Spain,Card,4.0
+O11517,U240,Printer,Office,1386.3,2,2023-05-31,France,PayPal,5.0
+O10000,U206,Speaker,Electronics,574.32,5,2023-09-28,Germany,Card,4.0
+O11375,U357,Smartwatch,Electronics,699.83,5,2023-09-22,Canada,PayPal,3.0
+O11101,U234,Printer,Office,1244.7,3,2023-06-19,Canada,Card,4.0
+O11108,U848,Mouse,Accessories,946.01,1,2023-12-10,Spain,Card,2.0
+O11226,U695,Keyboard,Accessories,593.79,4,2023-05-10,France,Card,5.0
+O10082,U650,Camera,Electronics,279.49,2,2023-12-07,UK,Card,2.0
+O11288,U955,Mouse,Accessories,194.99,3,2023-12-13,UK,PayPal,3.0
+O10676,U658,Printer,Office,519.26,4,2023-02-26,USA,Card,1.0
+O11920,U944,Speaker,Electronics,202.12,1,2023-08-22,UK,Apple Pay,2.0
+O11046,U721,Smartphone,Electronics,1412.75,5,2023-03-20,UK,PayPal,5.0
+O10770,U430,Printer,Office,648.66,2,2023-06-10,UK,Google Pay,3.0
+O11946,U626,Camera,Electronics,1323.36,3,2023-07-14,UK,Apple Pay,1.0
+O11280,U406,Printer,Office,948.65,5,2023-09-13,Italy,Card,2.0
+O11580,U526,Mouse,Accessories,1108.17,2,2023-08-24,Poland,Apple Pay,1.0
+O11488,U762,Mouse,Accessories,652.76,2,2023-01-29,UK,Card,5.0
+O10404,U608,Mouse,Accessories,1242.58,4,2023-08-14,Poland,Google Pay,1.0
+O11727,U931,Tablet,Electronics,73.91,5,2023-11-03,Germany,Card,4.0
+O11298,U161,Smartwatch,Electronics,471.26,2,2023-07-25,Italy,Google Pay,3.0
+O11340,U515,Mouse,Accessories,1037.04,2,2023-12-23,Spain,Card,2.0
+O10104,U329,Smartphone,Electronics,1258.71,1,2023-09-10,Germany,Card,1.0
+O10688,U453,Keyboard,Accessories,1193.04,3,2023-05-05,Spain,Apple Pay,4.0
+O11305,U777,Monitor,Electronics,299.42,4,2023-10-23,France,PayPal,3.0
+O10826,U139,Mouse,Accessories,319.34,3,2023-11-09,UK,Apple Pay,3.0
+O10062,U355,Tablet,Electronics,131.51,5,2023-06-10,Spain,Apple Pay,3.0
+O10852,U376,Router,Networking,1022.75,2,2023-03-16,Poland,Card,4.0
+O11353,U358,Mouse,Accessories,251.42,5,2023-02-04,USA,Google Pay,2.0
+O10223,U833,Printer,Office,1249.37,5,2023-09-13,Italy,Bank Transfer,3.0
+O10145,U104,Headphones,Electronics,910.86,3,2023-10-04,Italy,Bank Transfer,2.0
+O11088,U912,Smartwatch,Electronics,933.94,2,2023-03-07,Germany,PayPal,3.0
+O10373,U240,Printer,Office,1392.01,4,2023-10-04,Spain,Google Pay,3.0
+O11420,U561,Printer,Office,1370.07,5,2023-04-24,Canada,Bank Transfer,2.0
+O11142,U942,Laptop,Electronics,150.47,1,2023-05-03,Germany,PayPal,4.0
+O11826,U690,Monitor,Electronics,239.76,5,2023-09-17,USA,Card,1.0
+O11494,U695,Laptop,Electronics,1195.05,5,2023-02-03,France,PayPal,3.0
+O11601,U319,Printer,Office,994.43,4,2023-08-16,USA,Apple Pay,5.0
+O11270,U354,Camera,Electronics,1011.24,4,2023-12-21,UK,Apple Pay,4.0
+O10009,U997,Keyboard,Accessories,590.42,2,2023-02-22,Italy,Bank Transfer,4.0
+O10449,U622,Printer,Office,790.74,4,2023-08-14,USA,Google Pay,1.0
+O10708,U211,Mouse,Accessories,322.6,1,2023-05-27,Spain,Apple Pay,5.0
+O10255,U496,Laptop,Electronics,1209.89,4,2023-12-15,Poland,Bank Transfer,4.0
+O10882,U310,Printer,Office,749.0,4,2023-02-07,Spain,Card,4.0
+O10389,U653,Laptop,Electronics,903.63,2,2023-11-19,France,Apple Pay,3.0
+O10908,U470,Keyboard,Accessories,796.61,1,2023-08-15,Germany,PayPal,2.0
+O10924,U825,Smartphone,Electronics,913.62,4,2023-04-26,Germany,,2.0
+O11703,U851,Router,Networking,930.71,4,2023-02-17,Spain,Bank Transfer,2.0
+O11232,U622,Keyboard,Accessories,1169.66,3,2023-03-10,Canada,Card,2.0
+O10460,U906,Smartwatch,Electronics,176.78,5,2023-01-30,Germany,Card,3.0
+O11269,U461,Smartwatch,Electronics,214.31,2,2023-05-23,Germany,PayPal,3.0
+O11759,U581,Camera,Electronics,173.86,5,2023-04-28,UK,Bank Transfer,2.0
+O11168,U925,Smartwatch,Electronics,34.67,2,2023-12-20,Italy,Bank Transfer,1.0
+O10958,U103,Keyboard,Accessories,819.64,2,2023-04-18,Italy,Apple Pay,4.0
+O10501,U709,Monitor,Electronics,822.97,1,2023-01-17,USA,Bank Transfer,1.0
+O10739,U618,Laptop,Electronics,1015.6,5,2023-11-24,France,Google Pay,2.0
+O11849,U205,Smartphone,Electronics,500.42,2,2023-05-17,USA,Bank Transfer,3.0
+O10868,U882,Tablet,Electronics,101.73,2,2023-02-21,Canada,Card,1.0
+O10731,U963,Speaker,Electronics,583.17,4,2023-02-01,Canada,Apple Pay,4.0
+O10539,U801,Camera,Electronics,701.33,4,2023-11-24,UK,Bank Transfer,3.0
+O11201,U543,Router,Networking,1327.85,1,2023-08-03,USA,Card,1.0
+O10697,U771,Smartwatch,Electronics,1380.91,3,2023-05-09,Canada,Bank Transfer,3.0
+O11392,U984,Headphones,Electronics,212.19,1,2023-03-14,Italy,Google Pay,4.0
+O11376,U175,Headphones,Electronics,1180.72,2,2023-04-24,Germany,Card,3.0
+O11145,U369,Laptop,Electronics,1402.12,3,2023-04-26,Canada,Card,4.0
+O11031,U953,Speaker,Electronics,675.69,5,2023-12-31,Poland,Card,2.0
+O10372,U498,Keyboard,Accessories,1347.14,5,2023-05-04,UK,PayPal,2.0
+O10667,U324,Tablet,Electronics,54.92,3,2023-09-21,UK,PayPal,4.0
+O11525,U857,Keyboard,Accessories,1407.47,3,2023-08-02,UK,Google Pay,1.0
+O10357,U386,Monitor,Electronics,1379.64,1,2023-05-27,Italy,Bank Transfer,4.0
+O10967,U347,Tablet,Electronics,474.68,1,2023-08-25,Italy,Google Pay,3.0
+O10783,U959,Laptop,Electronics,784.31,1,2023-07-21,Germany,Apple Pay,4.0
+O10735,U552,Router,Networking,820.29,5,2023-07-12,,,4.0
+O11035,U510,Headphones,Electronics,365.94,2,2023-02-11,Poland,Google Pay,5.0
+O10970,U504,Smartwatch,Electronics,366.04,3,2023-03-26,Germany,PayPal,5.0
+O11524,U969,Tablet,Electronics,400.11,5,2023-10-07,Poland,PayPal,4.0
+O11486,U379,Speaker,Electronics,425.76,1,2023-11-26,USA,Card,5.0
+O11523,U470,Mouse,Accessories,52.53,1,2023-11-22,Spain,PayPal,1.0
+O11490,U497,Headphones,Electronics,780.01,1,2023-07-05,Italy,Bank Transfer,3.0
+O11642,U410,Printer,Office,81.63,4,2023-12-17,France,Google Pay,5.0
+O11252,U279,Printer,Office,189.07,2,2023-04-20,Canada,Card,3.0
+O11693,U520,Printer,Office,302.84,2,2023-06-05,Italy,Apple Pay,4.0
+O11749,U621,Tablet,Electronics,739.35,1,2023-09-23,Italy,Apple Pay,5.0
+O11236,U905,Router,Networking,664.39,2,2023-05-20,Germany,Card,3.0
+O10885,U957,Smartwatch,Electronics,775.02,5,2023-07-07,Italy,Bank Transfer,5.0
+O10079,U960,Headphones,Electronics,784.71,5,2023-10-05,UK,PayPal,3.0
+O11172,U790,Smartwatch,Electronics,617.15,3,2023-07-03,Poland,Google Pay,1.0
+O10814,U631,Keyboard,Accessories,575.69,5,2023-12-01,France,Apple Pay,
+O11285,U960,Keyboard,Accessories,502.81,1,2023-09-17,France,Card,4.0
+O10671,U707,Camera,Electronics,1415.23,5,2023-11-08,USA,Card,4.0
+O11531,U837,Camera,Electronics,789.89,2,2023-10-20,Spain,Bank Transfer,3.0
+O10057,U978,Printer,Office,538.12,1,2023-10-11,Poland,PayPal,3.0
+O10133,U194,Laptop,Electronics,1140.36,2,2023-12-14,Poland,Bank Transfer,1.0
+O11140,U478,Tablet,Electronics,1118.13,4,2023-02-04,Spain,Card,4.0
+O10933,U878,Tablet,Electronics,,3,2023-01-30,Italy,Google Pay,3.0
+O11684,U770,Printer,Office,146.4,1,2023-04-25,France,PayPal,3.0
+O10823,U998,Router,Networking,1129.97,1,2023-08-03,UK,Card,3.0
+O11214,U276,Tablet,Electronics,839.27,4,2023-03-17,Poland,Google Pay,2.0
+O10504,U185,Laptop,Electronics,629.41,5,2023-06-16,Spain,Bank Transfer,2.0
+O11774,U659,Tablet,Electronics,695.35,1,2023-01-23,Canada,PayPal,1.0
+O10347,U381,Tablet,Electronics,202.0,5,2023-01-20,Poland,PayPal,1.0
+O10386,U760,Mouse,Accessories,1306.5,1,2023-04-29,Germany,Apple Pay,1.0
+O11024,U443,Laptop,Electronics,486.08,3,2023-02-23,Germany,Apple Pay,3.0
+O10894,U436,Smartphone,Electronics,99.2,4,2023-07-24,Spain,Card,2.0
+O10828,U277,Laptop,Electronics,845.73,2,2023-01-02,UK,PayPal,3.0
+O11892,U358,Smartwatch,Electronics,862.89,4,2023-05-27,Poland,Bank Transfer,3.0
+O10475,U641,Keyboard,Accessories,240.52,5,2023-03-17,Italy,Google Pay,
+O11470,U639,Laptop,Electronics,789.94,4,2023-12-22,Italy,Bank Transfer,5.0
+O11447,U381,Smartphone,Electronics,671.47,5,2023-06-26,Canada,Google Pay,3.0
+O11581,U309,Laptop,Electronics,517.79,1,2023-11-14,UK,Card,3.0
+O10652,U720,Speaker,Electronics,718.98,1,2023-04-10,USA,Apple Pay,4.0
+O10172,U741,Keyboard,Accessories,1485.14,5,2023-06-17,USA,Card,1.0
+O11149,U965,Smartphone,Electronics,951.85,5,2023-12-27,UK,PayPal,4.0
+O10038,U829,Camera,Electronics,1027.44,5,2023-06-21,,Card,
+O10713,U780,Mouse,Accessories,1397.89,5,2023-11-14,France,Google Pay,1.0
+O10090,U948,Tablet,Electronics,159.78,3,2023-08-03,Canada,PayPal,4.0
+O11936,U163,Mouse,Accessories,549.6,2,2023-09-21,UK,Card,1.0
+O11205,U748,Tablet,Electronics,28.95,1,2023-11-14,Germany,Apple Pay,2.0
+O10875,U585,Printer,Office,933.48,5,2023-07-11,USA,PayPal,4.0
+O11351,U714,Keyboard,Accessories,1476.18,5,2023-03-25,Italy,Card,
+O11889,U554,Speaker,Electronics,99.08,3,2023-03-08,Spain,PayPal,3.0
+O11093,U639,Printer,Office,641.62,3,2023-10-16,Italy,PayPal,5.0
+O11155,U405,Monitor,Electronics,1230.08,5,2023-09-29,Italy,PayPal,4.0
+O11781,U101,Camera,Electronics,927.49,2,2023-08-05,France,PayPal,5.0
+O11809,U648,Mouse,Accessories,1019.79,3,2023-10-10,Spain,Card,4.0
+O10499,U697,Keyboard,Accessories,638.63,1,2023-11-23,Canada,Card,3.0
+O10338,U229,Smartphone,Electronics,619.43,1,2023-03-25,Italy,Bank Transfer,1.0
+O11188,U196,Router,Networking,829.63,3,2023-02-14,Spain,PayPal,1.0
+O10028,U895,Laptop,Electronics,906.32,3,2023-03-27,UK,Card,5.0
+O11217,U929,Mouse,Accessories,826.0,5,2023-11-06,Italy,Google Pay,3.0
+O11399,U639,Laptop,Electronics,233.48,3,2023-01-24,UK,Bank Transfer,2.0
+O11820,U940,Smartphone,Electronics,1344.65,3,2023-11-01,UK,Google Pay,1.0
+O10945,U245,Monitor,Electronics,481.47,3,2023-08-30,Italy,Card,2.0
+O10169,U753,Smartwatch,Electronics,378.77,1,2023-03-31,Germany,Apple Pay,2.0
+O11404,U275,Speaker,Electronics,1320.54,1,2023-12-23,Poland,Google Pay,4.0
+O11197,U196,Keyboard,Accessories,1225.29,4,2023-07-28,Germany,Bank Transfer,2.0
+O11253,U890,Router,Networking,1472.15,1,2023-11-27,Italy,Card,1.0
+O11613,U151,Smartphone,Electronics,489.59,5,2023-12-06,Germany,PayPal,2.0
+O10912,U368,Router,Networking,1371.14,4,2023-02-27,Canada,Google Pay,1.0
+O10491,U304,Printer,Office,1462.76,2,2023-08-05,UK,Bank Transfer,2.0
+O10953,U235,Smartphone,Electronics,1070.97,3,2023-09-03,Germany,PayPal,3.0
+O11097,U843,Printer,Office,1100.66,5,2023-10-09,USA,PayPal,1.0
+O11032,U851,Tablet,Electronics,354.53,2,2023-12-12,France,PayPal,2.0
+O10587,U932,Smartphone,Electronics,657.18,4,2023-02-25,USA,Bank Transfer,2.0
+O10750,U788,Printer,Office,1062.74,1,2023-08-07,Spain,Card,3.0
+O10657,U657,Camera,Electronics,824.83,5,2023-03-15,Italy,Apple Pay,2.0
+O10234,U675,Laptop,Electronics,587.05,2,2023-02-15,Canada,Bank Transfer,3.0
+O10732,U983,Speaker,Electronics,588.85,3,2023-02-12,UK,Bank Transfer,1.0
+O11634,U422,Speaker,Electronics,355.57,3,2023-07-17,France,PayPal,1.0
+O11632,U283,Laptop,Electronics,1396.09,1,2023-11-10,Poland,Apple Pay,2.0
+O11156,U541,Tablet,Electronics,,1,2023-12-02,UK,Google Pay,1.0
+O11469,U461,Keyboard,Accessories,218.36,1,2023-10-10,Germany,Apple Pay,1.0
+O11424,U354,Printer,Office,88.37,2,2023-07-29,Spain,Card,2.0
+O11627,U972,Keyboard,Accessories,73.78,2,2023-01-22,Canada,Google Pay,2.0
+O10934,U990,Laptop,Electronics,172.83,2,2023-07-24,Spain,Google Pay,4.0
+O11209,U834,Monitor,Electronics,317.87,1,2023-06-06,Germany,Card,1.0
+O11065,U234,Tablet,Electronics,583.81,2,2023-09-16,France,Google Pay,5.0
+O10108,U544,Headphones,Electronics,538.32,4,2023-10-02,UK,Bank Transfer,3.0
+O11542,U815,Smartphone,Electronics,302.05,2,2023-09-15,France,Apple Pay,
+O10568,U431,Smartwatch,Electronics,603.97,4,2023-01-19,Spain,PayPal,5.0
+O11167,U757,Printer,Office,1019.87,2,2023-03-20,USA,PayPal,5.0
+O11174,U796,Monitor,Electronics,222.79,3,2023-11-15,Poland,Apple Pay,2.0
+O10890,U276,Smartwatch,Electronics,1409.56,3,2023-03-17,France,PayPal,4.0
+O10947,U518,Monitor,Electronics,1164.89,4,2023-12-03,Spain,Apple Pay,3.0
+O11048,U377,Headphones,Electronics,979.39,1,2023-01-07,Germany,PayPal,1.0
+O11352,U624,Mouse,Accessories,353.24,5,2023-09-25,UK,PayPal,5.0
+O11777,U701,Speaker,Electronics,382.18,3,2023-12-31,UK,Apple Pay,5.0
+O11446,U623,Printer,Office,1223.45,2,2023-12-18,Spain,Card,3.0
+O10884,U948,Headphones,Electronics,,5,2023-12-31,Spain,Google Pay,5.0
+O11672,U634,Smartphone,Electronics,404.5,4,2023-08-11,Spain,Apple Pay,2.0
+O10850,U212,Laptop,Electronics,675.73,2,2023-09-03,Italy,PayPal,3.0
+O10734,U988,Headphones,Electronics,367.76,3,2023-12-05,UK,Google Pay,3.0
+O10717,U925,Printer,Office,968.14,1,2023-12-09,France,Bank Transfer,2.0
+O10454,U629,Speaker,Electronics,1321.32,4,2023-08-21,Italy,Card,4.0
+O10264,U904,Speaker,Electronics,1025.88,4,2023-07-06,USA,PayPal,4.0
+O10075,U758,Headphones,Electronics,1454.91,2,2023-06-07,Germany,Apple Pay,4.0
+O11657,U805,Smartphone,Electronics,25.67,3,2023-12-10,Italy,Bank Transfer,1.0
+O10444,U722,Headphones,Electronics,833.43,2,2023-02-07,UK,PayPal,1.0
+O10395,U911,Smartwatch,Electronics,967.45,2,2023-03-08,,Bank Transfer,2.0
+O10176,U612,Camera,Electronics,1408.74,4,2023-02-04,Poland,Apple Pay,4.0
+O11042,U447,Keyboard,Accessories,1139.26,2,2023-01-11,Italy,PayPal,5.0
+O11735,U542,Monitor,Electronics,1197.03,1,2023-10-08,Canada,PayPal,5.0
+O11401,U946,Speaker,Electronics,1031.48,3,2023-07-12,UK,Apple Pay,3.0
+O11380,U410,Laptop,Electronics,1079.29,5,2023-07-27,France,Bank Transfer,3.0
+O10595,U134,Monitor,Electronics,568.19,4,2023-12-23,Spain,Card,5.0
+O10061,U198,Printer,Office,653.71,5,2023-04-05,UK,Bank Transfer,
+O11296,U306,Camera,Electronics,1243.17,5,2023-03-25,France,PayPal,5.0
+O10872,U200,Headphones,Electronics,543.47,5,2023-02-05,USA,PayPal,2.0
+O11489,U888,Speaker,Electronics,880.36,1,2023-06-02,Spain,Apple Pay,5.0
+O11878,U237,Speaker,Electronics,210.55,3,2023-02-23,UK,Google Pay,3.0
+O10278,U692,Mouse,Accessories,1443.94,5,2023-10-11,France,Bank Transfer,1.0
+O10036,U212,Tablet,Electronics,239.17,1,2023-07-06,Italy,Bank Transfer,
+O11733,U419,Laptop,Electronics,1180.28,1,2023-01-11,,Bank Transfer,1.0
+O10662,U894,Printer,Office,1163.92,4,2023-07-05,Germany,Bank Transfer,3.0
+O11004,U421,Printer,Office,1495.43,2,2023-03-30,Poland,Bank Transfer,3.0
+O11444,U512,Mouse,Accessories,797.23,2,2023-06-19,France,Bank Transfer,3.0
+O10977,U619,Router,Networking,1212.36,5,2023-10-19,Poland,Google Pay,5.0
+O11571,U956,Smartphone,Electronics,908.79,4,2023-10-26,Canada,Apple Pay,4.0
+O10738,U613,Router,Networking,1022.19,4,2023-05-31,France,Card,5.0
+O10191,U910,Tablet,Electronics,1047.04,4,2023-10-09,USA,Google Pay,3.0
+O10919,U251,Smartphone,Electronics,424.1,3,2023-11-19,UK,Apple Pay,5.0
+O10456,U959,Router,Networking,1134.72,1,2023-01-22,UK,Apple Pay,1.0
+O10675,U148,Smartwatch,Electronics,594.49,4,2023-11-17,Canada,Bank Transfer,5.0
+O10760,U548,Speaker,Electronics,572.86,5,2023-10-11,France,Card,1.0
+O11807,U921,Speaker,Electronics,231.13,4,2023-10-19,Italy,PayPal,2.0
+O11602,U443,Printer,Office,1284.68,2,2023-08-17,Italy,Bank Transfer,4.0
+O10728,U240,Smartphone,Electronics,1214.46,5,2023-03-14,Canada,Card,2.0
+O10412,U565,Smartwatch,Electronics,53.88,3,2023-05-10,Spain,Card,
+O11098,U442,Mouse,Accessories,625.45,3,2023-03-05,USA,Apple Pay,3.0
+O10825,U366,Smartwatch,Electronics,474.22,5,2023-09-26,USA,Card,2.0
+O11639,U672,Smartphone,Electronics,1216.37,5,2023-05-28,Italy,Apple Pay,5.0
+O10616,U819,Headphones,Electronics,65.57,5,2023-10-14,France,Bank Transfer,4.0
+O10114,U248,Router,Networking,1455.42,5,2023-10-30,Poland,Bank Transfer,1.0
+O10417,U642,Smartwatch,Electronics,833.3,4,2023-05-21,Germany,Apple Pay,3.0
+O11910,U910,Mouse,Accessories,41.51,5,2023-04-29,France,Bank Transfer,4.0
+O10969,U147,Camera,Electronics,44.56,3,2023-04-26,Poland,Bank Transfer,2.0
+O10604,U619,Printer,Office,938.58,5,2023-12-07,Poland,Card,1.0
+O11918,U895,Speaker,Electronics,1402.25,1,2023-08-15,Poland,Card,5.0
+O10089,U401,Monitor,Electronics,425.46,4,2023-04-05,Canada,Bank Transfer,1.0
+O10848,U750,Printer,Office,358.74,3,2023-12-09,USA,Google Pay,5.0
+O11519,U342,Printer,Office,981.32,2,2023-12-19,Poland,Card,2.0
+O11917,U359,Keyboard,Accessories,1024.77,3,2023-02-02,Spain,Apple Pay,4.0
+O10753,U594,Mouse,Accessories,901.13,3,2023-06-06,USA,Bank Transfer,
+O10498,U277,Speaker,Electronics,920.62,1,2023-06-10,Spain,Bank Transfer,4.0
+O11276,U936,Mouse,Accessories,75.35,1,2023-01-12,UK,Card,5.0
+O11325,U532,Speaker,Electronics,,1,2023-08-01,,Apple Pay,4.0
+O10011,U489,Smartphone,Electronics,402.99,4,2023-01-02,Germany,Card,2.0
+O10396,U271,Laptop,Electronics,512.84,2,2023-08-03,Spain,PayPal,4.0
+O10284,U634,Laptop,Electronics,1442.75,1,2023-01-31,Poland,Bank Transfer,1.0
+O11066,U463,Tablet,Electronics,587.16,5,2023-07-05,Italy,Apple Pay,1.0
+O11191,U698,Keyboard,Accessories,1150.0,1,2023-12-02,USA,Google Pay,4.0
+O11744,U110,Monitor,Electronics,979.19,5,2023-03-29,Canada,Google Pay,4.0
+O10690,U932,Smartwatch,Electronics,725.81,4,2023-04-04,Poland,Bank Transfer,3.0
+O11752,U890,Headphones,Electronics,503.8,2,2023-04-02,Italy,PayPal,5.0
+O11875,U128,Tablet,Electronics,982.9,4,2023-07-29,Italy,PayPal,4.0
+O10689,U619,Printer,Office,604.9,2,2023-09-04,Canada,PayPal,2.0
+O10851,U288,Speaker,Electronics,1411.1,3,2023-10-15,UK,Card,4.0
+O10159,U617,Printer,Office,855.4,2,2023-04-11,USA,Bank Transfer,5.0
+O10895,U157,Headphones,Electronics,698.32,5,2023-09-30,USA,Bank Transfer,2.0
+O11575,U480,Speaker,Electronics,676.6,4,2023-12-28,France,PayPal,4.0
+O10257,U858,Monitor,Electronics,703.68,2,2023-09-08,Poland,Apple Pay,2.0
+O10335,U893,Tablet,Electronics,954.71,1,2023-12-21,Poland,Card,4.0
+O11879,U739,Smartwatch,Electronics,512.38,2,2023-07-02,UK,PayPal,2.0
+O11039,U520,Headphones,Electronics,,3,2023-04-27,UK,Apple Pay,1.0
+O10515,U485,Smartphone,Electronics,253.77,4,2023-09-25,France,Apple Pay,2.0
+O11348,U869,Smartwatch,Electronics,482.99,3,2023-12-03,,Apple Pay,1.0
+O11015,U817,Printer,Office,999.52,3,2023-08-19,France,Bank Transfer,4.0
+O10768,U674,Camera,Electronics,1318.66,4,2023-02-16,Spain,Card,3.0
+O11746,U930,Monitor,Electronics,689.42,4,2023-05-18,USA,Apple Pay,2.0
+O10761,U263,Speaker,Electronics,882.73,1,2023-05-17,France,Bank Transfer,5.0
+O11246,U954,Laptop,Electronics,123.18,4,2023-08-04,Italy,Card,3.0
+O11203,U140,Keyboard,Accessories,553.38,5,2023-06-15,Italy,Apple Pay,1.0
+O11467,U867,Monitor,Electronics,236.98,3,2023-11-30,Canada,PayPal,4.0
+O10654,U248,Camera,Electronics,1113.12,4,2023-11-22,UK,Apple Pay,4.0
+O10521,U359,Headphones,Electronics,1008.52,5,2023-06-11,Poland,Bank Transfer,
+O10022,U712,Smartphone,Electronics,1333.07,1,2023-08-15,Spain,PayPal,
+O10356,U939,Camera,Electronics,1299.62,1,2023-03-17,Spain,Google Pay,4.0
+O11277,U581,Mouse,Accessories,594.2,3,2023-07-16,USA,Apple Pay,5.0
+O11312,U738,Router,Networking,600.56,3,2023-06-02,UK,Bank Transfer,3.0
+O11682,U728,Smartwatch,Electronics,251.66,3,2023-05-19,Germany,Bank Transfer,2.0
+O10340,U400,Laptop,Electronics,33.36,1,2023-06-13,Germany,PayPal,2.0
+O10431,U494,Camera,Electronics,83.1,1,2023-07-07,UK,Apple Pay,3.0
+O10473,U635,Headphones,Electronics,851.0,4,2023-09-11,USA,Apple Pay,4.0
+O10217,U187,Laptop,Electronics,,3,2023-04-06,France,Google Pay,4.0
+O10911,U679,Smartphone,Electronics,457.57,5,2023-09-01,France,PayPal,3.0
+O11227,U421,Camera,Electronics,1409.3,4,2023-10-23,Germany,Bank Transfer,5.0
+O11596,U394,Printer,Office,417.39,4,2023-06-20,Italy,PayPal,2.0
+O11011,U519,Mouse,Accessories,232.06,4,2023-06-22,Italy,Apple Pay,4.0
+O11949,U135,Tablet,Electronics,75.58,3,2023-03-22,,Google Pay,4.0
+O10093,U860,Laptop,Electronics,78.0,1,2023-10-04,USA,Google Pay,3.0
+O11008,U255,Tablet,Electronics,94.62,4,2023-04-11,USA,Bank Transfer,2.0
+O11070,U319,Printer,Office,1302.11,4,2023-08-12,Spain,Apple Pay,1.0
+O11092,U175,Keyboard,Accessories,1114.73,3,2023-12-04,Poland,Card,4.0
+O11914,U237,Printer,Office,1129.41,5,2023-05-21,France,Card,3.0
+O11308,U318,Speaker,Electronics,596.03,1,2023-03-12,Poland,Card,4.0
+O10696,U537,Tablet,Electronics,20.66,4,2023-09-22,France,Card,3.0
+O11827,U122,Monitor,Electronics,478.26,2,2023-07-03,Germany,PayPal,2.0
+O10996,U280,Laptop,Electronics,748.5,1,2023-02-16,Canada,Bank Transfer,4.0
+O10153,U607,Router,Networking,1344.91,3,2023-08-27,France,Google Pay,1.0
+O11099,U954,Headphones,Electronics,639.22,5,2023-05-26,Canada,Bank Transfer,2.0
+O11718,U172,Smartwatch,Electronics,1087.26,1,2023-02-15,Italy,Bank Transfer,5.0
+O11824,U399,Printer,Office,1298.65,3,2023-04-23,Italy,Bank Transfer,1.0
+O10789,U928,Headphones,Electronics,768.34,1,2023-08-01,Poland,Google Pay,3.0
+O10580,U312,Router,Networking,144.9,2,2023-12-23,Canada,PayPal,5.0
+O10703,U453,Laptop,Electronics,358.47,1,2023-10-05,Canada,Bank Transfer,4.0
+O11212,U785,Headphones,Electronics,741.33,2,2023-06-03,Spain,Google Pay,
+O11295,U143,Tablet,Electronics,65.02,4,2023-12-17,Italy,Bank Transfer,2.0
+O11665,U807,Router,Networking,445.12,5,2023-01-28,UK,PayPal,4.0
+O11260,U374,Keyboard,Accessories,953.54,5,2023-12-16,France,Apple Pay,2.0
+O10487,U412,Headphones,Electronics,754.76,1,2023-10-07,Italy,Bank Transfer,1.0
+O10559,U672,Laptop,Electronics,1476.08,1,2023-07-29,France,PayPal,3.0
+O11141,U830,Smartwatch,Electronics,474.58,3,2023-01-01,France,Card,2.0
+O11119,U288,Speaker,Electronics,48.04,5,2023-11-26,Poland,PayPal,2.0
+O10801,U857,Router,Networking,321.43,2,2023-05-21,USA,Apple Pay,3.0
+O10512,U878,Printer,Office,158.24,5,2023-11-03,Poland,Card,2.0
+O10633,U583,Tablet,Electronics,298.01,2,2023-01-10,Italy,Google Pay,4.0
+O11921,U897,Mouse,Accessories,584.22,4,2023-12-14,Poland,Apple Pay,3.0
+O11787,U297,Smartwatch,Electronics,399.31,1,2023-04-28,Canada,Google Pay,1.0
+O11545,U543,Keyboard,Accessories,1443.19,5,2023-09-03,UK,Bank Transfer,4.0
+O11150,U880,Monitor,Electronics,601.82,4,2023-08-29,France,Apple Pay,
+O10790,U761,Tablet,Electronics,838.99,3,2023-02-08,Poland,PayPal,3.0
+O10116,U332,Mouse,Accessories,1454.57,2,2023-02-16,France,Google Pay,2.0
+O10740,U694,Smartwatch,Electronics,1404.24,2,2023-09-29,Germany,Bank Transfer,4.0
+O11690,U684,Keyboard,Accessories,486.13,2,2023-05-24,Poland,Google Pay,
+O11081,U270,Router,Networking,1198.8,1,2023-10-06,Germany,Card,4.0
+O10830,U294,Mouse,Accessories,833.03,1,2023-08-27,UK,Apple Pay,5.0
+O10119,U472,Laptop,Electronics,1337.59,4,2023-06-05,USA,Bank Transfer,2.0
+O10656,U217,Router,Networking,564.32,1,2023-02-18,USA,PayPal,4.0
+O11907,U687,Camera,Electronics,467.91,1,2023-09-06,Germany,PayPal,4.0
+O10635,U158,Speaker,Electronics,1237.35,4,2023-07-24,Germany,Apple Pay,4.0
+O10369,U392,Camera,Electronics,582.69,2,2023-10-31,USA,Google Pay,2.0
+O10268,U852,Tablet,Electronics,89.48,1,2023-08-06,Canada,Apple Pay,
+O10655,U632,Monitor,Electronics,712.87,1,2023-12-22,Canada,Card,2.0
+O10935,U989,Smartwatch,Electronics,850.66,5,2023-08-08,Germany,Card,4.0
+O10822,U994,Smartphone,Electronics,592.2,4,2023-09-22,Germany,Google Pay,5.0
+O10866,U593,Monitor,Electronics,1229.12,2,2023-12-16,Germany,Card,3.0
+O10046,U445,Keyboard,Accessories,401.75,4,2023-05-24,Canada,Card,
+O11373,U585,Smartphone,Electronics,1474.07,1,2023-02-12,UK,Card,3.0
+O11708,U669,Smartwatch,Electronics,1154.13,2,2023-07-24,Poland,Bank Transfer,3.0
+O10991,U288,Printer,Office,995.95,1,2023-12-07,Germany,Google Pay,4.0
+O10876,U927,Smartphone,Electronics,469.36,3,2023-04-22,USA,PayPal,3.0
+O10773,U875,Speaker,Electronics,1119.46,3,2023-08-26,UK,Google Pay,1.0
+O11219,U170,Monitor,Electronics,936.42,4,2023-12-02,UK,Card,4.0
+O11509,U776,Laptop,Electronics,890.43,3,2023-04-11,Germany,Google Pay,4.0
+O10004,U956,Tablet,Electronics,925.25,5,2023-08-24,USA,Card,2.0
+O11003,U462,Smartphone,Electronics,334.25,1,2023-08-30,France,Google Pay,1.0
+O11723,U682,Router,Networking,296.42,1,2023-05-13,Germany,PayPal,4.0
+O10263,U498,Camera,Electronics,82.3,1,2023-03-14,Germany,Google Pay,3.0
+O11569,U432,Monitor,Electronics,1404.57,3,2023-06-02,Italy,PayPal,4.0
+O11830,U487,Tablet,Electronics,433.81,5,2023-12-12,UK,PayPal,3.0
+O10443,U590,Smartwatch,Electronics,998.83,4,2023-02-20,France,Bank Transfer,3.0
+O11002,U520,Mouse,Accessories,998.49,2,2023-10-30,USA,Google Pay,4.0
+O11077,U595,Laptop,Electronics,125.31,5,2023-07-14,Poland,Card,2.0
+O10837,U465,Mouse,Accessories,1290.02,1,2023-02-25,Spain,Bank Transfer,5.0
+O11790,U813,Headphones,Electronics,969.54,2,2023-02-17,Spain,,5.0
+O10304,U638,Laptop,Electronics,852.87,4,2023-07-27,Canada,Apple Pay,
+O11365,U288,Monitor,Electronics,211.05,4,2023-10-07,Poland,Apple Pay,1.0
+O11557,U294,Keyboard,Accessories,551.95,2,2023-08-21,Poland,Apple Pay,4.0
+O10313,U988,Headphones,Electronics,731.15,1,2023-03-17,Canada,Card,3.0
+O10149,U147,Laptop,Electronics,777.25,3,2023-11-15,Italy,Card,1.0
+O11148,U875,Speaker,Electronics,1025.16,4,2023-09-04,Italy,PayPal,4.0
+O11213,U549,Smartwatch,Electronics,678.38,5,2023-05-11,,Card,5.0
+O10574,U754,Smartphone,Electronics,1352.48,4,2023-08-31,France,Card,4.0
+O10050,U519,Smartphone,Electronics,970.21,3,2023-04-23,Poland,Google Pay,5.0
+O11552,U447,Smartwatch,Electronics,857.09,5,2023-08-07,France,PayPal,3.0
+O10726,U100,Laptop,Electronics,255.36,3,2023-07-17,UK,PayPal,1.0
+O10833,U986,Speaker,Electronics,1169.65,4,2023-10-06,Spain,Bank Transfer,2.0
+O11377,U800,Monitor,Electronics,1398.59,1,2023-08-06,UK,Apple Pay,4.0
+O11115,U578,Tablet,Electronics,876.89,4,2023-11-25,Spain,Apple Pay,1.0
+O11166,U212,Mouse,Accessories,599.88,2,2023-07-01,UK,Bank Transfer,3.0
+O10470,U137,Laptop,Electronics,1001.3,5,2023-07-21,USA,PayPal,2.0
+O10971,U357,Smartphone,Electronics,470.81,1,2023-03-05,Germany,PayPal,5.0
+O10653,U875,Speaker,Electronics,73.19,1,2023-08-04,France,Bank Transfer,4.0
+O10399,U732,Printer,Office,317.38,2,2023-06-07,Spain,Card,5.0
+O10511,U700,Headphones,Electronics,1201.55,4,2023-10-06,Spain,Card,3.0
+O10320,U363,Monitor,Electronics,821.12,2,2023-07-23,Italy,Bank Transfer,5.0
+O10019,U140,Headphones,Electronics,1161.48,5,2023-08-19,UK,Card,5.0
+O10684,U780,Headphones,Electronics,1283.6,4,2023-03-11,Italy,Bank Transfer,2.0
+O10035,U485,Router,Networking,395.79,4,2023-10-22,France,Google Pay,4.0
+O10902,U838,Smartwatch,Electronics,1394.01,1,2023-02-13,Spain,Apple Pay,4.0
+O11778,U871,Tablet,Electronics,1458.64,1,2023-08-22,France,Bank Transfer,3.0
+O10827,U399,Mouse,Accessories,1295.04,4,2023-05-18,Spain,Bank Transfer,4.0
+O11853,U892,Smartphone,Electronics,1243.58,5,2023-01-09,UK,PayPal,2.0
+O10407,U361,Smartphone,Electronics,681.86,4,2023-11-07,Poland,Google Pay,5.0
+O10920,U262,Smartphone,Electronics,1140.43,1,2023-09-28,Poland,Apple Pay,2.0
+O10537,U836,Smartwatch,Electronics,1004.18,2,2023-04-25,France,Apple Pay,5.0
+O10758,U920,Laptop,Electronics,193.26,1,2023-09-23,Germany,Apple Pay,5.0
+O11904,U670,Headphones,Electronics,958.1,5,2023-03-31,USA,Bank Transfer,4.0
+O11062,U961,Headphones,Electronics,240.73,4,2023-04-28,USA,Google Pay,1.0
+O11199,U820,Mouse,Accessories,1050.2,3,2023-10-11,UK,Card,2.0
+O10245,U691,Printer,Office,680.09,4,2023-11-14,Spain,Apple Pay,5.0
+O11416,U487,Smartwatch,Electronics,1288.5,2,2023-05-24,France,Google Pay,4.0
+O11127,U198,Headphones,Electronics,326.09,3,2023-07-05,Spain,PayPal,3.0
+O10784,U695,Laptop,Electronics,1324.9,5,2023-10-30,France,Apple Pay,3.0
+O11742,U948,Monitor,Electronics,1383.32,1,2023-12-12,USA,Card,1.0
+O10489,U824,Smartphone,Electronics,1385.48,1,2023-02-05,Poland,Card,1.0
+O10154,U291,Monitor,Electronics,682.17,3,2023-01-15,Italy,Bank Transfer,2.0
+O10961,U750,Laptop,Electronics,1328.85,3,2023-04-16,UK,PayPal,4.0
+O10853,U281,Mouse,Accessories,100.5,3,2023-12-11,Canada,Bank Transfer,2.0
+O11311,U486,Tablet,Electronics,619.35,1,2023-08-25,USA,Google Pay,5.0
+O10625,U683,Keyboard,Accessories,56.26,3,2023-12-21,Poland,Bank Transfer,1.0
+O10685,U545,Smartphone,Electronics,1428.12,3,2023-03-31,Spain,PayPal,3.0
+O11561,U334,Laptop,Electronics,175.72,4,2023-12-24,UK,Google Pay,5.0
+O10569,U544,Smartwatch,Electronics,1013.0,5,2023-09-25,Italy,PayPal,2.0
+O11908,U516,Mouse,Accessories,209.72,4,2023-10-21,Canada,Google Pay,3.0
+O10017,U228,Smartphone,Electronics,43.14,1,2023-12-10,UK,Card,2.0
+O10127,U316,Keyboard,Accessories,577.57,2,2023-03-04,USA,Bank Transfer,
+O11346,U719,Headphones,Electronics,377.66,3,2023-02-25,USA,Bank Transfer,3.0
+O11279,U644,Monitor,Electronics,166.86,4,2023-06-30,Spain,Apple Pay,2.0
+O10737,U557,Tablet,Electronics,1429.65,3,2023-02-12,Canada,PayPal,5.0
+O10927,U724,Camera,Electronics,192.54,5,2023-03-11,France,Card,1.0
+O10980,U530,Camera,Electronics,674.32,3,2023-08-16,USA,Bank Transfer,3.0
+O11458,U542,Speaker,Electronics,785.56,2,2023-04-30,UK,Google Pay,4.0
+O10190,U510,Laptop,Electronics,625.25,5,2023-05-10,UK,Apple Pay,4.0
+O11139,U720,Mouse,Accessories,483.12,3,2023-11-23,Poland,PayPal,4.0
+O10992,U983,Headphones,Electronics,1478.06,2,2023-07-06,France,Google Pay,3.0
+O10815,U950,Keyboard,Accessories,,5,2023-11-19,Canada,PayPal,1.0
+O11656,U688,Tablet,Electronics,249.41,5,2023-05-12,UK,PayPal,5.0
+O10606,U239,Keyboard,Accessories,906.7,5,2023-02-16,Germany,PayPal,1.0
+O10180,U939,Camera,Electronics,890.69,2,2023-10-23,France,PayPal,3.0
+O10301,U758,Laptop,Electronics,1288.89,4,2023-09-19,Canada,Card,2.0
+O10496,U120,Speaker,Electronics,944.15,5,2023-11-10,Canada,Apple Pay,2.0
+O11720,U882,Printer,Office,65.98,4,2023-11-13,Canada,Apple Pay,2.0
+O11709,U451,Smartphone,Electronics,815.77,4,2023-05-23,Spain,Google Pay,2.0
+O11887,U987,Camera,Electronics,1326.6,3,2023-07-29,Poland,Apple Pay,3.0
+O11208,U200,Monitor,Electronics,1317.39,2,2023-07-31,,Bank Transfer,3.0
+O10517,U619,Laptop,Electronics,770.44,4,2023-05-09,Spain,Card,5.0
+O10680,U673,Laptop,Electronics,1025.84,5,2023-10-21,UK,Bank Transfer,5.0
+O11069,U666,Printer,Office,1180.92,1,2023-03-26,,PayPal,2.0
+O10476,U118,Router,Networking,330.57,4,2023-07-11,UK,Google Pay,3.0
+O10157,U332,Speaker,Electronics,721.48,2,2023-03-08,Italy,PayPal,3.0
+O11243,U568,Printer,Office,221.83,4,2023-01-10,Poland,Card,5.0
+O11195,U369,Keyboard,Accessories,122.17,1,2023-03-02,Spain,Card,4.0
+O10016,U114,Printer,Office,823.19,1,2023-06-06,France,Google Pay,2.0
+O11535,U479,Smartphone,Electronics,1458.68,3,2023-08-28,France,Google Pay,4.0
+O11072,U350,Router,Networking,1185.86,5,2023-11-26,Italy,PayPal,4.0
+O10385,U786,Laptop,Electronics,241.56,2,2023-03-10,Spain,Google Pay,2.0
+O10546,U838,Headphones,Electronics,465.87,3,2023-11-05,France,Card,2.0
+O11539,U173,Router,Networking,1339.97,3,2023-04-14,Italy,Bank Transfer,3.0
+O10658,U967,Camera,Electronics,,2,2023-12-03,UK,Bank Transfer,5.0
+O11625,U315,Printer,Office,402.42,4,2023-12-22,USA,PayPal,4.0
+O11019,U344,Headphones,Electronics,446.61,3,2023-12-19,Italy,PayPal,4.0
+O11662,U992,Smartphone,Electronics,1374.45,1,2023-03-01,Spain,PayPal,2.0
+O11504,U601,Headphones,Electronics,310.05,5,2023-07-10,UK,Bank Transfer,4.0
+O10959,U882,Laptop,Electronics,760.71,2,2023-05-26,UK,Apple Pay,3.0
+O11881,U856,Smartphone,Electronics,492.99,2,2023-06-27,Germany,Card,5.0
+O10283,U106,Monitor,Electronics,176.63,3,2023-07-07,Poland,Card,5.0
+O10797,U305,Laptop,Electronics,788.45,4,2023-01-11,UK,PayPal,2.0
+O11626,U348,Tablet,Electronics,309.13,3,2023-07-05,USA,Card,2.0
+O10225,U227,Tablet,Electronics,1305.33,3,2023-08-03,Canada,Card,2.0
+O10026,U584,Camera,Electronics,485.25,4,2023-08-10,Italy,Bank Transfer,2.0
+O11770,U908,Monitor,Electronics,281.09,3,2023-07-15,Italy,Card,2.0
+O10437,U814,Headphones,Electronics,394.53,5,2023-10-11,Italy,Card,3.0
+O11948,U495,Router,Networking,972.49,1,2023-11-23,Italy,Bank Transfer,
+O11388,U604,Tablet,Electronics,92.53,5,2023-08-13,Italy,Apple Pay,2.0
+O10229,U952,Printer,Office,1031.11,2,2023-05-08,,Apple Pay,5.0
+O10037,U324,Mouse,Accessories,628.33,5,2023-08-12,,Google Pay,4.0
+O10749,U780,Smartwatch,Electronics,830.72,4,2023-11-14,Italy,Apple Pay,4.0
+O11045,U819,Speaker,Electronics,110.43,4,2023-09-30,Poland,Apple Pay,1.0
+O11398,U944,Headphones,Electronics,1166.37,4,2023-10-28,France,Bank Transfer,2.0
+O10469,U326,Mouse,Accessories,972.18,2,2023-01-24,Italy,Google Pay,1.0
+O11692,U211,Router,Networking,506.33,3,2023-10-24,France,PayPal,2.0
+O11011,U519,Mouse,Accessories,232.06,4,2023-06-22,Italy,Apple Pay,4.0
+O10687,U489,Laptop,Electronics,336.66,2,2023-06-03,USA,Card,2.0
+O11843,U196,Printer,Office,1294.45,5,2023-09-20,France,Bank Transfer,5.0
+O10639,U489,Printer,Office,1066.33,2,2023-09-21,Poland,Bank Transfer,2.0
+O11712,U162,Speaker,Electronics,1232.71,3,2023-06-26,Poland,PayPal,3.0
+O11218,U256,Router,Networking,49.63,2,2023-07-19,France,Bank Transfer,3.0
+O11158,U547,Router,Networking,1271.57,5,2023-05-28,Spain,Apple Pay,2.0
+O11415,U854,Laptop,Electronics,215.07,3,2023-01-02,USA,Card,2.0
+O11527,U569,Keyboard,Accessories,1060.85,5,2023-06-11,USA,Google Pay,2.0
+O11655,U604,Headphones,Electronics,700.26,2,2023-12-29,France,Card,3.0
+O11300,U805,Speaker,Electronics,265.95,4,2023-02-03,Spain,Google Pay,2.0
+O11822,U189,Mouse,Accessories,1456.59,1,2023-05-25,Canada,Card,3.0
+O10800,U274,Speaker,Electronics,1309.77,3,2023-11-26,USA,PayPal,4.0
+O11603,U227,Laptop,Electronics,1271.36,3,2023-06-08,Italy,PayPal,4.0
+O10160,U976,Monitor,Electronics,919.18,3,2023-11-11,UK,Apple Pay,2.0
+O10956,U984,Printer,Office,155.23,2,2023-07-16,Italy,Apple Pay,3.0
+O11186,U533,Router,Networking,896.49,2,2023-01-10,Italy,Apple Pay,2.0
+O10821,U803,Smartphone,Electronics,1142.58,3,2023-07-30,Germany,Apple Pay,4.0
+O11681,U429,Laptop,Electronics,1282.36,5,2023-01-08,UK,Apple Pay,5.0
+O10877,U538,Smartwatch,Electronics,141.76,2,2023-11-09,,Apple Pay,1.0
+O10913,U346,Smartwatch,Electronics,1079.75,1,2023-08-16,UK,Apple Pay,3.0
+O10152,U982,Smartwatch,Electronics,1126.26,3,2023-11-08,Spain,Card,4.0
+O11870,U945,Tablet,Electronics,1323.7,1,2023-05-15,France,Apple Pay,2.0
+O11776,U146,Camera,Electronics,1077.76,4,2023-11-23,Germany,Google Pay,5.0
+O10509,U125,Smartwatch,Electronics,687.83,2,2023-10-11,Canada,Google Pay,3.0
+O11135,U251,Keyboard,Accessories,510.79,1,2023-06-23,USA,Apple Pay,2.0
+O11250,U900,Headphones,Electronics,285.81,1,2023-02-08,Italy,Google Pay,3.0
+O11683,U277,Smartphone,Electronics,886.69,2,2023-11-09,France,PayPal,1.0
+O10103,U687,Speaker,Electronics,539.35,2,2023-08-27,France,Apple Pay,4.0
+O11445,U708,Speaker,Electronics,1082.74,3,2023-08-17,Poland,PayPal,2.0
+O11443,U125,Smartphone,Electronics,1040.89,3,2023-02-09,UK,PayPal,3.0
+O10586,U389,Laptop,Electronics,909.59,4,2023-06-16,UK,Bank Transfer,2.0
+O11768,U532,Router,Networking,717.62,2,2023-03-30,USA,Bank Transfer,2.0
+O11143,U798,Speaker,Electronics,961.35,4,2023-06-14,Canada,PayPal,4.0
+O10053,U679,Headphones,Electronics,,1,2023-06-10,Spain,Bank Transfer,2.0
+O10151,U177,Tablet,Electronics,1479.66,2,2023-01-28,Germany,Bank Transfer,3.0
+O10403,U899,Laptop,Electronics,157.54,2,2023-08-19,USA,Bank Transfer,1.0
+O11942,U480,Tablet,Electronics,746.11,4,2023-12-25,USA,Bank Transfer,
+O10207,U800,Camera,Electronics,633.64,4,2023-03-04,USA,Google Pay,2.0
+O11894,U176,Monitor,Electronics,1348.39,1,2023-03-25,Canada,Apple Pay,
+O11122,U407,Camera,Electronics,547.73,4,2023-03-14,France,PayPal,3.0
+O11890,U641,Router,Networking,842.18,3,2023-12-15,Germany,Card,4.0
+O10008,U415,Camera,Electronics,116.28,4,2023-03-30,,Card,3.0
+O11014,U499,Speaker,Electronics,395.38,5,2023-05-03,Germany,Apple Pay,2.0
+O11906,U983,Tablet,Electronics,705.82,1,2023-10-08,Germany,Bank Transfer,4.0
+O11060,U763,Smartwatch,Electronics,603.32,4,2023-07-19,Italy,Bank Transfer,3.0
+O10452,U534,Smartphone,Electronics,1393.91,4,2023-10-15,Spain,Card,5.0
+O10253,U912,Mouse,Accessories,559.75,4,2023-07-07,France,PayPal,1.0
+O11327,U831,Printer,Office,776.42,2,2023-01-27,France,Apple Pay,5.0
+O10896,U798,Camera,Electronics,1423.78,3,2023-04-21,Spain,Bank Transfer,3.0
+O11733,U419,Laptop,Electronics,1180.28,1,2023-01-11,,Bank Transfer,1.0
+O10880,U131,Tablet,Electronics,207.01,5,2023-12-03,Spain,Apple Pay,5.0
+O11595,U361,Headphones,Electronics,552.49,3,2023-10-30,USA,PayPal,1.0
+O11888,U360,Laptop,Electronics,1402.72,1,2023-06-06,UK,PayPal,1.0
+O10623,U646,Router,Networking,994.64,1,2023-06-13,Germany,Google Pay,4.0
+O10345,U655,Laptop,Electronics,722.45,1,2023-04-30,Spain,Card,3.0
+O11702,U103,Speaker,Electronics,581.81,4,2023-05-16,Germany,Apple Pay,5.0
+O10262,U245,Headphones,Electronics,544.84,2,2023-11-20,Germany,Apple Pay,2.0
+O11634,U422,Speaker,Electronics,355.57,3,2023-07-17,France,PayPal,1.0
+O11321,U822,Router,Networking,457.22,2,2023-02-26,France,Apple Pay,4.0
+O11438,U970,Tablet,Electronics,1224.14,4,2023-01-11,Italy,,5.0
+O10150,U724,Printer,Office,429.78,1,2023-01-08,UK,Bank Transfer,3.0
+O10472,U840,Monitor,Electronics,731.84,3,2023-08-04,France,Bank Transfer,3.0
+O10640,U750,Keyboard,Accessories,1116.54,5,2023-06-05,Poland,Bank Transfer,5.0
+O11289,U545,Speaker,Electronics,1328.83,2,2023-02-18,UK,Bank Transfer,4.0
+O11882,U564,Speaker,Electronics,862.54,3,2023-07-12,Italy,Apple Pay,2.0
+O10550,U593,Smartphone,Electronics,655.19,3,2023-03-05,USA,Apple Pay,5.0
+O11779,U960,Keyboard,Accessories,527.9,3,2023-07-27,USA,Google Pay,4.0
+O10928,U629,Tablet,Electronics,342.5,4,2023-04-01,Canada,PayPal,1.0
+O10488,U287,Router,Networking,104.77,4,2023-12-30,Spain,PayPal,3.0
+O11811,U603,Printer,Office,1419.75,2,2023-03-04,Canada,Google Pay,2.0
+O11171,U620,Smartwatch,Electronics,1297.13,5,2023-11-30,USA,Bank Transfer,1.0
+O10146,U612,Router,Networking,534.48,5,2023-11-22,Spain,Apple Pay,3.0
+O11704,U750,Smartphone,Electronics,1278.76,4,2023-11-20,Spain,Google Pay,1.0
+O11928,U185,Headphones,Electronics,1317.31,1,2023-08-17,Germany,PayPal,4.0
+O10402,U732,Speaker,Electronics,1111.03,4,2023-11-17,UK,Google Pay,4.0
+O10954,U875,Router,Networking,1102.6,1,2023-02-14,UK,Google Pay,1.0
+O11877,U705,Mouse,Accessories,1260.05,3,2023-01-23,Canada,Apple Pay,1.0
+O10659,U713,Smartwatch,Electronics,66.5,3,2023-04-21,Poland,Bank Transfer,3.0
+O11372,U390,Camera,Electronics,976.54,1,2023-04-09,UK,Apple Pay,4.0
+O10463,U931,Camera,Electronics,431.3,3,2023-08-12,Italy,Apple Pay,5.0
+O11349,U270,Speaker,Electronics,625.59,4,2023-12-14,Poland,Bank Transfer,5.0
+O10186,U510,Keyboard,Accessories,1187.12,1,2023-04-07,UK,Apple Pay,4.0
+O11147,U178,Camera,Electronics,623.51,2,2023-12-01,USA,Apple Pay,
+O11224,U915,Speaker,Electronics,681.16,2,2023-05-29,Canada,PayPal,1.0
+O10608,U628,Tablet,Electronics,1318.09,4,2023-03-11,,Google Pay,5.0
+O10143,U459,Headphones,Electronics,815.15,3,2023-01-08,France,PayPal,4.0
+O10751,U444,Tablet,Electronics,411.13,2,2023-04-08,Germany,PayPal,4.0
+O11534,U834,Smartphone,Electronics,1368.79,3,2023-12-30,Canada,Apple Pay,3.0
+O10981,U163,Laptop,Electronics,258.82,2,2023-01-21,Canada,PayPal,2.0
+O10197,U396,Smartphone,Electronics,647.71,5,2023-10-23,Italy,PayPal,5.0
+O11633,U799,Camera,Electronics,1362.16,5,2023-09-23,USA,PayPal,4.0
+O10883,U807,Headphones,Electronics,193.18,2,2023-10-22,Italy,PayPal,3.0
+O10279,U797,Router,Networking,1326.7,5,2023-04-25,Canada,Card,3.0
+O10293,U803,Smartwatch,Electronics,87.7,2,2023-09-27,USA,PayPal,4.0
+O11823,U632,Camera,Electronics,546.57,1,2023-01-21,USA,Bank Transfer,4.0
+O10400,U614,Tablet,Electronics,21.83,4,2023-05-16,France,PayPal,5.0
+O10122,U823,Router,Networking,1053.28,1,2023-07-20,Italy,Google Pay,4.0
+O11207,U251,Camera,Electronics,375.52,2,2023-07-02,Germany,Card,1.0
+O10202,U574,Camera,Electronics,1298.01,2,2023-07-29,Poland,Card,4.0
+O11462,U229,Speaker,Electronics,1340.85,5,2023-10-24,Spain,Google Pay,1.0
+O10835,U633,Camera,Electronics,341.5,5,2023-03-04,Canada,Card,1.0
+O10246,U826,Router,Networking,1103.69,5,2023-03-22,Spain,Bank Transfer,4.0
+O11439,U657,Router,Networking,248.54,4,2023-04-14,UK,Bank Transfer,4.0
+O11753,U321,Printer,Office,201.27,4,2023-08-06,France,Bank Transfer,4.0
+O11901,U649,Mouse,Accessories,859.21,2,2023-02-09,,Card,1.0
+O11707,U176,Smartphone,Electronics,210.56,3,2023-03-18,UK,Google Pay,2.0
+O11880,U985,Headphones,Electronics,1138.83,1,2023-08-03,France,Apple Pay,2.0
+O11153,U485,Camera,Electronics,113.43,3,2023-11-06,Italy,Google Pay,1.0
+O11661,U716,Printer,Office,787.11,4,2023-10-08,Poland,Apple Pay,2.0
+O11426,U911,Keyboard,Accessories,1448.86,5,2023-01-08,Italy,Card,4.0
+O10384,U245,Speaker,Electronics,1279.74,2,2023-12-11,UK,Apple Pay,4.0
+O11758,U899,Camera,Electronics,946.63,5,2023-12-19,France,Google Pay,4.0
+O10854,U754,Laptop,Electronics,251.19,4,2023-07-12,Canada,Apple Pay,2.0
+O11589,U227,Keyboard,Accessories,1034.1,1,2023-02-13,UK,Apple Pay,4.0
+O10219,U429,Router,Networking,453.86,2,2023-01-07,UK,Card,1.0
+O10641,U527,Router,Networking,212.3,1,2023-06-11,UK,Bank Transfer,3.0
+O10001,U430,Router,Networking,903.34,2,2023-08-03,France,PayPal,3.0
+O10112,U607,Monitor,Electronics,371.51,1,2023-07-10,Germany,PayPal,2.0
+O10698,U705,Speaker,Electronics,732.69,3,2023-04-27,UK,Card,5.0
+O11915,U927,Speaker,Electronics,65.62,1,2023-06-21,France,Apple Pay,2.0
+O10951,U286,Headphones,Electronics,341.1,4,2023-10-23,France,Card,1.0
+O11648,U492,Headphones,Electronics,456.16,4,2023-04-01,Germany,Google Pay,3.0
+O11636,U693,Keyboard,Accessories,1034.85,2,2023-03-12,USA,Bank Transfer,2.0
+O11885,U312,Speaker,Electronics,1013.41,3,2023-07-27,USA,Bank Transfer,4.0
+O11410,U633,Mouse,Accessories,370.54,2,2023-06-18,Germany,Apple Pay,2.0
+O11409,U775,Speaker,Electronics,311.83,5,2023-12-22,Italy,Apple Pay,1.0
+O11533,U508,Monitor,Electronics,124.2,4,2023-04-22,Germany,PayPal,3.0
+O11291,U709,Laptop,Electronics,30.88,3,2023-10-26,USA,Apple Pay,5.0
+O11808,U972,Laptop,Electronics,648.75,3,2023-08-15,Spain,Google Pay,4.0
+O10441,U376,Tablet,Electronics,37.92,5,2023-05-28,Spain,Apple Pay,3.0
+O11520,U313,Laptop,Electronics,566.7,2,2023-01-06,USA,Google Pay,1.0
+O11136,U998,Camera,Electronics,380.49,2,2023-10-11,UK,Card,2.0
+O11715,U163,Headphones,Electronics,186.33,2,2023-02-15,Poland,Bank Transfer,1.0
+O11256,U501,Smartwatch,Electronics,79.09,3,2023-09-03,Germany,Bank Transfer,2.0
+O11863,U760,Mouse,Accessories,953.06,1,2023-10-02,USA,Apple Pay,4.0
+O11631,U663,Tablet,Electronics,1055.3,3,2023-10-19,France,Google Pay,3.0
+O11695,U563,Camera,Electronics,1398.96,4,2023-02-14,USA,PayPal,3.0
+O11397,U594,Tablet,Electronics,68.86,5,2023-04-15,Canada,Card,4.0
+O10663,U520,Mouse,Accessories,133.05,1,2023-06-11,Canada,Card,2.0
+O11835,U889,Router,Networking,1441.86,3,2023-06-23,Italy,Card,3.0
+O11257,U783,Printer,Office,486.99,5,2023-01-30,Spain,Apple Pay,2.0
+O11773,U791,Laptop,Electronics,394.09,3,2023-10-14,Germany,PayPal,4.0
+O11700,U801,Headphones,Electronics,1206.83,3,2023-01-09,Poland,Card,5.0
+O10317,U221,Camera,Electronics,496.7,2,2023-06-23,Canada,PayPal,5.0
+O10648,U970,Speaker,Electronics,91.32,5,2023-10-31,Spain,Google Pay,3.0
+O11434,U923,Tablet,Electronics,113.51,2,2023-09-13,Canada,Google Pay,2.0
+O11479,U924,Mouse,Accessories,1292.71,3,2023-02-17,Poland,Google Pay,
+O10709,U989,Printer,Office,326.47,1,2023-11-20,Italy,Bank Transfer,5.0
+O11382,U708,Router,Networking,,1,2023-09-21,Germany,Card,3.0
+O11282,U947,Smartphone,Electronics,321.16,4,2023-12-17,Canada,Google Pay,4.0
+O10972,U883,Monitor,Electronics,641.05,3,2023-11-27,Germany,PayPal,3.0
+O10627,U474,Mouse,Accessories,793.41,2,2023-05-25,Poland,PayPal,5.0
+O10632,U412,Tablet,Electronics,913.17,5,2023-10-02,,Google Pay,4.0
+O11306,U752,Keyboard,Accessories,449.58,2,2023-06-10,UK,Card,4.0
+O11400,U306,Printer,Office,328.0,3,2023-08-31,Germany,Apple Pay,2.0
+O11408,U827,Laptop,Electronics,1197.46,3,2023-01-22,UK,Google Pay,4.0
+O11248,U150,Speaker,Electronics,1382.39,2,2023-05-25,Poland,Google Pay,4.0
+O10634,U277,Headphones,Electronics,126.23,2,2023-01-14,Poland,Bank Transfer,4.0
+O11254,U675,Tablet,Electronics,98.06,5,2023-10-14,Poland,PayPal,3.0
+O11496,U106,Keyboard,Accessories,272.4,1,2023-03-21,USA,Card,2.0
+O11371,U263,Keyboard,Accessories,623.69,2,2023-04-01,USA,Google Pay,5.0
+O11529,U336,Speaker,Electronics,615.35,2,2023-04-28,Germany,Bank Transfer,4.0
+O11663,U268,Smartwatch,Electronics,256.43,5,2023-10-14,France,PayPal,3.0
+O11354,U973,Printer,Office,787.05,5,2023-07-03,Poland,Card,4.0
+O11925,U344,Printer,Office,584.1,2,2023-02-23,UK,PayPal,5.0
+O11900,U395,Keyboard,Accessories,840.01,3,2023-09-14,USA,Bank Transfer,1.0
+O11643,U435,Smartwatch,Electronics,958.0,2,2023-07-13,Spain,Bank Transfer,2.0
+O11848,U845,Monitor,Electronics,442.16,4,2023-11-17,UK,PayPal,4.0
+O10795,U737,Monitor,Electronics,258.82,1,2023-07-28,UK,Card,2.0
+O10645,U112,Smartwatch,Electronics,26.46,5,2023-08-23,Germany,Google Pay,2.0
+O11012,U539,Keyboard,Accessories,1181.46,5,2023-12-22,France,Apple Pay,4.0
+O11839,U578,Smartphone,Electronics,1283.72,2,2023-02-10,Spain,Bank Transfer,1.0
+O10556,U278,Keyboard,Accessories,1423.2,4,2023-06-06,USA,Bank Transfer,2.0
+O10681,U322,Printer,Office,700.3,2,2023-10-29,France,Card,1.0
+O10577,U183,Router,Networking,926.61,4,2023-09-16,Spain,PayPal,4.0
+O11109,U590,Smartphone,Electronics,970.29,1,2023-05-06,USA,Apple Pay,3.0
+O11266,U187,Camera,Electronics,1048.48,5,2023-10-09,Germany,PayPal,2.0
+O11722,U420,Keyboard,Accessories,1369.13,1,2023-04-21,UK,Bank Transfer,1.0
+O11183,U803,Smartphone,Electronics,191.03,4,2023-03-15,Italy,,5.0
+O10524,U800,Printer,Office,330.43,5,2023-08-15,Italy,Bank Transfer,2.0
+O11059,U698,Smartphone,Electronics,204.03,2,2023-12-12,Poland,Apple Pay,2.0
+O10540,U980,Speaker,Electronics,1465.66,3,2023-03-25,Canada,Apple Pay,1.0
+O11194,U386,Mouse,Accessories,1123.66,2,2023-02-01,Germany,Apple Pay,5.0
+O11678,U142,Smartphone,Electronics,904.47,4,2023-10-17,Italy,,4.0
+O10748,U116,Smartwatch,Electronics,36.99,5,2023-07-21,UK,PayPal,1.0
+O11851,U723,Laptop,Electronics,1272.03,2,2023-07-18,Canada,Bank Transfer,1.0
+O11430,U636,Headphones,Electronics,611.16,3,2023-03-09,Italy,Card,4.0
+O10484,U401,Camera,Electronics,1178.22,3,2023-02-04,Spain,Card,2.0
+O11757,U579,Speaker,Electronics,216.21,4,2023-10-17,Canada,Google Pay,4.0
+O10095,U468,Printer,Office,570.59,5,2023-09-25,Germany,PayPal,4.0
+O11020,U289,Tablet,Electronics,547.76,3,2023-04-20,UK,Apple Pay,3.0
+O10563,U701,Tablet,Electronics,31.34,3,2023-12-19,Canada,Card,3.0
+O11264,U354,Smartphone,Electronics,782.65,2,2023-09-07,USA,Bank Transfer,1.0
+O10742,U500,Printer,Office,474.03,3,2023-05-20,Canada,PayPal,5.0
+O10863,U311,Monitor,Electronics,1207.91,3,2023-06-28,Italy,Card,2.0
+O11598,U392,Camera,Electronics,342.2,4,2023-10-04,USA,Google Pay,5.0
+O11714,U929,Speaker,Electronics,461.26,1,2023-10-28,Italy,Card,3.0
+O11484,U597,Smartphone,Electronics,1287.11,4,2023-05-17,France,PayPal,1.0
+O10891,U407,Router,Networking,868.37,5,2023-07-09,Germany,Card,4.0
+O11577,U716,Smartphone,Electronics,997.3,5,2023-12-15,,PayPal,4.0
+O11038,U765,Tablet,Electronics,130.46,5,2023-11-20,Poland,Apple Pay,4.0
+O10206,U460,Tablet,Electronics,1002.04,1,2023-03-25,France,Card,1.0
+O10392,U775,Camera,Electronics,412.05,5,2023-12-19,Spain,Google Pay,2.0
+O10794,U719,Camera,Electronics,22.95,2,2023-05-14,Spain,PayPal,3.0
+O10870,U291,Headphones,Electronics,431.99,3,2023-04-20,Canada,Apple Pay,2.0
+O10397,U215,Camera,Electronics,845.52,2,2023-10-13,Canada,PayPal,1.0
+O10766,U142,Speaker,Electronics,33.4,4,2023-09-30,UK,PayPal,4.0
+O11841,U680,Smartwatch,Electronics,,1,2023-09-05,UK,Google Pay,
+O11241,U366,Mouse,Accessories,1087.28,5,2023-11-03,Canada,Bank Transfer,4.0
+O11028,U303,Speaker,Electronics,209.92,3,2023-12-30,France,PayPal,3.0
+O11792,U516,Router,Networking,864.06,2,2023-02-28,Germany,PayPal,3.0
+O10642,U182,Printer,Office,1362.66,3,2023-05-21,France,Card,5.0
+O11891,U585,Router,Networking,1125.89,1,2023-11-12,USA,PayPal,4.0
+O10612,U181,Smartphone,Electronics,874.37,3,2023-08-07,Italy,Bank Transfer,3.0
+O11762,U408,Headphones,Electronics,1054.98,1,2023-05-03,France,Bank Transfer,5.0
+O10960,U311,Smartwatch,Electronics,780.86,5,2023-07-21,Italy,Apple Pay,2.0
+O11570,U989,Printer,Office,880.55,5,2023-08-28,Italy,Bank Transfer,5.0
+O10725,U588,Headphones,Electronics,773.16,4,2023-03-22,UK,PayPal,3.0
+O10683,U430,Monitor,Electronics,1018.04,1,2023-08-28,Germany,PayPal,4.0
+O10098,U175,Mouse,Accessories,596.02,4,2023-08-21,USA,Google Pay,3.0
+O10804,U413,Printer,Office,1151.91,3,2023-01-07,France,PayPal,3.0
+O11751,U155,Tablet,Electronics,303.09,4,2023-04-11,UK,Bank Transfer,2.0
+O11597,U938,Smartwatch,Electronics,429.89,5,2023-05-18,Germany,PayPal,3.0
+O10406,U934,Mouse,Accessories,532.56,1,2023-11-27,UK,PayPal,3.0
+O10502,U952,Printer,Office,698.28,1,2023-11-26,Germany,Bank Transfer,1.0
+O11071,U515,Smartwatch,Electronics,727.94,2,2023-05-30,Germany,Bank Transfer,5.0
+O11056,U588,Camera,Electronics,139.31,2,2023-02-08,Italy,Card,5.0
+O10929,U341,Speaker,Electronics,1312.07,3,2023-02-09,France,PayPal,3.0
+O10779,U304,Tablet,Electronics,1181.94,2,2023-07-04,France,,2.0
+O10200,U236,Smartwatch,Electronics,919.68,1,2023-11-05,USA,Card,2.0
+O10134,U870,Tablet,Electronics,1013.93,2,2023-04-28,UK,Bank Transfer,3.0
+O11051,U743,Mouse,Accessories,599.78,2,2023-01-04,France,Card,2.0
+O10040,U297,Speaker,Electronics,,5,2023-04-08,Italy,Google Pay,3.0
+O11017,U409,Smartwatch,Electronics,206.88,4,2023-06-18,USA,Card,5.0
+O10230,U776,Tablet,Electronics,757.17,2,2023-01-17,France,Bank Transfer,4.0
+O11513,U217,Headphones,Electronics,194.65,2,2023-02-19,France,Apple Pay,3.0
+O11796,U512,Router,Networking,1345.77,3,2023-11-12,Italy,Bank Transfer,
+O10378,U135,Mouse,Accessories,1069.39,1,2023-10-25,Italy,Google Pay,3.0
+O10288,U464,Printer,Office,404.51,4,2023-12-10,Canada,Apple Pay,4.0
+O10418,U960,Printer,Office,670.48,4,2023-06-09,UK,Google Pay,1.0
+O11698,U352,Monitor,Electronics,25.41,2,2023-10-08,France,Google Pay,2.0
+O10391,U266,Printer,Office,912.76,2,2023-10-15,Poland,Apple Pay,4.0
+O10592,U174,Printer,Office,358.16,3,2023-03-08,France,Card,1.0
+O11522,U321,Printer,Office,898.37,1,2023-05-15,Germany,Bank Transfer,
+O11162,U315,Smartphone,Electronics,1089.72,1,2023-01-01,UK,Card,2.0
+O11086,U891,Camera,Electronics,81.31,2,2023-01-06,Poland,Bank Transfer,2.0
+O11495,U958,Smartphone,Electronics,1467.93,5,2023-01-11,Germany,Card,4.0
+O10647,U822,Smartwatch,Electronics,461.12,5,2023-12-06,Poland,PayPal,4.0
+O11152,U864,Smartwatch,Electronics,267.84,5,2023-07-11,UK,Bank Transfer,3.0
+O11367,U664,Headphones,Electronics,404.87,5,2023-08-14,Germany,Apple Pay,5.0
+O10520,U208,Monitor,Electronics,,1,2023-03-04,Poland,Bank Transfer,
+O11862,U736,Tablet,Electronics,269.53,3,2023-12-14,Italy,Card,3.0
+O10064,U953,Mouse,Accessories,863.69,2,2023-10-15,UK,Card,3.0
+O11836,U964,Keyboard,Accessories,1372.45,4,2023-05-24,Poland,Google Pay,3.0
+O10014,U395,Router,Networking,150.97,4,2023-07-09,Canada,Google Pay,5.0
+O11180,U576,Laptop,Electronics,301.39,4,2023-12-07,USA,PayPal,1.0
+O11064,U869,Mouse,Accessories,859.0,5,2023-09-28,USA,Card,4.0
+O10492,U718,Smartphone,Electronics,251.45,4,2023-07-03,Poland,PayPal,1.0
+O10379,U475,Smartphone,Electronics,148.82,1,2023-06-21,Germany,Apple Pay,3.0
+O10187,U616,Router,Networking,69.63,2,2023-01-10,Poland,PayPal,5.0
+O10763,U469,Keyboard,Accessories,1015.24,1,2023-11-26,Canada,PayPal,4.0
+O10216,U708,Monitor,Electronics,1203.88,3,2023-02-20,Germany,Google Pay,3.0
+O10791,U570,Laptop,Electronics,1195.84,1,2023-03-17,USA,Bank Transfer,3.0
+O11076,U790,Speaker,Electronics,1261.94,4,2023-06-24,Poland,Card,1.0
+O10878,U188,Headphones,Electronics,639.54,1,2023-10-05,France,PayPal,3.0
+O10337,U417,Smartwatch,Electronics,,5,2023-02-10,,Card,1.0
+O11772,U438,Mouse,Accessories,1314.98,1,2023-06-18,France,Apple Pay,2.0
+O10719,U985,Smartphone,Electronics,205.53,3,2023-02-16,Poland,Bank Transfer,3.0
+O11748,U375,Printer,Office,1497.39,2,2023-02-23,Spain,PayPal,2.0
+O10295,U978,Keyboard,Accessories,117.13,1,2023-05-14,Italy,Apple Pay,3.0
+O11725,U428,Headphones,Electronics,1020.32,5,2023-05-11,Germany,Apple Pay,5.0
+O11016,U241,Camera,Electronics,498.83,5,2023-03-28,Canada,Bank Transfer,1.0
+O11275,U456,Printer,Office,490.5,4,2023-03-31,USA,PayPal,2.0
+O11750,U166,Mouse,Accessories,635.55,5,2023-04-29,Poland,,3.0
+O11485,U903,Smartwatch,Electronics,931.95,4,2023-01-15,Canada,Google Pay,1.0
+O10455,U302,Keyboard,Accessories,347.17,4,2023-08-12,USA,Card,2.0
+O10553,U579,Headphones,Electronics,1305.46,2,2023-08-04,Spain,PayPal,3.0
+O10815,U950,Keyboard,Accessories,,5,2023-11-19,Canada,PayPal,1.0
+O11886,U387,Keyboard,Accessories,1309.03,5,2023-03-18,Spain,Google Pay,3.0
+O10269,U153,Monitor,Electronics,1242.78,5,2023-09-18,Italy,Bank Transfer,
+O10995,U706,Headphones,Electronics,167.33,2,2023-11-02,UK,Bank Transfer,3.0
+O10201,U674,Speaker,Electronics,1185.93,2,2023-10-18,Italy,PayPal,3.0
+O10161,U376,Smartwatch,Electronics,1401.86,5,2023-05-30,Spain,Apple Pay,2.0
+O11579,U495,Camera,Electronics,314.75,2,2023-06-25,Canada,Apple Pay,4.0
+O10729,U436,Speaker,Electronics,1004.42,5,2023-01-03,Poland,Card,4.0
+O10401,U203,Headphones,Electronics,367.27,4,2023-04-25,Canada,Card,1.0
+O10702,U814,Smartwatch,Electronics,170.67,2,2023-11-11,Germany,PayPal,4.0
+O11500,U666,Router,Networking,51.3,3,2023-04-13,Poland,Card,3.0
+O11845,U138,Laptop,Electronics,844.09,2,2023-09-17,USA,Bank Transfer,2.0
+O11795,U771,Router,Networking,177.07,1,2023-09-14,UK,Card,3.0
+O11129,U114,Monitor,Electronics,794.64,1,2023-11-20,Germany,Card,4.0
+O10565,U652,Printer,Office,607.58,5,2023-11-01,USA,Google Pay,5.0
+O11413,U613,Headphones,Electronics,228.08,1,2023-04-11,Canada,Card,4.0
+O11021,U390,Monitor,Electronics,1279.7,3,2023-07-31,Spain,Bank Transfer,5.0
+O11025,U657,Laptop,Electronics,149.72,3,2023-01-20,Germany,PayPal,3.0
+O11411,U658,Camera,Electronics,343.09,4,2023-04-13,Canada,Card,2.0
+O11895,U881,Laptop,Electronics,1131.17,3,2023-03-28,Spain,PayPal,4.0
+O11585,U790,Monitor,Electronics,1313.77,3,2023-10-03,Poland,Google Pay,2.0
+O11104,U857,Mouse,Accessories,672.0,4,2023-04-11,Canada,Bank Transfer,3.0
+O10205,U765,Smartphone,Electronics,,3,2023-05-30,Italy,Bank Transfer,1.0
+O10034,U212,Monitor,Electronics,787.81,1,2023-06-29,Poland,PayPal,1.0
+O10775,U648,Camera,Electronics,1300.49,1,2023-07-01,USA,Apple Pay,4.0
+O10508,U881,Smartwatch,Electronics,1319.19,4,2023-04-02,UK,Bank Transfer,2.0
+O11451,U657,Tablet,Electronics,857.46,1,2023-05-14,Poland,Card,5.0
+O11478,U836,Router,Networking,331.08,1,2023-11-19,Spain,Google Pay,3.0
+O11579,U495,Camera,Electronics,314.75,2,2023-06-25,Canada,Apple Pay,4.0
+O11390,U826,Tablet,Electronics,945.96,4,2023-11-24,Poland,Card,4.0
+O10091,U517,Mouse,Accessories,590.39,2,2023-03-31,France,PayPal,2.0
+O11363,U767,Router,Networking,346.08,3,2023-04-08,USA,,3.0
+O10897,U371,Headphones,Electronics,29.52,4,2023-07-08,Poland,Card,4.0
+O10564,U921,Headphones,Electronics,669.04,2,2023-12-29,Canada,Google Pay,5.0
+O11369,U163,Printer,Office,272.49,4,2023-01-03,UK,Bank Transfer,4.0
+O10776,U544,Keyboard,Accessories,1185.33,5,2023-09-15,Italy,Apple Pay,5.0
+O10241,U316,Speaker,Electronics,529.69,1,2023-05-09,Canada,Apple Pay,4.0
+O10013,U962,Smartphone,Electronics,1410.46,4,2023-09-27,France,Card,5.0
+O10315,U101,Router,Networking,34.46,4,2023-12-19,France,Google Pay,3.0
+O10600,U482,Camera,Electronics,308.04,1,2023-12-07,USA,Bank Transfer,2.0
+O10387,U622,Router,Networking,,3,2023-06-09,France,Apple Pay,2.0
+O11297,U136,Camera,Electronics,480.85,5,2023-05-25,France,,5.0
+O10166,U540,Mouse,Accessories,746.31,3,2023-03-03,France,PayPal,4.0
+O10840,U398,Monitor,Electronics,160.48,4,2023-05-20,Italy,Bank Transfer,5.0
+O10020,U147,Tablet,Electronics,1278.06,4,2023-02-02,France,Apple Pay,3.0
+O10646,U551,Speaker,Electronics,432.09,3,2023-09-30,Poland,Google Pay,4.0
+O11842,U762,Printer,Office,1327.97,5,2023-07-08,UK,Apple Pay,3.0
+O11508,U698,Speaker,Electronics,1499.2,1,2023-04-10,Germany,Google Pay,1.0
+O11154,U696,Camera,Electronics,1001.46,5,2023-12-06,USA,Card,3.0
+O11528,U478,Camera,Electronics,1155.57,2,2023-10-11,Germany,Bank Transfer,2.0
+O10831,U255,Mouse,Accessories,961.83,1,2023-06-22,Spain,Bank Transfer,3.0
+O11267,U643,Keyboard,Accessories,72.12,4,2023-11-25,France,Apple Pay,2.0
+O11590,U951,Smartwatch,Electronics,1424.21,2,2023-12-21,Poland,Google Pay,4.0
+O11899,U800,Tablet,Electronics,350.42,2,2023-12-31,USA,Bank Transfer,
+O10562,U800,Headphones,Electronics,721.95,1,2023-05-21,USA,PayPal,1.0
+O11285,U960,Keyboard,Accessories,502.81,1,2023-09-17,France,Card,4.0
+O10686,U118,Mouse,Accessories,404.12,1,2023-10-01,Italy,Google Pay,2.0
+O10957,U762,Mouse,Accessories,1102.61,3,2023-06-22,Italy,PayPal,5.0
+O10189,U360,Smartphone,Electronics,208.68,5,2023-05-16,Canada,Apple Pay,3.0
+O11806,U858,Smartphone,Electronics,1489.3,4,2023-11-04,Canada,Card,
+O10975,U741,Keyboard,Accessories,558.89,4,2023-09-03,Italy,Apple Pay,1.0
+O10699,U817,Smartwatch,Electronics,,3,2023-12-12,Canada,PayPal,4.0
+O11499,U748,Router,Networking,428.4,1,2023-03-07,Italy,Card,4.0
+O11705,U176,Printer,Office,616.5,4,2023-11-25,France,Bank Transfer,4.0
+O10510,U196,Keyboard,Accessories,837.72,3,2023-02-13,USA,Apple Pay,3.0
+O11082,U289,Smartphone,Electronics,1098.6,1,2023-01-18,Italy,Bank Transfer,3.0
+O10474,U916,Router,Networking,1211.38,4,2023-03-01,Italy,PayPal,4.0
+O11584,U748,Keyboard,Accessories,851.97,5,2023-10-06,USA,PayPal,
+O10856,U474,Printer,Office,109.7,2,2023-04-22,Italy,Card,2.0
+O10747,U813,Router,Networking,1485.74,2,2023-11-15,Spain,Bank Transfer,5.0
+O10252,U372,Router,Networking,1295.82,3,2023-04-13,France,Card,4.0
+O10021,U783,Speaker,Electronics,1009.89,5,2023-04-09,Spain,PayPal,4.0
+O11337,U417,Tablet,Electronics,1475.34,4,2023-11-23,Italy,Apple Pay,1.0
+O10459,U795,Router,Networking,822.51,5,2023-12-19,Spain,,4.0
+O11184,U426,Headphones,Electronics,1233.04,4,2023-06-30,Spain,Bank Transfer,3.0
+O10276,U223,Tablet,Electronics,835.27,3,2023-08-14,Canada,Google Pay,3.0
+O10955,U412,Keyboard,Accessories,707.63,2,2023-05-05,Poland,Bank Transfer,2.0
+O11215,U765,Tablet,Electronics,1093.16,1,2023-02-24,Poland,Card,3.0
+O10385,U786,Laptop,Electronics,241.56,2,2023-03-10,Spain,Google Pay,2.0
+O10805,U628,Router,Networking,640.52,1,2023-03-03,Spain,Google Pay,5.0
+O11437,U797,Smartwatch,Electronics,1291.22,3,2023-07-07,Spain,Google Pay,5.0
+O11515,U394,Camera,Electronics,94.48,4,2023-03-16,Poland,Google Pay,2.0
+O10343,U412,Headphones,Electronics,685.16,3,2023-01-01,Germany,Apple Pay,2.0
+O10769,U395,Smartwatch,Electronics,43.4,3,2023-10-17,Germany,Card,3.0
+O11332,U293,Camera,Electronics,1450.6,1,2023-07-23,Spain,PayPal,3.0
+O11685,U945,Monitor,Electronics,684.3,5,2023-11-22,Canada,Google Pay,5.0
+O10130,U776,Smartphone,Electronics,1371.49,5,2023-02-22,Italy,Google Pay,4.0
+O11687,U513,Camera,Electronics,178.73,5,2023-11-27,Italy,PayPal,
+O10871,U138,Speaker,Electronics,364.11,4,2023-05-18,Spain,Google Pay,3.0
+O11123,U714,Headphones,Electronics,1027.11,4,2023-10-06,UK,PayPal,
+O11396,U308,Camera,Electronics,1279.26,4,2023-03-06,Canada,Card,3.0
+O10087,U790,Tablet,Electronics,1022.21,3,2023-02-02,USA,,5.0
+O11482,U315,Smartphone,Electronics,693.34,1,2023-07-19,UK,PayPal,3.0
+O10330,U503,Tablet,Electronics,1096.21,5,2023-01-24,Poland,Apple Pay,4.0
+O11238,U879,Tablet,Electronics,1192.0,3,2023-09-14,UK,Google Pay,1.0
+O10466,U732,Headphones,Electronics,72.26,1,2023-01-14,Spain,Apple Pay,
+O10121,U839,Router,Networking,413.59,5,2023-02-10,Canada,Google Pay,
+O11638,U389,Headphones,Electronics,117.06,5,2023-03-06,France,Apple Pay,3.0
+O11044,U263,Printer,Office,579.2,5,2023-12-19,USA,Google Pay,2.0
+O11724,U968,Keyboard,Accessories,593.03,3,2023-04-21,Italy,Card,1.0
+O11095,U442,Router,Networking,985.37,5,2023-05-06,Spain,Bank Transfer,3.0
+O11130,U711,Keyboard,Accessories,1347.55,1,2023-12-24,France,Google Pay,3.0
+O11294,U916,Smartwatch,Electronics,1298.19,2,2023-05-04,France,Bank Transfer,1.0
+O10860,U820,Headphones,Electronics,96.94,5,2023-10-23,Germany,Google Pay,4.0
+O11459,U309,Tablet,Electronics,442.4,1,2023-11-19,UK,Google Pay,
+O11126,U733,Camera,Electronics,290.04,1,2023-01-13,Spain,Apple Pay,3.0
