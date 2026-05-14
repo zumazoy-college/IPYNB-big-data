@@ -16,7 +16,7 @@ products = {
     'Sports': ['Yoga Mat', 'Dumbbells', 'Football', 'Running Shoes']
 }
 
-load_dotenv()
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '..', '.env'))
 
 DB_URI = os.getenv('DB_URI')
 

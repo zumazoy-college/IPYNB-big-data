@@ -3,9 +3,16 @@ import plotly.express as px
 import plotly.graph_objects as go
 from dash import Dash, dcc, html, Input, Output
 import dash_bootstrap_components as dbc
+from dotenv import load_dotenv
+import os
+
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '..', '.env'))
+
+csv_path = os.getenv('CSV_PATH', '../ecommerce_dataset_2000.csv')
+csv_full_path = os.path.join(os.path.dirname(__file__), csv_path)
 
 # Загрузка данных
-df = pd.read_csv('ecommerce_dataset_2000.csv')
+df = pd.read_csv(csv_full_path)
 df['order_date'] = pd.to_datetime(df['order_date'])
 df['revenue'] = df['price'] * df['quantity']
 
